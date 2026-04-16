@@ -1,0 +1,357 @@
+{
+  "ai_tech": {
+    "label": "Technology & AI",
+    "icon": "🤖",
+    "color": "#6366f1",
+    "articles": [
+      {
+        "title": "Live Nation says it will fight monopoly suit loss",
+        "url": "https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict",
+        "summary": "After a jury found that Live Nation-Ticketmaster violated antitrust law on several counts, the company warns in a blog post that the verdict \"is not the last word on this matter.\" The company plans to renew a motion for the judge to issue a ruling against the states, claiming that they did not prove…",
+        "source": "The Verge",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776366132.0
+      },
+      {
+        "title": "Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day",
+        "url": "https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale",
+        "summary": "If you’re struggling to get a full night of rest, a good pair of sleep earbuds can help you tune out unwanted distractions. The Ozlo Sleepbuds are one such option, and they’re currently available for $249 ($100 off) in the run-up to Mother’s Day at Amazon and Ozlo’s online storefront, which is easil…",
+        "source": "The Verge",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776366000.0
+      },
+      {
+        "title": "Europe’s Online Age Verification App Is Here",
+        "url": "https://www.wired.com/story/europes-online-age-verification-app-is-here/",
+        "summary": "Available for free to any company that wants to use it, the “completely anonymous” app puts the pressure on porn sites and social media platforms to start blocking access by minors.",
+        "source": "WIRED",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776365660.0
+      },
+      {
+        "title": "The only way to fight deepfakes is by making deepfakes",
+        "url": "https://www.theverge.com/report/913445/deepfake-detection-reality-defender-pindrop-ai",
+        "summary": "I was unsure if my parents would notice that the voice on the other end wasn't mine - or that it was mine, sort of, but it wasn't me. The voice said hello, asked my dad how he was doing, and asked again when he didn't respond quickly enough. \"What is that, Gaby?\" He realized [&#8230;]",
+        "source": "The Verge",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776365100.0
+      },
+      {
+        "title": "The Online Fiction Boom Reimagining China’s History",
+        "url": "https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/",
+        "summary": "Chinese fantasy novels reimagine the past with modern tech and ideology. A new book argues they also help reinforce authoritarian politics.",
+        "source": "WIRED",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776363438.0
+      },
+      {
+        "title": "The Battle for OpenAI’s Soul",
+        "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+        "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
+        "source": "WIRED",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776362400.0
+      },
+      {
+        "title": "The UK Launches Its $675 Million Sovereign AI Fund",
+        "url": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+        "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
+        "source": "WIRED",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776360600.0
+      },
+      {
+        "title": "The nine best ways to protect, customize, and accessorize your MacBook Neo",
+        "url": "https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories",
+        "summary": "The MacBook Neo is poised to be a top-selling laptop in 2026, thanks in large part to its affordable $599 entry price. Despite launching at a more accessible price point than Apple’s $1,099 (though often discounted) 2026 MacBook Air, the Neo makes surprisingly few concessions in terms of build quali…",
+        "source": "The Verge",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776359154.0
+      }
+    ]
+  },
+  "chile_politics": {
+    "label": "Chile & Latin America",
+    "icon": "🌎",
+    "color": "#ef4444",
+    "articles": [
+      {
+        "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
+        "url": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
+        "summary": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuitsThe actor Pedro Pascal is waging a legal battle against a Chilean pisco merchant who has chosen a cheeky name for his brand of the country’s national spirit: Pedro Piscal.David Herrera re…",
+        "source": "Americas | The Guardian",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776339213.0
+      },
+      {
+        "title": "Brazil's former spy chief released from ICE detention",
+        "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bolsonaro ally Alexandre Ramagem was stopped by immigration agents in Orlando, Florida on Monday.",
+        "source": "BBC News",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776337222.0
+      },
+      {
+        "title": "Colombia’s history-making VP blames racism for four years of frustration",
+        "url": "https://www.theguardian.com/world/2026/apr/16/colombia-francia-marquez-vice-president-racism",
+        "summary": "Francia Márquez, the country’s first Black vice-president, opens up about the strains in her relationship with the president and the obstacles she has faced: ‘The Colombian state is a racist state’In the historic centre of Colombia’s capital, Bogotá, a gallery of portraits at the vice-president’s of…",
+        "source": "Americas | The Guardian",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776319250.0
+      },
+      {
+        "title": "After Fighting for the Rights of Workers, Brazil’s President Lula Faces a Labor Abuse Crisis",
+        "url": "https://www.nytimes.com/2026/04/15/world/americas/brazil-lula-workers-rights-labor-abuse.html",
+        "summary": "The dismissal of Brazil’s top labor inspector has landed the leftist government of President Lula, a former union leader, in an awkward spot.",
+        "source": "NYT > World > Americas",
+        "date": "Apr 15, 2026",
+        "date_sort": 1776282376.0
+      },
+      {
+        "title": "Top U.S. Diplomat in Venezuela Leaves Post After Arriving in January",
+        "url": "https://www.nytimes.com/2026/04/15/world/americas/venezuela-us-diplomat-laura-dogu-leaves.html",
+        "summary": "Laura Dogu, who reopened the U.S. Embassy in Venezuela, returns to advising Gen. Dan Caine, the highest ranking U.S. military officer, as the war with Iran continues.",
+        "source": "NYT > World > Americas",
+        "date": "Apr 15, 2026",
+        "date_sort": 1776281377.0
+      },
+      {
+        "title": "US eases sanctions on state-run Venezuelan banks",
+        "url": "https://www.bbc.com/news/articles/cd6llepv9gqo?at_medium=RSS&at_campaign=rss",
+        "summary": "The move will make it easier for the banks to conduct transactions in dollars.",
+        "source": "BBC News",
+        "date": "Apr 15, 2026",
+        "date_sort": 1776255868.0
+      },
+      {
+        "title": "‘We took clothes, a blanket and a dog’: the people displaced by a dam 50 years ago, but still fighting for justice",
+        "url": "https://www.theguardian.com/global-development/2026/apr/15/people-displaced-50-years-ago-ava-guarani-community-itaipu-dam-paraguay-brazil-border",
+        "summary": "The Avá-Guarani community have received little recognition of the destruction of their land by the Itaipu dam on the Paraguay-Brazil borderWhen the Indigenous leader Teodoro Alves was a young child in his community of Ocoy-Jacutinga, on the border between Paraguay and Brazil, a river ran through it.…",
+        "source": "Americas | The Guardian",
+        "date": "Apr 15, 2026",
+        "date_sort": 1776254427.0
+      },
+      {
+        "title": "The Blue Trail review – hypnotic tale of older-people rebellion in the Amazon in chilling dystopian fable",
+        "url": "https://www.theguardian.com/film/2026/apr/15/the-blue-trail-review-hypnotic-tale-of-older-people-rebellion-in-the-amazon-in-chilling-dystopian-fable",
+        "summary": "A cross between road movie and sci-fi, this is a subversive and bittersweet story about a 77-year-old who refuses to be shipped off to a ‘colony’Gabriel Mascaro’s wayward, intriguing feature is a kind of road movie, or maybe river movie – the Amazon, in fact, in Brazil’s remote north-west. It is a f…",
+        "source": "Americas | The Guardian",
+        "date": "Apr 15, 2026",
+        "date_sort": 1776240002.0
+      }
+    ]
+  },
+  "environment": {
+    "label": "Environment & Climate",
+    "icon": "🌿",
+    "color": "#22c55e",
+    "articles": [
+      {
+        "title": "Great White Sharks Are Overheating",
+        "url": "https://insideclimatenews.org/news/16042026/great-white-sharks-ocean-warming/",
+        "summary": "The evolutionary edge that fueled great white shark dominance for millions of years could soon become its greatest downfall. The ocean’s most iconic predators maintain warmer body temperatures than the surrounding seawater and are paying an increasingly steep price for it. As the oceans warm due to …",
+        "source": "Inside Climate News",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776362400.0
+      },
+      {
+        "title": "Puerto Rico’s rainforest center reborn: in pictures",
+        "url": "https://www.theguardian.com/environment/gallery/2026/apr/16/puerto-rico-el-yunque-rainforest-in-pictures",
+        "summary": "After two devastating hurricanes, El Yunque national forest has built a new visitors center that hosts a vibrant arts festival Continue reading...",
+        "source": "Environment | The Guardian",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776344402.0
+      },
+      {
+        "title": "MSC’s ‘blue tick’ scheme creates illusion of ethically sourced fish, study claims",
+        "url": "https://www.theguardian.com/environment/2026/apr/16/mscs-blue-tick-scheme-creates-illusion-of-ethically-sourced-fish-study-claims",
+        "summary": "Sustainability certification by Marine Stewardship Council may be obscuring labour abuses in seafood supply chains, say researchersThe Marine Stewardship Council (MSC), which operates a “blue tick” scheme to indicate the sustainability of fish, has been accused of creating an “illusion” of ethical s…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776337257.0
+      },
+      {
+        "title": "‘I don’t go out’: Vermont’s undocumented dairy workers live in fear after immigration raids",
+        "url": "https://www.theguardian.com/environment/2026/apr/16/vermont-dairy-workers-immigration",
+        "summary": "A tenfold increase in the number of immigration detentions has compelled many workers to barely leave the farms where they work‘They want to keep denying us our rights’: workers in Vermont’s $5.4bn dairy industry fight for basic labor protectionsLast spring, José Edilberto Molina-Aguilar was resting…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776337256.0
+      },
+      {
+        "title": "In the footsteps of Linnaeus: scientists share their passion for species from tiny wasps to hairy plants – in pictures",
+        "url": "https://www.theguardian.com/environment/gallery/2026/apr/16/in-the-footsteps-of-linnaeus-scientists-share-their-passion-for-species-from-tiny-wasps-to-hairy-plants-in-pictures",
+        "summary": "For his project ‘De Oförtrutna’ (The Relentless), photographer Christer Björkman pictured Swedish scientists working in the spirit of Carl Linnaeus, the botanist who created the modern taxonomic system that classifies organisms based on appearance. Each scientist brought to the shoot a book and an i…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776337256.0
+      },
+      {
+        "title": "Ammonia pollution hotspots found in areas of UK with most pig and poultry factory farms",
+        "url": "https://www.theguardian.com/environment/2026/apr/16/ammonia-pollution-hotspots-uk-pig-poultry-factory-farms",
+        "summary": "Map reveals most severe concentrations of ammonia emissions, which are dangerous to health and environmentAmmonia pollution hotspots have been identified in areas with some of the greatest numbers of intensive pig and poultry farms in Britain, research has revealed.A new map for the first time revea…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776319249.0
+      },
+      {
+        "title": "Thursday briefing: What it will take for Britain to break up with natural gas",
+        "url": "https://www.theguardian.com/world/2026/apr/16/thursday-briefing-breaking-up-britains-love-affair-with-natural-gas",
+        "summary": "In today’s newsletter: The economic fortunes of the UK are intertwined with the price of the costly fuel – so why are we so slow to ditch it?The economic fortunes of the UK are intertwined with the price of natural gas. It is an uncomfortable fact that we have all had to wrestle with in recent years…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776318379.0
+      },
+      {
+        "title": "How South Korea plans to use the Iran crisis to spur a renewables revolution",
+        "url": "https://www.theguardian.com/world/2026/apr/16/south-korea-solar-power-renewables-revolution",
+        "summary": "Energy crisis unfolding in Middle East has added political urgency, and more funding, to transform South Korea’s solar industryIn Guyang-ri, a farming village of 70 households about 90 minutes south-east of Seoul, people gather for communal free lunches six days a week. The meals are funded by the v…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 15, 2026",
+        "date_sort": 1776308968.0
+      }
+    ]
+  },
+  "science": {
+    "label": "Science",
+    "icon": "🔬",
+    "color": "#0ea5e9",
+    "articles": [
+      {
+        "title": "BBC Inside Science",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct977g?at_medium=RSS&at_campaign=rss",
+        "summary": "What was learnt from the Chernobyl disaster and how has it shaped UK energy production?",
+        "source": "BBC News",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776355200.0
+      },
+      {
+        "title": "Scientists remove “zombie” cells and reverse liver damage in mice",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260416071947.htm",
+        "summary": "A rogue set of “zombie” immune cells may be driving aging and fatty liver disease by flooding tissues with inflammation. Researchers found these cells accumulate with age and high cholesterol—and can make up most of the liver’s immune cells in older mice. When scientists removed them, liver damage w…",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776340784.0
+      },
+      {
+        "title": "Fool’s gold isn’t so foolish: Scientists find hidden treasure in pyrite",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260416032604.htm",
+        "summary": "Researchers have discovered lithium hidden in pyrite within ancient shale rocks—an unexpected find that could reshape how we source this critical battery material. It raises the possibility of extracting lithium from existing waste, reducing the need for new mining.",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776339139.0
+      },
+      {
+        "title": "Common IBS medications linked to higher risk of death in major study",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260415043617.htm",
+        "summary": "A massive, nearly 20-year study tracking over 650,000 Americans with irritable bowel syndrome is raising new questions about the long-term safety of common treatments. Researchers found that some widely used medications—including antidepressants and certain antidiarrheal drugs—were linked to a small…",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776331185.0
+      },
+      {
+        "title": "How low should blood pressure go? Science has the answer",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260416025024.htm",
+        "summary": "New research suggests that aiming for a lower blood pressure target may deliver bigger heart health benefits than previously thought. Using large datasets and simulation models, scientists found that keeping systolic blood pressure below 120 mm Hg could reduce the risk of heart attack, stroke, and h…",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776322560.0
+      },
+      {
+        "title": "Charity fundraises to bring back wildlife",
+        "url": "https://www.bbc.com/news/articles/cx244w72v18o?at_medium=RSS&at_campaign=rss",
+        "summary": "The trust is aiming to raise £40K to create wildlife-rich public spaces.",
+        "source": "BBC News",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776316380.0
+      },
+      {
+        "title": "This cheap drug could help people with type 1 diabetes use less insulin",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260415043628.htm",
+        "summary": "A surprising new clinical trial has revealed that metformin—a cheap, century-old drug widely used for type 2 diabetes—may help people with type 1 diabetes in an unexpected way. While researchers initially hoped it would reduce insulin resistance, they instead found it allows patients to use about 12…",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Apr 15, 2026",
+        "date_sort": 1776311427.0
+      },
+      {
+        "title": "Venus’s impenetrable haze could be made of cosmic dust",
+        "url": "https://www.nature.com/articles/d41586-026-01212-5",
+        "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01212-5Modelling suggests that the layer beneath the planet’s acidic clouds is comprised of particles from outer space.",
+        "source": "Nature",
+        "date": "Apr 15, 2026",
+        "date_sort": 1776297600.0
+      }
+    ]
+  },
+  "airnguru": {
+    "label": "Aviation & Revenue Management",
+    "icon": "✈️",
+    "color": "#f59e0b",
+    "articles": [
+      {
+        "title": "JetBlue’s Debt Could Reach $9 Billion This Year & United Isn’t Interested In It, Founder Says",
+        "url": "https://simpleflying.com/jetblue-debt-9-billion-this-year-united-isnt-interested-founder/",
+        "summary": "JetBlue's founder warns of mounting financial strain as the airline's debt could climb towards $9 billion, raising questions about its stability.",
+        "source": "Simple Flying",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776362527.0
+      },
+      {
+        "title": "Policy Change? What’s The Latest With American Airlines & Carry-On Bags?",
+        "url": "https://simpleflying.com/policy-change-american-airlines-carry-on-bags-latest/",
+        "summary": "A closer look a the recent changes to the carrier's boarding process.",
+        "source": "Simple Flying",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776360626.0
+      },
+      {
+        "title": "5 Reasons The United States Navy Continues To Operate The F/A-18 Super Hornet",
+        "url": "https://simpleflying.com/5-reasons-us-navy-operate-fa-18-super-hornet/",
+        "summary": "The case for the Rhino in 2026.",
+        "source": "Simple Flying",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776358818.0
+      },
+      {
+        "title": "Lufthansa Cuts Fleet as Fuel Shock Bites",
+        "url": "https://airinsight.com/lufthansa-cuts-fleet-as-fuel-shock-bites/",
+        "summary": "The Iran conflict has pushed JetA prices to more than double their pre-war levels. For Lufthansa Group, that is the The post Lufthansa Cuts Fleet as Fuel Shock Bites appeared first on .",
+        "source": "",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776358704.0
+      },
+      {
+        "title": "Air Travel Demand Holds, But Cracks Are Emerging",
+        "url": "https://airinsight.com/air-travel-demand-holds-but-cracks-are-emerging/",
+        "summary": "Delta&#8217;s Ed Bastian made a comment during the recent earnings call that caused a bit of a flutter: “The premium The post Air Travel Demand Holds, But Cracks Are Emerging appeared first on .",
+        "source": "",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776357830.0
+      },
+      {
+        "title": "Alaska's Largest Airport Unleashes 20-Year Plan For Faster Security Checkpoints & More Gates",
+        "url": "https://simpleflying.com/alaskas-largest-airport-unleashes-20-year-plan-for-faster-security-checkpoints-more-gates/",
+        "summary": "Forecast data show the airport would handle 57.7% more passengers and 72% more cargo in 2042 than it did in 2022!",
+        "source": "Simple Flying",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776349107.0
+      },
+      {
+        "title": "The Airlines With The World’s Longest Legroom In Business Class In 2026",
+        "url": "https://simpleflying.com/airlines-legroom-business-class-2026/",
+        "summary": "A flat bed used to be enough. In 2026, the world's best business class cabins are competing for something far more valuable than that.",
+        "source": "Simple Flying",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776348019.0
+      },
+      {
+        "title": "Why The McDonnell Douglas MD-11 Had Such An Insane Landing Speed",
+        "url": "https://simpleflying.com/mcdonnell-douglas-md-11-insane-landing-speed-why/",
+        "summary": "A closer look at the design choices that made the MD-11 a challenging aircraft to land.",
+        "source": "Simple Flying",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776346256.0
+      }
+    ]
+  }
+}
