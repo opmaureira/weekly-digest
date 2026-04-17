@@ -10,6 +10,39 @@ CHILE_TZ = ZoneInfo("America/Santiago")
 LOOKBACK_DAYS = 7  # collect news from last 7 days
 
 TOPICS = {
+        "airnguru": {
+        "label": "Aviation & Revenue Management",
+        "icon": "✈️",
+        "color": "#f59e0b",
+        "keywords": ["airline", "aviation", "revenue management", "RM", "pricing",
+                     "ancillary", "ancillaries", "fare", "yield", "IATA",
+                     "airport", "aircraft", "fleet", "passenger", "OTA",
+                     "dynamic pricing", "seat", "booking", "GDS", "NDC",
+                     "Amadeus", "Sabre", "LATAM", "Aeromexico", "Copa",
+                     "low-cost carrier", "LCC", "loyalty", "frequent flyer"],
+        "feeds": [
+            "https://simpleflying.com/feed/",
+            "https://www.ch-aviation.com/news.php?rss=1",
+            "https://feeds.reuters.com/reuters/businessNews",
+            "https://www.theguardian.com/business/airlines/rss",
+            "https://www.aviationweek.com/rss.xml",
+            "https://airinsight.com/feed/",
+        ],
+    },
+    "chile_politics": {
+        "label": "Chile & Latin America",
+        "icon": "🌎",
+        "color": "#ef4444",
+        "keywords": ["Chile", "Boric", "Kast", "Latin America", "Latam", "South America",
+                     "Argentina", "Peru", "Brazil",
+                     "Mercosur", "Santiago", "Patagonia", "Pucón", "Pucon", "Villarrica", "Araucanía"],
+        "feeds": [
+            "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+            "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
+            "https://feeds.reuters.com/reuters/worldNews",
+            "https://www.theguardian.com/world/americas/rss",
+        ],
+    },
     "ai_tech": {
         "label": "Technology & AI",
         "icon": "🤖",
@@ -17,7 +50,7 @@ TOPICS = {
         "keywords": ["artificial intelligence", "AI", "machine learning", "LLM",
                      "GPT", "neural network", "deep learning", "OpenAI", "Anthropic",
                      "Google DeepMind", "tech", "software", "robotics", "semiconductor",
-                     "chip", "quantum", "cybersecurity"],
+                     "chip", "quantum", "cybersecurity", "Claude"],
         "feeds": [
             "https://feeds.feedburner.com/TechCrunch",
             "https://www.technologyreview.com/feed/",
@@ -27,20 +60,6 @@ TOPICS = {
             "https://www.wired.com/feed/rss",
         ],
     },
-    "chile_politics": {
-        "label": "Chile & Latin America",
-        "icon": "🌎",
-        "color": "#ef4444",
-        "keywords": ["Chile", "Boric", "Latin America", "Latam", "South America",
-                     "Argentina", "Peru", "Colombia", "Brazil", "Venezuela",
-                     "Mercosur", "Santiago", "Patagonia"],
-        "feeds": [
-            "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-            "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
-            "https://feeds.reuters.com/reuters/worldNews",
-            "https://www.theguardian.com/world/americas/rss",
-        ],
-    },
     "environment": {
         "label": "Environment & Climate",
         "icon": "🌿",
@@ -48,7 +67,7 @@ TOPICS = {
         "keywords": ["climate", "environment", "carbon", "emissions", "renewable",
                      "solar", "wind energy", "biodiversity", "deforestation",
                      "ocean", "glacier", "pollution", "sustainability", "COP",
-                     "fossil fuel", "green", "ecology"],
+                     "fossil fuel", "green", "ecology", "regenerativo", "ambiental", "ecológico"],
         "feeds": [
             "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
             "https://www.theguardian.com/environment/rss",
@@ -71,28 +90,25 @@ TOPICS = {
             "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
         ],
     },
-    "airnguru": {
-        "label": "Aviation & Revenue Management",
-        "icon": "✈️",
-        "color": "#f59e0b",
-        "keywords": ["airline", "aviation", "revenue management", "RM", "pricing",
-                     "ancillary", "ancillaries", "fare", "yield", "IATA",
-                     "airport", "aircraft", "fleet", "passenger", "OTA",
-                     "dynamic pricing", "seat", "booking", "GDS", "NDC",
-                     "Amadeus", "Sabre", "LATAM", "Aeromexico", "Copa",
-                     "low-cost carrier", "LCC", "loyalty", "frequent flyer"],
-        "feeds": [
-            "https://simpleflying.com/feed/",
-            "https://www.ch-aviation.com/news.php?rss=1",
-            "https://feeds.reuters.com/reuters/businessNews",
-            "https://www.theguardian.com/business/airlines/rss",
-            "https://www.aviationweek.com/rss.xml",
-            "https://airinsight.com/feed/",
-        ],
-    },
+
 }
 
-MAX_ARTICLES_PER_TOPIC = 8
+MAX_ARTICLES_PER_TOPIC = 6
+
+IMPORTANT_KEYWORDS = [
+    "breakthrough", "major", "announces", "launch", "crisis",
+    "record", "deal", "investment", "regulation", "law",
+    "election", "growth", "decline"
+]
+
+SOURCE_PRIORITY = {
+    "Reuters": 3,
+    "BBC": 3,
+    "New York Times": 3,
+    "The Guardian": 2,
+    "TechCrunch": 2,
+    "MIT Technology Review": 2,
+}
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -129,12 +145,34 @@ def clean_summary(entry):
     summary = re.sub(r"\s+", " ", summary).strip()
     return summary[:300] + ("…" if len(summary) > 300 else "")
 
-
+def score_article(entry, source):
+    text = (entry.get("title", "") + " " + entry.get("summary", "")).lower()
+    
+    score = 0
+    
+    # Base: siempre suma algo
+    score += 1
+    
+    # Keywords importantes
+    for kw in IMPORTANT_KEYWORDS:
+        if kw in text:
+            score += 2
+    
+    # Prioridad de fuente
+    for s, val in SOURCE_PRIORITY.items():
+        if s.lower() in source.lower():
+            score += val
+    
+    return score
+    
 # ── Main fetch ────────────────────────────────────────────────────────────────
 
 def fetch_topic(topic_key, config):
     seen_urls = set()
     articles = []
+
+    chile_articles = []
+    latam_articles = []
 
     for feed_url in config["feeds"]:
         try:
@@ -155,20 +193,41 @@ def fetch_topic(topic_key, config):
             if not matches_keywords(entry, config["keywords"]):
                 continue
 
-            seen_urls.add(url)
-            articles.append({
+            source = feed.feed.get("title", feed_url)
+            text = (entry.get("title", "") + " " + entry.get("summary", "")).lower()
+
+            article = {
                 "title": entry.get("title", "No title"),
                 "url": url,
                 "summary": clean_summary(entry),
-                "source": feed.feed.get("title", feed_url),
+                "source": source,
                 "date": dt.astimezone(CHILE_TZ).strftime("%b %d, %Y"),
                 "date_sort": dt.timestamp(),
-            })
+                "score": score_article(entry, source),
+            }
 
-    # sort newest first, cap
-    articles.sort(key=lambda a: a["date_sort"], reverse=True)
+            seen_urls.add(url)
+
+            # 👇 separación Chile vs LatAm SOLO para ese topic
+            if topic_key == "chile_politics":
+                if any(word in text for word in ["chile", "boric", "kast", "santiago", "araucanía", "pucon", "villarrica"]):
+                    chile_articles.append(article)
+                else:
+                    latam_articles.append(article)
+            else:
+                articles.append(article)
+
+    # 👇 lógica especial Chile
+    if topic_key == "chile_politics":
+        chile_articles.sort(key=lambda a: (a["score"], a["date_sort"]), reverse=True)
+        latam_articles.sort(key=lambda a: (a["score"], a["date_sort"]), reverse=True)
+
+        final_articles = chile_articles[:3] + latam_articles[:3]
+        return final_articles
+
+    # 👇 resto de topics con score
+    articles.sort(key=lambda a: (a["score"], a["date_sort"]), reverse=True)
     return articles[:MAX_ARTICLES_PER_TOPIC]
-
 
 def fetch_all():
     result = {}
