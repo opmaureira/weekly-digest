@@ -1,72 +1,62 @@
 {
-  "ai_tech": {
-    "label": "Technology & AI",
-    "icon": "🤖",
-    "color": "#6366f1",
+  "airnguru": {
+    "label": "Aviation & Revenue Management",
+    "icon": "✈️",
+    "color": "#f59e0b",
     "articles": [
       {
-        "title": "The ‘AI is inevitable’ trap",
-        "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
-        "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a bunch of things this week that made us wonder: have we reached the peak of AI, [&#8230;]",
-        "source": "The Verge",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776432274.0
+        "title": "Norse Atlantic Raises Cash, Weighs Sale or Merger",
+        "url": "https://airinsight.com/norse-atlantic-launches-strategic-review-sale-merger-or-partnership-not-ruled-out/",
+        "summary": "Norse Atlantic has raised $110 million in gross proceeds through a rights issue to strengthen the airline’s financial position. At The post Norse Atlantic Raises Cash, Weighs Sale or Merger appeared first on .",
+        "source": "",
+        "date": "Apr 15, 2026",
+        "date_sort": 1776249858.0,
+        "score": 3
       },
       {
-        "title": "The creative software industry has declared war on Adobe",
-        "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
-        "summary": "All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come. The Creative Cloud provider's suite of design tools have been considered the industry standard for decades - despite unpopular decisions to fully embrace generative AI and ab…",
-        "source": "The Verge",
+        "title": "Air Canada Cuts All Flights To The US's Busiest International Airport: Here's The Twist",
+        "url": "https://simpleflying.com/air-canada-cuts-flights-to-us-busiest-international-airport-heres-why/",
+        "summary": "Air Canada is dropping JFK, but New York flying is actually rising elsewhere.",
+        "source": "Simple Flying",
         "date": "Apr 17, 2026",
-        "date_sort": 1776430276.0
+        "date_sort": 1776457543.0,
+        "score": 1
       },
       {
-        "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-        "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a co…",
-        "source": "MIT Technology Review",
+        "title": "How The Airbus A380’s Staircase Differs From The Boeing 747’s",
+        "url": "https://simpleflying.com/airbus-a380s-staircase-differs-boeing-747s/",
+        "summary": "Curious how the Airbus A380's staircase differs from the much older Boeing 747?",
+        "source": "Simple Flying",
         "date": "Apr 17, 2026",
-        "date_sort": 1776427800.0
+        "date_sort": 1776456130.0,
+        "score": 1
       },
       {
-        "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-        "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-        "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
-        "source": "Biz & IT - Ars Technica",
+        "title": "FAA Set To Cap Summer Flights At Chicago O’Hare To Reduce Delays, Cuts 300 Flights",
+        "url": "https://simpleflying.com/faa-cap-summer-flights-chicago-ohare-reduce-delays-cuts-300-flights/",
+        "summary": "Chicago's O'Hare International Airport is set to see a significant reduction in summer flights, with over 300 flights cut.",
+        "source": "Simple Flying",
         "date": "Apr 17, 2026",
-        "date_sort": 1776423650.0
+        "date_sort": 1776456074.0,
+        "score": 1
       },
       {
-        "title": "Canyon Spectral:ON CF 8 Electric Mountain Bike: Beginner-Friendly, Under $5K",
-        "url": "https://www.wired.com/review/canyon-spectralon-cf-8/",
-        "summary": "The Spectral:ON CF 8 is a do-it-all, full-carbon electric mountain bike with an 800-Wh battery and under $4,500. Yes, please!",
-        "source": "WIRED",
+        "title": "United Airlines Goes Huge: 101,000 New Summer Flights Added To 2026 Schedule",
+        "url": "https://simpleflying.com/united-airlines-goes-huge-101000-new-summer-flights-added-to-schedule/",
+        "summary": "This summer, United is set to offer a well over a million services this summer. Find out why.",
+        "source": "Simple Flying",
         "date": "Apr 17, 2026",
-        "date_sort": 1776423600.0
+        "date_sort": 1776456018.0,
+        "score": 1
       },
       {
-        "title": "The Influencers Normalizing Not Having Sex",
-        "url": "https://www.wired.com/story/the-influencers-normalizing-not-having-sex/",
-        "summary": "From a celibate porn star to an asexual ex-Mormon, the internet is full of people who are abstaining from sex—and it’s not just incels.",
-        "source": "WIRED",
+        "title": "Hard Landing? Here's Why It Isn't Always An Accident",
+        "url": "https://simpleflying.com/hard-landing-why-isnt-always-accident/",
+        "summary": "Known as a positive landing, sometimes an aircraft just has to be grounded quickly.",
+        "source": "Simple Flying",
         "date": "Apr 17, 2026",
-        "date_sort": 1776421800.0
-      },
-      {
-        "title": "The case for fixing everything",
-        "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-        "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both coun…",
-        "source": "MIT Technology Review",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776420000.0
-      },
-      {
-        "title": "How robots learn: A brief, contemporary history",
-        "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-        "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the…",
-        "source": "MIT Technology Review",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776420000.0
+        "date_sort": 1776456018.0,
+        "score": 1
       }
     ]
   },
@@ -76,36 +66,31 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Rainwater harvesting and eco-gardens: how one Colombian neighbourhood helped a whole city plan for climate change",
-        "url": "https://www.theguardian.com/global-development/2026/apr/17/rainwater-harvesting-and-eco-gardens-how-one-colombian-neighbourhood-helped-a-whole-city-plan-for-climate-change",
-        "summary": "From rainwater harvesting to tree nurseries, communities in Medellín are taking steps to increase their landslide and flooding resilienceIn his home on a steep hillside in the neighbourhood of Golondrinas in Medellín, Róbinson Velásquez Cartagena stands proudly next to two large tanks of water – a r…",
-        "source": "Americas | The Guardian",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776420028.0
-      },
-      {
-        "title": "Trump Tries to Stop Drug Smuggling From South America. Drug Smugglers Invent New Tactics.",
-        "url": "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html",
-        "summary": "Authorities are using drones, troops and A.I. to crack down on cocaine smuggling. But gangs are finding new ways to move record amounts of drugs across the world.",
-        "source": "NYT > World > Americas",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776416412.0
-      },
-      {
-        "title": "Colombia convenes climate ‘coalition of the willing’ to break global fossil fuel deadlock",
-        "url": "https://www.theguardian.com/environment/2026/apr/17/colombia-convenes-climate-coalition-of-the-willing-to-break-global-fossil-fuel-deadlock",
-        "summary": "Santa Marta conference born out of frustration at Cop summits, where renewable progress has been stalled by major pollutersEverybody knows fossil fuels cause climate breakdown, but until recently, mention of them was all but erased from the annual UN climate summits. Last year, two weeks of discussi…",
-        "source": "Americas | The Guardian",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776412824.0
-      },
-      {
         "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
         "url": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
         "summary": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuitsThe actor Pedro Pascal is waging a legal battle against a Chilean pisco merchant who has chosen a cheeky name for his brand of the country’s national spirit: Pedro Piscal.David Herrera re…",
         "source": "Americas | The Guardian",
         "date": "Apr 16, 2026",
-        "date_sort": 1776339213.0
+        "date_sort": 1776339213.0,
+        "score": 5
+      },
+      {
+        "title": "Peru election drags into second day after ballot delivery fiasco",
+        "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Technical and logistical problems mean Peruvians choosing a new president and members of Congress continue to vote on Monday.",
+        "source": "BBC News",
+        "date": "Apr 13, 2026",
+        "date_sort": 1776085632.0,
+        "score": 6
+      },
+      {
+        "title": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
+        "url": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
+        "summary": "A controversial law to ease protections for the glaciers has passed, opening the doors for mining.",
+        "source": "BBC News",
+        "date": "Apr 10, 2026",
+        "date_sort": 1775872976.0,
+        "score": 6
       },
       {
         "title": "Brazil's former spy chief released from ICE detention",
@@ -113,31 +98,69 @@
         "summary": "Bolsonaro ally Alexandre Ramagem was stopped by immigration agents in Orlando, Florida on Monday.",
         "source": "BBC News",
         "date": "Apr 16, 2026",
-        "date_sort": 1776337222.0
+        "date_sort": 1776337222.0,
+        "score": 4
+      }
+    ]
+  },
+  "ai_tech": {
+    "label": "Technology & AI",
+    "icon": "🤖",
+    "color": "#6366f1",
+    "articles": [
+      {
+        "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
+        "url": "https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale",
+        "summary": "From OLED TVs to smartphones, Best Buy’s Upgrade Sale has slashed prices on all kinds of tech, including a wide range of Apple devices. We’ve rounded up the best deals from the sale here, but one of the most notable is the AirPods Pro 3, which are down to $199.99 ($50 off) at Best Buy, [&#8230;]",
+        "source": "The Verge",
+        "date": "Apr 17, 2026",
+        "date_sort": 1776438470.0,
+        "score": 3
       },
       {
-        "title": "Colombia’s history-making VP blames racism for four years of frustration",
-        "url": "https://www.theguardian.com/world/2026/apr/16/colombia-francia-marquez-vice-president-racism",
-        "summary": "Francia Márquez, the country’s first Black vice-president, opens up about the strains in her relationship with the president and the obstacles she has faced: ‘The Colombian state is a racist state’In the historic centre of Colombia’s capital, Bogotá, a gallery of portraits at the vice-president’s of…",
-        "source": "Americas | The Guardian",
+        "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+        "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a co…",
+        "source": "MIT Technology Review",
+        "date": "Apr 17, 2026",
+        "date_sort": 1776427800.0,
+        "score": 3
+      },
+      {
+        "title": "The case for fixing everything",
+        "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+        "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both coun…",
+        "source": "MIT Technology Review",
+        "date": "Apr 17, 2026",
+        "date_sort": 1776420000.0,
+        "score": 3
+      },
+      {
+        "title": "How robots learn: A brief, contemporary history",
+        "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+        "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the…",
+        "source": "MIT Technology Review",
+        "date": "Apr 17, 2026",
+        "date_sort": 1776420000.0,
+        "score": 3
+      },
+      {
+        "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+        "url": "https://www.wired.com/story/foreo-promo-code/",
+        "summary": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
+        "source": "WIRED",
+        "date": "Apr 17, 2026",
+        "date_sort": 1776402000.0,
+        "score": 3
+      },
+      {
+        "title": "The UK Launches Its $675 Million Sovereign AI Fund",
+        "url": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+        "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
+        "source": "WIRED",
         "date": "Apr 16, 2026",
-        "date_sort": 1776319250.0
-      },
-      {
-        "title": "After Fighting for the Rights of Workers, Brazil’s President Lula Faces a Labor Abuse Crisis",
-        "url": "https://www.nytimes.com/2026/04/15/world/americas/brazil-lula-workers-rights-labor-abuse.html",
-        "summary": "The dismissal of Brazil’s top labor inspector has landed the leftist government of President Lula, a former union leader, in an awkward spot.",
-        "source": "NYT > World > Americas",
-        "date": "Apr 15, 2026",
-        "date_sort": 1776282376.0
-      },
-      {
-        "title": "Top U.S. Diplomat in Venezuela Leaves Post After Arriving in January",
-        "url": "https://www.nytimes.com/2026/04/15/world/americas/venezuela-us-diplomat-laura-dogu-leaves.html",
-        "summary": "Laura Dogu, who reopened the U.S. Embassy in Venezuela, returns to advising Gen. Dan Caine, the highest ranking U.S. military officer, as the war with Iran continues.",
-        "source": "NYT > World > Americas",
-        "date": "Apr 15, 2026",
-        "date_sort": 1776281377.0
+        "date_sort": 1776360600.0,
+        "score": 3
       }
     ]
   },
@@ -147,68 +170,58 @@
     "color": "#22c55e",
     "articles": [
       {
-        "title": "Average new UK electric car price is now lower than petrol vehicles",
-        "url": "https://www.theguardian.com/environment/2026/apr/17/new-uk-electric-car-price-petrol-ev-autotrader",
-        "summary": "Autotrader says average EV cost is £785 cheaper, in an important milestone in the move away from fossil fuelsBusiness live – latest updatesThe price of new battery electric cars has fallen below petrol cars in the UK for the first time, according to the car sales website Autotrader, in a significant…",
+        "title": "Inside a jubilant DC conference where ‘the climate deniers are in charge now’",
+        "url": "https://www.theguardian.com/us-news/2026/apr/14/dc-conference-climate-deniers-trump-epa-chief",
+        "summary": "Trump’s EPA chief Lee Zeldin’s presence shows how much influence climate deniers now have, experts sayAs scientists confirmed that March was the United States’ most abnormally hot month in recorded history, dozens of climate deniers gathered to promote misinformation and tout their newfound influenc…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 14, 2026",
+        "date_sort": 1776171657.0,
+        "score": 7
+      },
+      {
+        "title": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
+        "url": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
+        "summary": "A controversial law to ease protections for the glaciers has passed, opening the doors for mining.",
+        "source": "BBC News",
+        "date": "Apr 10, 2026",
+        "date_sort": 1775872976.0,
+        "score": 6
+      },
+      {
+        "title": "Supreme court sides with oil and gas firms in Louisiana coastal damage fight",
+        "url": "https://www.theguardian.com/us-news/2026/apr/17/supreme-court-oil-and-gas-louisiana",
+        "summary": "8-0 ruling gives companies new day in federal court after firms including Chevron ordered to pay millions for cleanupThe supreme court handed a win on Friday to oil and gas companies fighting lawsuits over coastal land loss and environmental degradation in Louisiana.The 8-0 procedural decision gives…",
         "source": "Environment | The Guardian",
         "date": "Apr 17, 2026",
-        "date_sort": 1776429328.0
+        "date_sort": 1776444019.0,
+        "score": 5
       },
       {
-        "title": "Coral reefs are nearing extinction. 2026 must mark a turning point | Jason Momoa",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/17/coral-reefs-extinction-global-warming-jason-momoa",
-        "summary": "At 1.5C of global warming, up to 90% of coral reefs could be lost. The next few months could be a defining momentWhere I come from – Hawai’i – the reef isn’t just something you look at. It’s part of us. It feeds our families, protects our shores, and lives at the center of our culture. In our storie…",
+        "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
+        "url": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+        "summary": "Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis areaA new lawsuit accuses Elon Musk’s artificial intelligence company of illegally spewing toxic pollutants into residential neighborhoods on the border of Tennessee and Mississippi.The…",
         "source": "Environment | The Guardian",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776427244.0
+        "date": "Apr 15, 2026",
+        "date_sort": 1776286687.0,
+        "score": 5
       },
       {
-        "title": "Pollution Persists in the Florida Everglades Despite 40-Year Restoration Effort, Report Says",
-        "url": "https://insideclimatenews.org/news/17042026/florida-everglades-water-quality/",
-        "summary": "Florida’s fragile Everglades are not on track to meet a new water quality standard set to take effect next month, even after nearly 40 years of costly restoration work aimed at addressing pollution in the river of grass, according to a new report. The Water Quality Based-Effluent Limitation (WQBEL) …",
-        "source": "Inside Climate News",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776416400.0
-      },
-      {
-        "title": "To Battle Climate Change, a Baltimore Church Turns to Nature",
-        "url": "https://insideclimatenews.org/news/17042026/baltimore-church-uses-green-space-to-combat-flooding/",
-        "summary": "BALTIMORE—Every drop of rain rushing over pavement is a dilemma, picking up pollution and sweeping it into streams. And in this low-lying city on the water, it doesn’t take much to trigger flooding. But around one Northeast Baltimore church, plenty of raindrops slow down.&#160; Faith Presbyterian Ch…",
-        "source": "Inside Climate News",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776416100.0
-      },
-      {
-        "title": "Week in wildlife: a puffin bromance, blushing terrapins and goslings galore",
-        "url": "https://www.theguardian.com/environment/gallery/2026/apr/16/week-in-wildlife-puffin-rescue-and-a-goslings-first-gander",
-        "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+        "title": "Are we heading for ‘super El Niño’ – and what could we expect?",
+        "url": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer",
+        "summary": "Experts say climate pattern could supercharge extreme weather events and push temperatures to record highsThere is a high likelihood that the phenomenon known as “El Niño” will emerge this summer – and it could be exceptionally strong. A so-called “super El Niño” could supercharge extreme weather ev…",
         "source": "Environment | The Guardian",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776409202.0
+        "date": "Apr 14, 2026",
+        "date_sort": 1776193428.0,
+        "score": 5
       },
       {
-        "title": "More than 15m oysters to be released in the North Sea for UK rewilding project",
-        "url": "https://www.theguardian.com/environment/2026/apr/17/more-than-15m-oysters-to-be-released-in-the-north-sea-for-uk-rewilding-project",
-        "summary": "Exclusive: Experts say scheme will help repair damaged marine ecosystems while sequestering large amounts of carbonMore than 15m juvenile oysters are to be released into the North Sea in one of the biggest rewilding projects in UK waters.The scheme, which will use a unique rearing process, hopes to …",
+        "title": "Surrounded by windfarms but out of work: the reality of the green jobs boom on England’s east coast",
+        "url": "https://www.theguardian.com/environment/2026/apr/14/windfarm-reality-green-jobs-boom-englands-east-coast-unemployment",
+        "summary": "The government hails the ‘green revolution’ as a solution to economic decline, but some young jobseekers say the rhetoric does not match their experienceOn paper, Jake Snell, 19, sounds like the perfect candidate for a role in the UK’s burgeoning green energy sector. He has high grades in maths and …",
         "source": "Environment | The Guardian",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776405623.0
-      },
-      {
-        "title": "Minnesota’s Boundary Waters Just Lost Protection From Mining",
-        "url": "https://insideclimatenews.org/news/16042026/minnesotas-boundary-waters-just-lost-protection-from-mining/",
-        "summary": "WASHINGTON—Despite hours of impassioned arguments from Sen. Tina Smith, the U.S. Senate ended a Biden-era moratorium on mining in the Boundary Waters Canoe Area Wilderness watershed. The vote on Thursday removed a major hurdle for Twin Metals, which has battled to extract nickel, copper and other me…",
-        "source": "Inside Climate News",
-        "date": "Apr 16, 2026",
-        "date_sort": 1776371944.0
-      },
-      {
-        "title": "Environmental Groups Take Trump Administration’s ‘God Squad’ to Court",
-        "url": "https://insideclimatenews.org/news/16042026/environmental-groups-sue-trump-god-squad/",
-        "summary": "Environmental groups are suing the Trump administration over its decision to exempt oil and gas drilling in the Gulf of Mexico from complying with the Endangered Species Act, a move they say threatens both the coastline region and the law designed to protect threatened plants and animals. Lawsuits a…",
-        "source": "Inside Climate News",
-        "date": "Apr 16, 2026",
-        "date_sort": 1776371050.0
+        "date": "Apr 14, 2026",
+        "date_sort": 1776150003.0,
+        "score": 5
       }
     ]
   },
@@ -218,52 +231,31 @@
     "color": "#0ea5e9",
     "articles": [
       {
-        "title": "A “lost world” beneath the North Sea was once full of forests",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260416071959.htm",
-        "summary": "Long before rising seas swallowed Doggerland beneath the North Sea, this lost landscape may have been a surprisingly lush and life-friendly haven. New DNA evidence reveals that forests of oak, elm, and hazel were already thriving there more than 16,000 years ago—thousands of years earlier than scien…",
+        "title": "Graphene just defied a fundamental law of physics",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260415042152.htm",
+        "summary": "In a major breakthrough, scientists have observed electrons in graphene flowing like a nearly frictionless liquid, defying a core law of physics. This exotic quantum state not only reveals new fundamental behavior but could also unlock powerful future technologies.",
         "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776430018.0
+        "date": "Apr 15, 2026",
+        "date_sort": 1776241617.0,
+        "score": 7
       },
       {
-        "title": "This chain of atoms can detect electric fields with stunning precision",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260416071956.htm",
-        "summary": "A new quantum sensing approach could dramatically improve how scientists measure low-frequency electric fields, a task that has long been limited by bulky setups and blurry resolution. Instead of relying on traditional vapor-cell methods, researchers developed a system using chains of highly sensiti…",
+        "title": "95% of people carry this virus and scientists may have just found how to stop it",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
+        "summary": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block the virus from attaching to and entering …",
         "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776426992.0
+        "date": "Apr 15, 2026",
+        "date_sort": 1776238010.0,
+        "score": 5
       },
       {
-        "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
-        "summary": "Scientists have uncovered a surprising twist in how bacteria share genes—including those that spread antibiotic resistance. Tiny virus-like particles called gene transfer agents (GTAs), once ancient viral invaders, have been repurposed by bacteria into delivery systems that shuttle DNA between neigh…",
+        "title": "How aggressive breast cancer turns off the immune system",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
+        "summary": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress the immune system, scientists aim to identify new biomarkers that reveal how the cancer evolves. Us…",
         "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776426245.0
-      },
-      {
-        "title": "Why is it so hard to change your mind?",
-        "url": "https://www.newscientist.com/article/2522927-why-is-it-so-hard-to-change-your-mind/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "summary": "Changing your opinion can be difficult, and it’s sometimes even seen as a flaw. But research shows being open-minded has a host of benefits. Columnist David Robson finds there are a few simple ways to encourage yourself to withstand the discomfort that gets in the way of mental flexibility",
-        "source": "New Scientist - Home",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776416434.0
-      },
-      {
-        "title": "Can sparkling water boost metabolism and help with weight loss?",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260417001658.htm",
-        "summary": "Sparkling water is often seen as a simple, healthy drink—but could it also help with weight loss? New research suggests it may slightly boost how the body processes blood sugar and energy. However, the effect is very small, meaning it’s no substitute for diet and exercise.",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776410278.0
-      },
-      {
-        "title": "Scientists supercharge immune cells to destroy cancer more effectively",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260416072001.htm",
-        "summary": "Researchers have found a way to make cancer-killing immune cells more powerful and precise. By adding specific signaling components, they boosted the cells’ readiness to attack tumors. Surprisingly, briefly suppressing the cells with a drug before use made them even more effective later. The approac…",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 16, 2026",
-        "date_sort": 1776396487.0
+        "date": "Apr 12, 2026",
+        "date_sort": 1775991808.0,
+        "score": 5
       },
       {
         "title": "Artemis commander tells BBC about 'powerful' moment crater named after his late wife",
@@ -271,86 +263,26 @@
         "summary": "Reid Wiseman’s two daughters were in Nasa’s mission control room for the naming of the “Carroll” crater in honour of the commander’s late wife.",
         "source": "BBC News",
         "date": "Apr 16, 2026",
-        "date_sort": 1776389932.0
+        "date_sort": 1776389932.0,
+        "score": 4
       },
       {
-        "title": "Briefing Chat: Penguins pick up PFAS pollution",
-        "url": "https://www.nature.com/articles/d41586-026-01263-8",
-        "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01263-8Nature staff discuss some of the week's top science news.",
-        "source": "Nature",
+        "title": "BBC Inside Science",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct977g?at_medium=RSS&at_campaign=rss",
+        "summary": "What was learnt from the Chernobyl disaster and how has it shaped UK energy production?",
+        "source": "BBC News",
         "date": "Apr 16, 2026",
-        "date_sort": 1776384000.0
-      }
-    ]
-  },
-  "airnguru": {
-    "label": "Aviation & Revenue Management",
-    "icon": "✈️",
-    "color": "#f59e0b",
-    "articles": [
-      {
-        "title": "Split-Second Call At Louisville: UPS Pilot Aborts Landing As Runway Safety Violated",
-        "url": "https://simpleflying.com/ups-aborted-landing-louisville-runway-incursion/",
-        "summary": "A close call at a hub where UPS has recently experienced tragedy.",
-        "source": "Simple Flying",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776436072.0
+        "date_sort": 1776369600.0,
+        "score": 4
       },
       {
-        "title": "5 Aircraft That Defined The Evolution Of Widebody Jets",
-        "url": "https://simpleflying.com/5-aircraft-that-defined-the-evolution-of-widebody-jets/",
-        "summary": "How widebody airliners have evolved into today's capable machines.",
-        "source": "Simple Flying",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776434417.0
-      },
-      {
-        "title": "The 6 Largest US Navy Bases & Their Strategic Roles",
-        "url": "https://simpleflying.com/largest-usnavy-bases-strategic-roles/",
-        "summary": "The largest Navy bases may also host the Marine Corps, with functions varying from training to hosting all the service's electronic attack aircraft.",
-        "source": "Simple Flying",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776432618.0
-      },
-      {
-        "title": "Boeing 777-9 Brakes Reach 2,500 Degrees In Critical Aborted Takeoff Test",
-        "url": "https://simpleflying.com/video/boeing-777-9-brakes-reach-2-500-degrees-in-critical-aborted-takeoff-test/",
-        "summary": "Boeing has successfully conducted a critical rejected takeoff (RTO) test for its new 777-9, demonstrating the aircraft’s braking performance under extreme conditions. The test took place in early 2026 at a dedicated high-speed runway facility and simulated a maximum-weight, high-speed abort scenario…",
-        "source": "Simple Flying",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776429023.0
-      },
-      {
-        "title": "Federal Aviation Administration Mandates Delays For Nashville International Airport Arrivals",
-        "url": "https://simpleflying.com/faa-mandates-nashville-airport-arrival-delays/",
-        "summary": "Inbound traffic was restricted for six hours yesterday.",
-        "source": "Simple Flying",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776426648.0
-      },
-      {
-        "title": "Spirit Burns Cash as Fuel Spike Threatens Plan",
-        "url": "https://airinsight.com/spirit-airlines-february-report/",
-        "summary": "Spirit Airlines , which has been rumored to be nearing the end of its road amid rising jet fuel costs, The post Spirit Burns Cash as Fuel Spike Threatens Plan appeared first on .",
-        "source": "",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776425140.0
-      },
-      {
-        "title": "Massive 24-Hour Flights: Singapore Airlines' 10 New Ultra-Long Routes In 2026 [Updated]",
-        "url": "https://simpleflying.com/massive-24-hour-flights-singapore-airlines-10-new-ultra-long-routes-in-2026/",
-        "summary": "When nonstop and one-stop flights are combined, these are the carrier's longest links this year.",
-        "source": "Simple Flying",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776423677.0
-      },
-      {
-        "title": "The Airlines Most Disrupted By Middle East Airspace Closures In 2026",
-        "url": "https://simpleflying.com/airlines-most-disrupted-middle-east-airspace-closures-2026/",
-        "summary": "The collateral damage in the Gulf from Operation Epic Fury.",
-        "source": "Simple Flying",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776423677.0
+        "title": "Charity fundraises to bring back wildlife",
+        "url": "https://www.bbc.com/news/articles/cx244w72v18o?at_medium=RSS&at_campaign=rss",
+        "summary": "The trust is aiming to raise £40K to create wildlife-rich public spaces.",
+        "source": "BBC News",
+        "date": "Apr 16, 2026",
+        "date_sort": 1776316380.0,
+        "score": 4
       }
     ]
   }
