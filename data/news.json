@@ -5,30 +5,30 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "Alaska Airlines’ Europe Launch Triggers Delta Response",
-        "url": "https://simpleflying.com/video/alaska-airlines-europe-launch-triggers-delta-response/",
-        "summary": "Alaska Airlines is preparing to cross a symbolic frontier. On April 28, 2026, the Seattle-based carrier will launch its first-ever nonstop flight to Europe, linking Seattle and Rome with a Boeing 787-9 Dreamliner inherited through its merger with Hawaiian Airlines. What could have been a straightfor…",
+        "title": "Fuel Price Crisis: This Major Airline Just Cut 20,000 Summer Flights",
+        "url": "https://simpleflying.com/lufthansa-group-cuts-20000-flights-fuel-price-rises/",
+        "summary": "The cuts, which apply until October, will impact short-haul flights.",
         "source": "Simple Flying",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776769217.0,
+        "date": "Apr 22, 2026",
+        "date_sort": 1776859973.0,
+        "score": 5
+      },
+      {
+        "title": "Nigeria’s JetA Supply Threatens Airlines",
+        "url": "https://airinsight.com/nigerias-jeta-supply-threatens-airlines/",
+        "summary": "Today, the Nigerian Federal Government convened an emergency summit with the Airline Operators of Nigeria (AON) and major energy marketers.",
+        "source": "AirInsight",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776866442.0,
         "score": 3
       },
       {
-        "title": "A Look At The Salaries Of Long-Haul Flight Attendants In 2026",
-        "url": "https://simpleflying.com/salaries-long-haul-flight-attendants-2026/",
-        "summary": "This analysis will focus on major US airlines.",
+        "title": "Flight Alerts: 21 Exciting New Nonstop Routes Launching This Week",
+        "url": "https://simpleflying.com/notable-airline-routes-205/",
+        "summary": "See which notable examples made the list this week...",
         "source": "Simple Flying",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776762078.0,
-        "score": 3
-      },
-      {
-        "title": "'Systemic Lapses': Frontier Slams American's Safety Culture In 2nd Collision Lawsuit",
-        "url": "https://simpleflying.com/frontier-slams-american-safety-culture-lawsuit/",
-        "summary": "As the legal battle between Frontier and American intensifies.",
-        "source": "Simple Flying",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776750384.0,
+        "date": "Apr 22, 2026",
+        "date_sort": 1776866418.0,
         "score": 3
       },
       {
@@ -41,21 +41,21 @@
         "score": 3
       },
       {
-        "title": "Is It True That Composite Airframes Are Harder To Repair Than Aluminum?",
-        "url": "https://simpleflying.com/true-composite-airframes-harder-repair-aluminum/",
-        "summary": "More and more aircraft are rolling off the production line with a primarily composite structure. Are these harder to repair than traditional aluminum?",
+        "title": "The Wait Is Over: Boeing Reveals 2026 Certification For MAX 7 & 10 Jets",
+        "url": "https://simpleflying.com/boeing-737-max-7-10-certification-2026/",
+        "summary": "The time has nearly come for customers of the smallest and largest MAX variants.",
         "source": "Simple Flying",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776780078.0,
+        "date": "Apr 22, 2026",
+        "date_sort": 1776870842.0,
         "score": 1
       },
       {
-        "title": "Calling 'Vader 01': The Boeing 747-8 Destined To Be Air Force One Begins Test Flights",
-        "url": "https://simpleflying.com/boeing-747-8-air-force-one-begins-test-flights/",
-        "summary": "Have you been tracking the exclusive quadjet?",
-        "source": "Simple Flying",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776778953.0,
+        "title": "United Reports Q1 2026 Profit",
+        "url": "https://airinsight.com/united-reports-q1-2026-profit/",
+        "summary": "United Airlines reported a Q1 adjusted diluted earnings per share of $1.19, within the initial guidance range of $1,00 to",
+        "source": "AirInsight",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776869757.0,
         "score": 1
       }
     ]
@@ -65,15 +65,6 @@
     "icon": "🌎",
     "color": "#ef4444",
     "articles": [
-      {
-        "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
-        "url": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
-        "summary": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuitsThe actor Pedro Pascal is waging a legal battle against a Chilean pisco merchant who has chosen a cheeky name for his brand of the country’s national spirit: Pedro Piscal.David Herrera re…",
-        "source": "Americas | The Guardian",
-        "date": "Apr 16, 2026",
-        "date_sort": 1776339213.0,
-        "score": 5
-      },
       {
         "title": "‘We feel unsafe in our own homes’: women in Brazil’s favelas learn to fight back amid rising violence",
         "url": "https://www.theguardian.com/global-development/2026/apr/21/brazilian-women-self-defence-violence-martial-arts-classes-gender-based-attacks",
@@ -109,57 +100,57 @@
     "color": "#6366f1",
     "articles": [
       {
-        "title": "Splatoon Raiders hits the Switch 2 in July",
-        "url": "https://www.theverge.com/games/915655/splatoon-raiders-switch-2-release-date-trailer",
-        "summary": "The squid kids will be back this summer. Nintendo announced this morning that Splatoon Raiders, a single-player spinoff of its competitive shooter series, will launch on the Nintendo Switch 2 on July 23rd. It'll be the first new entry in the series since Splatoon 3 in 2022. In addition to the date, …",
-        "source": "The Verge",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776777054.0,
-        "score": 3
-      },
-      {
-        "title": "The SpaceX IPO is a trillion-dollar gamble on the future of space",
-        "url": "https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch",
-        "summary": "The great SpaceX IPO is looming, allowing outside investors - including regular Joe Schmoes, or retail investors - to buy a stake in one of the buzziest and most controversial companies on the planet for the first time. Depending on who you ask, it's either the best investment opportunity you'll see…",
-        "source": "The Verge",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776775100.0,
-        "score": 3
-      },
-      {
-        "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
-        "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For…",
+        "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+        "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype…",
         "source": "MIT Technology Review",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776773400.0,
-        "score": 3
+        "date": "Apr 22, 2026",
+        "date_sort": 1776859800.0,
+        "score": 5
       },
       {
-        "title": "Yelp is making its AI chatbot way more useful",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
-        "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more re…",
+        "title": "Now Meta will track what employees do on their computers to train its AI agents",
+        "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+        "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystroke…",
         "source": "The Verge",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776769200.0,
+        "date": "Apr 22, 2026",
+        "date_sort": 1776867755.0,
         "score": 3
       },
       {
-        "title": "The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’",
-        "url": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/",
-        "summary": "Devin Stone turned punchy legal explainers into a YouTube empire. Now he’s warning that the sheer volume of Trump administration scandals is distorting reality itself.",
+        "title": "AI needs a strong data fabric to deliver business value",
+        "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+        "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t…",
+        "source": "MIT Technology Review",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776852306.0,
+        "score": 3
+      },
+      {
+        "title": "There is no nature anymore",
+        "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+        "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scien…",
+        "source": "MIT Technology Review",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776852000.0,
+        "score": 3
+      },
+      {
+        "title": "Los Angeles is finally going underground",
+        "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+        "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolley…",
+        "source": "MIT Technology Review",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776852000.0,
+        "score": 3
+      },
+      {
+        "title": "Valvoline Coupons & Promo Codes for April 2026",
+        "url": "https://www.wired.com/story/valvoline-coupons/",
+        "summary": "Unlock significant savings on Valvoline oil changes and auto services. We've gathered all the top Valvoline coupons and promo codes for April 2026, including deals on full synthetic oil changes and other essential maintenance.",
         "source": "WIRED",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776767400.0,
-        "score": 3
-      },
-      {
-        "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-        "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly excit…",
-        "source": "MIT Technology Review",
-        "date": "Apr 20, 2026",
-        "date_sort": 1776687000.0,
+        "date": "Apr 22, 2026",
+        "date_sort": 1776837600.0,
         "score": 3
       }
     ]
@@ -169,6 +160,42 @@
     "icon": "🌿",
     "color": "#22c55e",
     "articles": [
+      {
+        "title": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
+        "url": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
+        "summary": "NSW and Queensland governments ‘severely underdelivered’ on promised infrastructure to improve water flows, independent review findsGet our breaking news email, free app or daily news podcastTwo state governments have drastically underdelivered more than $160m in infrastructure measures to improve r…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776870031.0,
+        "score": 5
+      },
+      {
+        "title": "How Ireland’s war-driven fuel blockades revealed the true cost of Europe’s oil addiction",
+        "url": "https://www.theguardian.com/world/2026/apr/22/how-irelands-war-driven-fuel-blockades-revealed-the-true-cost-of-europes-oil-addiction",
+        "summary": "Donald Trump’s conflict with Iran could speed the EU’s green revolution – if panicking governments can hold their nerve on clean energy• Don’t get This Is Europe delivered to your inbox? Sign up hereA surge in demand for electric vehicles across Europe may be evidence of what George Monbiot greeted …",
+        "source": "Environment | The Guardian",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776869262.0,
+        "score": 5
+      },
+      {
+        "title": "Stern warning: one man’s mission to clear the rotting boats poisoning Cornwall’s creeks",
+        "url": "https://www.theguardian.com/environment/2026/apr/22/mission-clear-rotting-boats-poisoning-cornwall-creeks-fibreglass-pollution",
+        "summary": "Unwanted vessels left to decay release fibreglass shards into the water, harming marine life. Steve Green – with his trusty van Cecil – is determined to clean things upSteve Green, a boat engineer from Cornwall, was pulled over by the police just before Christmas. He was driving a decrepit-looking V…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776855622.0,
+        "score": 5
+      },
+      {
+        "title": "‘Petro-masculinity’ is destroying the planet. Can eco-masculinity help save it? | Andrew Boyd",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/22/masculinity-gender-climate-crisis",
+        "summary": "It’s crucial to understanding how gender is affecting our ability to rally behind a shared ecological visionFeminist influencer Liz Plank opens her groundbreaking book For the Love of Men with a bold statement: “There is no greater threat to humankind than our current definitions of masculinity.” Sh…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776852024.0,
+        "score": 5
+      },
       {
         "title": "Labour’s great green energy plan could be a legacy as vital as the NHS | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/21/labours-green-energy-plan-legacy-nhs-ed-miliband",
@@ -186,42 +213,6 @@
         "date": "Apr 20, 2026",
         "date_sort": 1776712949.0,
         "score": 5
-      },
-      {
-        "title": "Democrats urged to link clean energy to affordability as Iran war hikes up prices",
-        "url": "https://www.theguardian.com/environment/2026/apr/20/democrats-clean-energy-iran-war-affordability",
-        "summary": "Climate leaders say Democrats need to extol clean energy as a way to cut costs for Americans as war roils oil marketsDemocrats should get louder in championing clean energy’s affordability and resilience from global shocks, according to some of the party’s leading voices on the climate.As the Iran w…",
-        "source": "Environment | The Guardian",
-        "date": "Apr 20, 2026",
-        "date_sort": 1776693658.0,
-        "score": 5
-      },
-      {
-        "title": "The Guardian view on Japan’s cherry blossom: when spring slips out of time | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/19/the-guardian-view-on-japans-cherry-blossom-when-spring-slips-out-of-time",
-        "summary": "A 1,200-year dataset shows the ‘peak bloom’ is arriving earlier. Global heating is unsettling nature’s rhythms – and their cultural meaningA picture posted on social media last April by Prof Yasuyuki Aono of a spreadsheet, with its blank row for 2026, carries a quiet poignancy. Prof Aono died before…",
-        "source": "Environment | The Guardian",
-        "date": "Apr 19, 2026",
-        "date_sort": 1776615947.0,
-        "score": 5
-      },
-      {
-        "title": "Supreme court sides with oil and gas firms in Louisiana coastal damage fight",
-        "url": "https://www.theguardian.com/us-news/2026/apr/17/supreme-court-oil-and-gas-louisiana",
-        "summary": "8-0 ruling gives companies new day in federal court after firms including Chevron ordered to pay millions for cleanupThe supreme court handed a win on Friday to oil and gas companies fighting lawsuits over coastal land loss and environmental degradation in Louisiana.The 8-0 procedural decision gives…",
-        "source": "Environment | The Guardian",
-        "date": "Apr 17, 2026",
-        "date_sort": 1776444019.0,
-        "score": 5
-      },
-      {
-        "title": "Can a nature corridor increase London's biodiversity?",
-        "url": "https://www.bbc.com/news/articles/cy81ewwnwwqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The nature corridor would stretch from the Lee Valley Regional Park to the Thames via Tower Hamlets.",
-        "source": "BBC News",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776747823.0,
-        "score": 4
       }
     ]
   },
@@ -230,15 +221,6 @@
     "icon": "🔬",
     "color": "#0ea5e9",
     "articles": [
-      {
-        "title": "Graphene just defied a fundamental law of physics",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260415042152.htm",
-        "summary": "In a major breakthrough, scientists have observed electrons in graphene flowing like a nearly frictionless liquid, defying a core law of physics. This exotic quantum state not only reveals new fundamental behavior but could also unlock powerful future technologies.",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 15, 2026",
-        "date_sort": 1776241617.0,
-        "score": 7
-      },
       {
         "title": "Breakthrough discovery reveals hidden oxygen flow deep inside catalysts",
         "url": "https://www.sciencedaily.com/releases/2026/04/260420014736.htm",
@@ -258,15 +240,6 @@
         "score": 5
       },
       {
-        "title": "95% of people carry this virus and scientists may have just found how to stop it",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
-        "summary": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block the virus from attaching to and entering …",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 15, 2026",
-        "date_sort": 1776238010.0,
-        "score": 5
-      },
-      {
         "title": "Artemis II Moon mission lifts children's ambitions",
         "url": "https://www.bbc.com/news/articles/cx2dgp0k309o?at_medium=RSS&at_campaign=rss",
         "summary": "Seeing Artemis has made space careers a reality for children, says a woman who promotes STEM jobs.",
@@ -276,13 +249,31 @@
         "score": 4
       },
       {
-        "title": "Artemis commander tells BBC about 'powerful' moment crater named after his late wife",
-        "url": "https://www.bbc.com/news/videos/cq6jpp2e5d6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Reid Wiseman’s two daughters were in Nasa’s mission control room for the naming of the “Carroll” crater in honour of the commander’s late wife.",
+        "title": "BBC Inside Science",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct977g?at_medium=RSS&at_campaign=rss",
+        "summary": "What was learnt from the Chernobyl disaster and how has it shaped UK energy production?",
         "source": "BBC News",
         "date": "Apr 16, 2026",
-        "date_sort": 1776389932.0,
+        "date_sort": 1776369600.0,
         "score": 4
+      },
+      {
+        "title": "This donut-shaped discovery just shattered a 150-year math rule",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm",
+        "summary": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured locally but are actually different overall. For decades, researchers suspected this might be possible but couldn’t prove it—until now. The breakthrough…",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776836953.0,
+        "score": 3
+      },
+      {
+        "title": "Decade-long warming accelerates antibiotic resistance in grassland soils",
+        "url": "https://www.nature.com/articles/s41586-026-10413-x",
+        "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10413-xDecade-long warming increased soil antibiotic-resistance genes by about 24%, enriching resistant microbes and gene transfer, driven by selection for thermal tolerance and linked traits, with implications for public health.",
+        "source": "Nature",
+        "date": "Apr 21, 2026",
+        "date_sort": 1776816000.0,
+        "score": 3
       }
     ]
   }
