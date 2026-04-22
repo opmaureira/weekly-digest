@@ -41,6 +41,9 @@ TOPICS = {
             "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
             "https://feeds.reuters.com/reuters/worldNews",
             "https://www.theguardian.com/world/americas/rss",
+            "https://www.cooperativa.cl/noticias/site/tax/port/all/rss___1.xml",
+            "https://www.elmostrador.cl/feed/",
+            "https://www.latercera.com/arcio/rss/",
         ],
     },
     "ai_tech": {
@@ -96,9 +99,16 @@ TOPICS = {
 MAX_ARTICLES_PER_TOPIC = 6
 
 IMPORTANT_KEYWORDS = [
+    # inglés
     "breakthrough", "major", "announces", "launch", "crisis",
-    "record", "deal", "investment", "regulation", "law",
-    "election", "growth", "decline"
+    "record", "deal", "investment", "regulation",
+
+    # español 🔥
+    "anuncia", "anuncian", "crisis", "histórico",
+    "historico", "récord", "record",
+    "inversión", "inversion",
+    "ley", "proyecto", "reforma",
+    "elecciones", "crecimiento", "caída"
 ]
 
 SOURCE_PRIORITY = {
@@ -210,7 +220,11 @@ def fetch_topic(topic_key, config):
 
             # 👇 separación Chile vs LatAm SOLO para ese topic
             if topic_key == "chile_politics":
-                if any(word in text for word in ["chile", "boric", "kast", "santiago", "araucanía", "pucon", "villarrica"]):
+                CHILE_KEYWORDS = ["chile", "boric", "kast", "santiago", "araucanía", "pucon", "villarrica",
+                                "gobierno", "presidente", "moneda", "ministro", "senado", "diputados",
+                                "carabineros", "constitución", "plebiscito", "política chilena"]
+
+                if any(word in text for word in CHILE_KEYWORDS):
                     chile_articles.append(article)
                 else:
                     latam_articles.append(article)
