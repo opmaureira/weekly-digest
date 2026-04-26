@@ -5,15 +5,6 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "Wow: Lufthansa Group To Cut 20,000 Flights Due To Fuel Crisis",
-        "url": "https://simpleflying.com/video/wow-lufthansa-group-to-cut-20-000-flights-due-to-fuel-crisis/",
-        "summary": "Depending on the day of the week, you might feel hopeful that the fuel crisis sparked by the war in Iran will be almost over. Other days, however, it seems like there’s no end in sight to the Strait of Hormuz being cut-off! Lufthansa Group isn’t taking any chances, and has moved to cancel roughly 20…",
-        "source": "Simple Flying",
-        "date": "Apr 25, 2026",
-        "date_sort": 1777120097.0,
-        "score": 5
-      },
-      {
         "title": "Southwest Reports Record Q1 Revenues",
         "url": "https://airinsight.com/southwest-reports-record-q1-revenues/",
         "summary": "Southwest Airlines reported a Q1 net income of $227 million on record operating revenues of $7.2 billion, which were up",
@@ -57,6 +48,15 @@
         "date": "Apr 23, 2026",
         "date_sort": 1776951333.0,
         "score": 3
+      },
+      {
+        "title": "Nigeria’s JetA Supply Threatens Airlines",
+        "url": "https://airinsight.com/nigerias-jeta-supply-threatens-airlines/",
+        "summary": "Today, the Nigerian Federal Government convened an emergency summit with the Airline Operators of Nigeria (AON) and major energy marketers.",
+        "source": "AirInsight",
+        "date": "Apr 22, 2026",
+        "date_sort": 1776866442.0,
+        "score": 3
       }
     ]
   },
@@ -66,31 +66,31 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Paula Estévez: “El Ejecutivo va a presentar un proyecto de ley de investment screening”",
-        "url": "https://www.latercera.com/pulso/noticia/paula-estevez-el-ejecutivo-va-a-presentar-un-proyecto-de-ley-de-investment-screening/",
-        "summary": "La subsecretaria de Relaciones Económicas Internacionales dice que están haciendo un estudio con los mecanismos que tienen otros países para filtrar inversión extranjera y que la propuesta del gobierno tomará en consideración la moción parlamentaria existente. \"Aquí no se va a hablar de países, sino…",
+        "title": "El estrés fiscal que acentúa la megarreforma",
+        "url": "https://www.latercera.com/pulso/noticia/el-estres-fiscal-que-acentua-la-megarreforma/",
+        "summary": "El proyecto tributario enviado esta semana por el gobierno, que es deficitario al menos en los cuatro años de gobierno de José Antonio Kast, agrega una presión adicional a la ruta de convergencia fiscal prometida por el republicano al 2030. Para los expertos, Hacienda deberá sincerar con prontitud u…",
         "source": "La Tercera",
-        "date": "Apr 25, 2026",
-        "date_sort": 1777114800.0,
-        "score": 9
-      },
-      {
-        "title": "Expresidente del CFA levanta alerta por megarreforma de Kast: “El 45% se financia con medidas que no están en el proyecto”",
-        "url": "https://www.latercera.com/pulso/noticia/expresidente-del-cfa-levanta-alerta-por-megarreforma-de-kast-el-45-se-financia-con-medidas-que-no-estan-en-el-proyecto/",
-        "summary": "Jorge Rodríguez afirma que la iniciativa debería incluir en el mismo texto legislativo medidas para asegurar ingresos, ya sea a través de contención del gasto o nuevos ingresos. \"Es un proyecto que tiene riesgos fiscales que requieren ser mitigados\", advierte el hoy investigador del Centro de Estudi…",
-        "source": "La Tercera",
-        "date": "Apr 25, 2026",
-        "date_sort": 1777114740.0,
+        "date": "Apr 26, 2026",
+        "date_sort": 1777203183.0,
         "score": 5
       },
       {
-        "title": "“El proyecto del chileno sigue teniendo alma”: Manuel Pellegrini suma elogios tras el empate del Betis ante Real Madrid",
-        "url": "https://www.latercera.com/el-deportivo/noticia/el-proyecto-del-chileno-sigue-teniendo-alma-manuel-pellegrini-suma-elogios-tras-el-empate-del-betis-ante-real-madrid/",
-        "summary": "En España califican positivamente al Ingeniero luego de la paridad 1-1 de este viernes.",
+        "title": "La batalla más dura de Camilo Escalona",
+        "url": "https://www.latercera.com/politica/noticia/la-batalla-mas-dura-de-camilo-escalona/",
+        "summary": "El reconocido político del PS habla por primera de un agresivo cáncer contra el cual viene luchando desde hace un tiempo y que lo obligó a abandonar la primera línea en los últimos meses para someterse a un exigente tratamiento médico. Aquí también analiza el complejo momento de su sector y califica…",
         "source": "La Tercera",
-        "date": "Apr 25, 2026",
-        "date_sort": 1777122917.0,
-        "score": 3
+        "date": "Apr 26, 2026",
+        "date_sort": 1777197600.0,
+        "score": 5
+      },
+      {
+        "title": "Manuel Marfán: “La reintegración del sistema tributario es costosa para el fisco y no ayuda al crecimiento del país”",
+        "url": "https://www.latercera.com/pulso/noticia/manuel-marfan-la-reintegracion-del-sistema-tributario-es-costosa-para-el-fisco-y-no-ayuda-al-crecimiento-del-pais/",
+        "summary": "El exministro de Hacienda y exvicepresidente del Banco Central analiza las principales implicancias fiscales y económicas de la megarreforma que impulsa el gobierno de Kast. Entre sus preocupaciones, dice, está que una rebaja del impuesto a las empresas sin una debida compensación podría afectar los…",
+        "source": "La Tercera",
+        "date": "Apr 26, 2026",
+        "date_sort": 1777197600.0,
+        "score": 5
       },
       {
         "title": "Three disasters in three years: Brazil’s deadly floods show women are ‘the first to die’ when extreme weather hits",
@@ -111,12 +111,12 @@
         "score": 4
       },
       {
-        "title": "Interminables elecciones peruanas",
-        "url": "https://www.latercera.com/opinion/noticia/interminables-elecciones-peruanas/",
-        "summary": "",
-        "source": "La Tercera",
-        "date": "Apr 25, 2026",
-        "date_sort": 1777111201.0,
+        "title": "‘A sudden gap’: poorest to suffer from Trump’s drive to stop Cuba sending doctors to its neighbours",
+        "url": "https://www.theguardian.com/world/2026/apr/26/poorest-to-suffer-trump-drive-to-stop-cuba-sending-doctors-to-its-neighbours",
+        "summary": "People across Latin America and the Caribbean find themselves without care as countries bow to US pressureNovlyn Ebanks, 73, had been due to receive the eye surgery she needed free of charge at St Joseph’s hospital in Kingston.But after Jamaica’s unilateral decision in March to end the nearly 30-yea…",
+        "source": "Americas | The Guardian",
+        "date": "Apr 26, 2026",
+        "date_sort": 1777197611.0,
         "score": 3
       }
     ]
@@ -172,12 +172,12 @@
         "score": 3
       },
       {
-        "title": "The person who allegedly leaked Paramount’s new Avatar movie has been arrested",
-        "url": "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
-        "summary": "Following Paramount Skydance's move to launch an investigation into how its upcoming Avatar Aang: The Last Airbender animated feature leaked onto the internet, a suspect has been taken into custody by police. The Straits Times reports Singaporean police have arrested a 26-year-old man who is alleged…",
-        "source": "The Verge",
+        "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
+        "url": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
+        "summary": "Tim Cook was a great CEO, but he didn’t crack AI. It’s job number 1 for John Ternus.",
+        "source": "WIRED",
         "date": "Apr 24, 2026",
-        "date_sort": 1777059901.0,
+        "date_sort": 1777042800.0,
         "score": 3
       }
     ]
@@ -188,21 +188,12 @@
     "color": "#22c55e",
     "articles": [
       {
-        "title": "‘Petro-masculinity’ is destroying the planet. Can eco-masculinity help save it? | Andrew Boyd",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/22/masculinity-gender-climate-crisis",
-        "summary": "It’s crucial to understanding how gender is affecting our ability to rally behind a shared ecological visionFeminist influencer Liz Plank opens her groundbreaking book For the Love of Men with a bold statement: “There is no greater threat to humankind than our current definitions of masculinity.” Sh…",
+        "title": "Toxins plus climate harms likely cause of reduced fertility, study finds",
+        "url": "https://www.theguardian.com/science/2026/apr/26/toxic-exposure-climate-crisis-study",
+        "summary": "Researchers find ‘alarming’ effect on fertility across global species from simultaneous exposuresSimultaneous exposure to toxic chemicals and climate change’s impacts likely generates an additive or synergistic effect that increases reproductive harm, and may contribute to the broad global drop in f…",
         "source": "Environment | The Guardian",
-        "date": "Apr 22, 2026",
-        "date_sort": 1776852024.0,
-        "score": 9
-      },
-      {
-        "title": "‘The damage is done’: global oil crisis has changed fossil fuel industry for ever, IEA chief says",
-        "url": "https://www.theguardian.com/environment/2026/apr/24/global-oil-crisis-changed-fossil-fuel-industry-for-ever-iea-chief-fatih-birol",
-        "summary": "Exclusive: International Energy Agency’s Fatih Birol, the world’s leading energy economist, also says UK should largely forgo North Sea expansionThe oil crisis triggered by the Iran war has changed the fossil fuel industry for ever, turning countries away from fossil fuels to secure energy supplies,…",
-        "source": "Environment | The Guardian",
-        "date": "Apr 24, 2026",
-        "date_sort": 1777042820.0,
+        "date": "Apr 26, 2026",
+        "date_sort": 1777208415.0,
         "score": 7
       },
       {
@@ -240,6 +231,15 @@
         "date": "Apr 24, 2026",
         "date_sort": 1777021200.0,
         "score": 5
+      },
+      {
+        "title": "'We're living in a shed because of river pollution'",
+        "url": "https://www.bbc.com/news/articles/c6244zv02ero?at_medium=RSS&at_campaign=rss",
+        "summary": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution.",
+        "source": "BBC News",
+        "date": "Apr 26, 2026",
+        "date_sort": 1777184408.0,
+        "score": 4
       }
     ]
   },
@@ -258,15 +258,6 @@
         "score": 5
       },
       {
-        "title": "A new force of nature is reshaping the planet, study finds",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260419054825.htm",
-        "summary": "Human societies didn’t just adapt to the planet—they learned to reshape it. From early fire use to today’s global supply chains, our cultural and social innovations have unlocked extraordinary power to transform Earth and improve human life. But that progress has come with serious costs, including c…",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 19, 2026",
-        "date_sort": 1776604705.0,
-        "score": 5
-      },
-      {
         "title": "BBC Inside Science",
         "url": "https://www.bbc.co.uk/sounds/play/w3ct977h?at_medium=RSS&at_campaign=rss",
         "summary": "Creating and manufacturing a novel vaccine capable of combatting bird flu.",
@@ -274,6 +265,15 @@
         "date": "Apr 23, 2026",
         "date_sort": 1776974400.0,
         "score": 4
+      },
+      {
+        "title": "This exotic particle could finally explain why matter has mass",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260424233214.htm",
+        "summary": "A major physics experiment has uncovered evidence for a strange new form of matter, where a fleeting particle gets trapped inside a nucleus. This exotic state may reveal how mass is generated, suggesting that particles can weigh less when surrounded by dense nuclear matter. The findings support long…",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Apr 25, 2026",
+        "date_sort": 1777128447.0,
+        "score": 3
       },
       {
         "title": "Is stem cell therapy about to transform medicine and reverse ageing?",
