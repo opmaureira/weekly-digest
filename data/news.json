@@ -5,6 +5,15 @@
     "color": "#f59e0b",
     "articles": [
       {
+        "title": "777-9 Rework Is Big—Not a New Crisis",
+        "url": "https://airinsight.com/777-9-rework-is-big-not-a-new-crisis/",
+        "summary": "Six years late and $15 billion deeper in the red, Boeing’s 777-9 program just revealed another layer of complexity: roughly",
+        "source": "AirInsight",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777298672.0,
+        "score": 5
+      },
+      {
         "title": "Southwest Reports Record Q1 Revenues",
         "url": "https://airinsight.com/southwest-reports-record-q1-revenues/",
         "summary": "Southwest Airlines reported a Q1 net income of $227 million on record operating revenues of $7.2 billion, which were up",
@@ -23,39 +32,30 @@
         "score": 5
       },
       {
-        "title": "Spirit Airlines and the Cost of Policy Whiplash",
-        "url": "https://airinsight.com/spirit-airlines-and-the-cost-of-policy-whiplash/",
-        "summary": "The Spirit Airlines/US Government story seems to keep percolating. There has been bipartisan opposition to this deal, and for good",
-        "source": "AirInsight",
-        "date": "Apr 24, 2026",
-        "date_sort": 1777037863.0,
+        "title": "Finally! American Airlines Resolves Heathrow Catering Issues (After 8 Weeks!)",
+        "url": "https://simpleflying.com/video/finally-american-airlines-resolves-heathrow-catering-issues-after-8-weeks/",
+        "summary": "Back on March 8th we reported that American Airlines was ‘double catering’ its flights to London Heathrow - meaning that flights heading to the UK capital would carry meals for passengers on the flight returning to the states. It’s not standard practice given most airlines contract a caterer at a ma…",
+        "source": "Simple Flying",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777292778.0,
         "score": 3
       },
       {
-        "title": "Real Green Aviation: Airbus, Delta and DSO",
-        "url": "https://airinsight.com/real-green-aviation-airbus-delta-and-dso/",
-        "summary": "In a major boost to operational efficiency and sustainability, Airbus has successfully deployed its Descent Profile Optimisation (DPO) technology across",
-        "source": "AirInsight",
-        "date": "Apr 23, 2026",
-        "date_sort": 1776957524.0,
+        "title": "250,000 Employees, 1 Rejection: The Drama Behind United CEO’s Failed Mega-Deal",
+        "url": "https://simpleflying.com/united-airlines-american-airlines-merger-rejection-analysis/",
+        "summary": "United CEO Scott Kirby has released a lengthy statement detailing his side of the story.",
+        "source": "Simple Flying",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777291435.0,
         "score": 3
       },
       {
-        "title": "Vietjet’s COMAC Deal Is Politics With Wings",
-        "url": "https://airinsight.com/vietjets-comac-deal-is-politics-with-wings/",
-        "summary": "It&#8217;s an old adage in the industry: not every aircraft order is entirely an aviation story. Sometimes it is a",
-        "source": "AirInsight",
-        "date": "Apr 23, 2026",
-        "date_sort": 1776951333.0,
-        "score": 3
-      },
-      {
-        "title": "Nigeria’s JetA Supply Threatens Airlines",
-        "url": "https://airinsight.com/nigerias-jeta-supply-threatens-airlines/",
-        "summary": "Today, the Nigerian Federal Government convened an emergency summit with the Airline Operators of Nigeria (AON) and major energy marketers.",
-        "source": "AirInsight",
-        "date": "Apr 22, 2026",
-        "date_sort": 1776866442.0,
+        "title": "easyJet Announces 18 New Routes Including Longest Flight Ever [Full List]",
+        "url": "https://simpleflying.com/easyjet-announces-18-new-routes-including-longest-flight-full-list/",
+        "summary": "The low-cost carrier schedules its shortest mainland operation and its longest flight yet. See what's planned!",
+        "source": "Simple Flying",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777284028.0,
         "score": 3
       }
     ]
@@ -66,30 +66,30 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "El estrés fiscal que acentúa la megarreforma",
-        "url": "https://www.latercera.com/pulso/noticia/el-estres-fiscal-que-acentua-la-megarreforma/",
-        "summary": "El proyecto tributario enviado esta semana por el gobierno, que es deficitario al menos en los cuatro años de gobierno de José Antonio Kast, agrega una presión adicional a la ruta de convergencia fiscal prometida por el republicano al 2030. Para los expertos, Hacienda deberá sincerar con prontitud u…",
+        "title": "Romero aborda menor recaudación que generará en el corto plazo proyecto de megarreforma de Kast: “Decir otra cosa es mentir”",
+        "url": "https://www.latercera.com/politica/noticia/romero-aborda-menor-recaudacion-que-generara-en-el-corto-plazo-proyecto-de-megarreforma-de-kast-decir-otra-cosa-es-mentir/",
+        "summary": "A pesar de lo anterior, el presidente de la Comisión de Hacienda destacó los resultados que se obtendrán hacia el largo plazo. \"Hay que analizarlo bien también con esta inversión que nosotros esperamos hacer como Estado para generar lo que es más importante y sostenido en el largo plazo, que es el c…",
         "source": "La Tercera",
-        "date": "Apr 26, 2026",
-        "date_sort": 1777203183.0,
+        "date": "Apr 27, 2026",
+        "date_sort": 1777304282.0,
+        "score": 9
+      },
+      {
+        "title": "Chile fija las reglas para vender reducciones de emisiones al mundo sin comprometer sus metas climáticas",
+        "url": "https://www.latercera.com/sustentabilidad/noticia/chile-fija-las-reglas-para-vender-reducciones-de-emisiones-al-mundo-sin-comprometer-sus-metas-climaticas/",
+        "summary": "La resolución presentada por el Ministerio del Medio Ambiente define 41 tipologías de proyectos que podrán generar ITMOs bajo el Artículo 6 del Acuerdo de París. La medida, de las últimas del gobierno de Gabriel Boric, busca atraer inversión climática con reglas claras, proteger la NDC y dar continu…",
+        "source": "La Tercera",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777298311.0,
         "score": 5
       },
       {
-        "title": "La batalla más dura de Camilo Escalona",
-        "url": "https://www.latercera.com/politica/noticia/la-batalla-mas-dura-de-camilo-escalona/",
-        "summary": "El reconocido político del PS habla por primera de un agresivo cáncer contra el cual viene luchando desde hace un tiempo y que lo obligó a abandonar la primera línea en los últimos meses para someterse a un exigente tratamiento médico. Aquí también analiza el complejo momento de su sector y califica…",
+        "title": "Mideso prepara ingreso de proyecto de ley que buscará restringir el acceso de menores de edad a redes sociales",
+        "url": "https://www.latercera.com/nacional/noticia/mideso-prepara-ingreso-de-proyecto-de-ley-que-buscara-restringir-el-ingreso-de-menores-de-edad-a-redes-sociales/",
+        "summary": "\"En Chile hasta ahora solo tenemos la prohibición de uso en los colegios, pero eso no impide que estén propensos a múltiples peligros como los desafíos virales que hemos visto y la creciente violencia que genera en los colegios\", explicó al respecto la ministra María Jesús Wulf.",
         "source": "La Tercera",
-        "date": "Apr 26, 2026",
-        "date_sort": 1777197600.0,
-        "score": 5
-      },
-      {
-        "title": "Manuel Marfán: “La reintegración del sistema tributario es costosa para el fisco y no ayuda al crecimiento del país”",
-        "url": "https://www.latercera.com/pulso/noticia/manuel-marfan-la-reintegracion-del-sistema-tributario-es-costosa-para-el-fisco-y-no-ayuda-al-crecimiento-del-pais/",
-        "summary": "El exministro de Hacienda y exvicepresidente del Banco Central analiza las principales implicancias fiscales y económicas de la megarreforma que impulsa el gobierno de Kast. Entre sus preocupaciones, dice, está que una rebaja del impuesto a las empresas sin una debida compensación podría afectar los…",
-        "source": "La Tercera",
-        "date": "Apr 26, 2026",
-        "date_sort": 1777197600.0,
+        "date": "Apr 27, 2026",
+        "date_sort": 1777295599.0,
         "score": 5
       },
       {
@@ -102,13 +102,13 @@
         "score": 7
       },
       {
-        "title": "Why your recycled clothes could end up in this South American desert",
-        "url": "https://www.bbc.com/news/articles/c62kg63k8v6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Old garments from around the world are being discarded in the South American country.",
+        "title": "Making history and facing Neymar - Lingard on life in Brazil",
+        "url": "https://www.bbc.com/sport/football/articles/c36rg3w3pexo?at_medium=RSS&at_campaign=rss",
+        "summary": "In his first major interview since moving to Brazil, Jesse Lingard talks to the BBC about his new life, and Manchester United.",
         "source": "BBC News",
-        "date": "Apr 19, 2026",
-        "date_sort": 1776639731.0,
-        "score": 4
+        "date": "Apr 27, 2026",
+        "date_sort": 1777266661.0,
+        "score": 6
       },
       {
         "title": "‘A sudden gap’: poorest to suffer from Trump’s drive to stop Cuba sending doctors to its neighbours",
@@ -129,11 +129,29 @@
       {
         "title": "Health-care AI is here. We don’t know if it actually helps patients.",
         "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-        "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret…",
+        "summary": "I don’t need to tell you that&#160;AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with note-taking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to int…",
         "source": "MIT Technology Review",
         "date": "Apr 24, 2026",
         "date_sort": 1777021200.0,
         "score": 7
+      },
+      {
+        "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+        "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Nota…",
+        "source": "MIT Technology Review",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777291800.0,
+        "score": 5
+      },
+      {
+        "title": "Here’s How Much San Francisco Tech Companies Pay for Police Protection",
+        "url": "https://www.wired.com/story/heres-how-much-san-francisco-tech-companies-are-paying-for-police-protection/",
+        "summary": "A recent attack on Sam Altman’s home and OpenAI offices has put corporate security under renewed scrutiny. Records reveal how much some tech firms spend to arm up.",
+        "source": "WIRED",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777284000.0,
+        "score": 5
       },
       {
         "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
@@ -154,30 +172,12 @@
         "score": 5
       },
       {
-        "title": "Sho Miyake answers life’s greatest questions",
-        "url": "https://www.theverge.com/entertainment/918313/director-sho-miyake-interview",
-        "summary": "Acclaimed Japanese director Sho Miyake has arrived in the States. He's brought with him two feature films: Small, Slow But Steady and Two Seasons, Two Strangers, a pair of naturalistic portraits that deal with the uneasy human desire to relate to other people. Seclusion and unease are bedrocks to Mi…",
-        "source": "The Verge",
-        "date": "Apr 25, 2026",
-        "date_sort": 1777118400.0,
-        "score": 3
-      },
-      {
-        "title": "Three reasons why DeepSeek’s new model matters",
-        "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-        "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o…",
+        "title": "Rebuilding the data stack for AI",
+        "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+        "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a…",
         "source": "MIT Technology Review",
-        "date": "Apr 24, 2026",
-        "date_sort": 1777066858.0,
-        "score": 3
-      },
-      {
-        "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
-        "url": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
-        "summary": "Tim Cook was a great CEO, but he didn’t crack AI. It’s job number 1 for John Ternus.",
-        "source": "WIRED",
-        "date": "Apr 24, 2026",
-        "date_sort": 1777042800.0,
+        "date": "Apr 27, 2026",
+        "date_sort": 1777294800.0,
         "score": 3
       }
     ]
@@ -187,6 +187,15 @@
     "icon": "🌿",
     "color": "#22c55e",
     "articles": [
+      {
+        "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
+        "url": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
+        "summary": "Widely dispersed wind farms and solar panels are harder to target than fossil fuel power stations, Michael Shanks saysRenewable energy will boost the UK’s national security and make the country more resilient against potential aggression or sabotage, the government’s energy minister has said.Michael…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 26, 2026",
+        "date_sort": 1777244486.0,
+        "score": 7
+      },
       {
         "title": "Toxins plus climate harms likely cause of reduced fertility, study finds",
         "url": "https://www.theguardian.com/science/2026/apr/26/toxic-exposure-climate-crisis-study",
@@ -215,15 +224,6 @@
         "score": 7
       },
       {
-        "title": "Actorly Fauci becomes blind prophet for Oedipus the King reading in DC",
-        "url": "https://www.theguardian.com/us-news/2026/apr/22/anthony-fauci-acting-debut-oedipus-the-king",
-        "summary": "Jesse Eisenberg and Chuck Schumer also star – could 2,500-year-old play teach US something about the climate crisis?When Anthony Fauci put on a pair of sunglasses, the hall erupted in cheers and applause. “Ah, how terrible it is to know when, in the end, knowing gains you nothing,” Fauci said. “I kn…",
-        "source": "Environment | The Guardian",
-        "date": "Apr 22, 2026",
-        "date_sort": 1776871690.0,
-        "score": 7
-      },
-      {
         "title": "As the UN Global Climate Talks Lose Momentum, a Smaller Coalition Eyes a Fossil Fuel Exit",
         "url": "https://insideclimatenews.org/news/24042026/colombia-fossil-fuel-exit-conference/",
         "summary": "In an overheated and fractured world that’s lurching from one crisis to the next to feed its oil and gas addiction, collaboration toward an energy transition may seem unrealistic or even radical. But more than 50 nations are gathering in Santa Marta, Colombia, today to start mapping out specific pla…",
@@ -233,12 +233,12 @@
         "score": 5
       },
       {
-        "title": "'We're living in a shed because of river pollution'",
-        "url": "https://www.bbc.com/news/articles/c6244zv02ero?at_medium=RSS&at_campaign=rss",
-        "summary": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution.",
+        "title": "How climate change threatens the economic backbone of the Pacific",
+        "url": "https://www.bbc.com/news/articles/cq57vxjvdy4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Tuna populations around the Pacific Islands could move away as ocean temperatures increase.",
         "source": "BBC News",
         "date": "Apr 26, 2026",
-        "date_sort": 1777184408.0,
+        "date_sort": 1777245401.0,
         "score": 4
       }
     ]
@@ -249,13 +249,31 @@
     "color": "#0ea5e9",
     "articles": [
       {
-        "title": "Breakthrough discovery reveals hidden oxygen flow deep inside catalysts",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260420014736.htm",
-        "summary": "A major discovery is reshaping how scientists think about catalysts. Researchers have, for the first time, captured oxygen atoms moving through the interior of a catalyst—not just along its surface. This reveals that the bulk material can actively participate in reactions, opening a new frontier in …",
+        "title": "Scientists discover how to freeze transplant organs without cracking them",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260423031516.htm",
+        "summary": "Scientists are making a major leap toward freezing organs for future use without damaging them. A new study reveals that one of the biggest obstacles—cracking during ultra-cold preservation—can be reduced by carefully tuning the temperature at which tissues enter a glass-like state. This breakthroug…",
         "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 21, 2026",
-        "date_sort": 1776759204.0,
+        "date": "Apr 27, 2026",
+        "date_sort": 1777298550.0,
         "score": 5
+      },
+      {
+        "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm",
+        "summary": "In a breakthrough experiment, scientists directly imaged how particles pair up in a system that mimics superconductors. Instead of behaving independently, the pairs moved in a synchronized, dance-like pattern—something never predicted before. This suggests a major gap in the classic theory of superc…",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777295760.0,
+        "score": 5
+      },
+      {
+        "title": "How do you restore the wild spaces in a corner of England?",
+        "url": "https://www.bbc.com/news/articles/c747pjxv1gvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Plans to improve nature have been unveiled, aiming to restore habitats and protect wildlife.",
+        "source": "BBC News",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777267048.0,
+        "score": 4
       },
       {
         "title": "BBC Inside Science",
@@ -267,39 +285,21 @@
         "score": 4
       },
       {
-        "title": "This exotic particle could finally explain why matter has mass",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260424233214.htm",
-        "summary": "A major physics experiment has uncovered evidence for a strange new form of matter, where a fleeting particle gets trapped inside a nucleus. This exotic state may reveal how mass is generated, suggesting that particles can weigh less when surrounded by dense nuclear matter. The findings support long…",
+        "title": "Pesticide exposure linked to 150% higher cancer risk in major study",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260426012314.htm",
+        "summary": "A major new study finds that living in pesticide-heavy environments could raise cancer risk by up to 150%, even when the chemicals are considered “safe” on their own. The research suggests these mixtures may silently damage cells years before cancer appears.",
         "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 25, 2026",
-        "date_sort": 1777128447.0,
+        "date": "Apr 27, 2026",
+        "date_sort": 1777285554.0,
         "score": 3
       },
       {
-        "title": "Is stem cell therapy about to transform medicine and reverse ageing?",
-        "url": "https://www.newscientist.com/article/2524182-is-stem-cell-therapy-about-to-transform-medicine-and-reverse-ageing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "summary": "A clinical trial to reverse age-related vision conditions using stem cell treatment could finally deliver on the promise of a major discovery in ageing and regeneration made 20 years ago, says columnist Graham Lawton",
+        "title": "10,000 new planets found hidden in NASA telescope data",
+        "url": "https://www.newscientist.com/article/2524305-10000-new-planets-found-hidden-in-nasa-telescope-data/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "summary": "NASA's Transiting Exoplanet Survey Satellite has been searching for exoplanets since its launch in 2018, and it turns out it may have found plenty more of them than we had thought",
         "source": "New Scientist - Home",
-        "date": "Apr 24, 2026",
-        "date_sort": 1777021212.0,
-        "score": 3
-      },
-      {
-        "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
-        "url": "https://www.nature.com/articles/d41586-026-01277-2",
-        "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01277-2Several other lists have been launched in the past year, but some scholars want research evaluation to take new forms.",
-        "source": "Nature",
-        "date": "Apr 23, 2026",
-        "date_sort": 1776988800.0,
-        "score": 3
-      },
-      {
-        "title": "AI just discovered new physics in the fourth state of matter",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm",
-        "summary": "Physicists have taken a major step toward using AI not just to analyze data, but to uncover entirely new laws of nature. By combining a specially designed neural network with precise 3D tracking of particles in a dusty plasma—a strange “fourth state of matter” found from space to wildfires—the team …",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 23, 2026",
-        "date_sort": 1776951527.0,
+        "date": "Apr 27, 2026",
+        "date_sort": 1777284048.0,
         "score": 3
       }
     ]
