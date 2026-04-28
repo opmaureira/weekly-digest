@@ -5,6 +5,15 @@
     "color": "#f59e0b",
     "articles": [
       {
+        "title": "Inside JetBlue’s Plan To Survive The 2026 Iran Crisis Fuel Spike",
+        "url": "https://simpleflying.com/jetblue-fuel-related-capacity-cuts/",
+        "summary": "The cuts will be less severe in Q2, before ramping up in the second half of the year.",
+        "source": "Simple Flying",
+        "date": "Apr 28, 2026",
+        "date_sort": 1777388533.0,
+        "score": 5
+      },
+      {
         "title": "777-9 Rework Is Big—Not a New Crisis",
         "url": "https://airinsight.com/777-9-rework-is-big-not-a-new-crisis/",
         "summary": "Six years late and $15 billion deeper in the red, Boeing’s 777-9 program just revealed another layer of complexity: roughly",
@@ -32,30 +41,21 @@
         "score": 5
       },
       {
-        "title": "Finally! American Airlines Resolves Heathrow Catering Issues (After 8 Weeks!)",
-        "url": "https://simpleflying.com/video/finally-american-airlines-resolves-heathrow-catering-issues-after-8-weeks/",
-        "summary": "Back on March 8th we reported that American Airlines was ‘double catering’ its flights to London Heathrow - meaning that flights heading to the UK capital would carry meals for passengers on the flight returning to the states. It’s not standard practice given most airlines contract a caterer at a ma…",
+        "title": "New Super Hornet: Why The Navy's Workhorse Fighter Is Getting A Block III Brain Transplant",
+        "url": "https://simpleflying.com/f-a-18-super-hornet-block-iii-upgrade/",
+        "summary": "The US Navy’s Super Hornet is undergoing a major upgrade, with a new digital backbone and advanced electronics built to counter modern threats.",
         "source": "Simple Flying",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777292778.0,
+        "date": "Apr 28, 2026",
+        "date_sort": 1777388421.0,
         "score": 3
       },
       {
-        "title": "250,000 Employees, 1 Rejection: The Drama Behind United CEO’s Failed Mega-Deal",
-        "url": "https://simpleflying.com/united-airlines-american-airlines-merger-rejection-analysis/",
-        "summary": "United CEO Scott Kirby has released a lengthy statement detailing his side of the story.",
-        "source": "Simple Flying",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777291435.0,
-        "score": 3
-      },
-      {
-        "title": "easyJet Announces 18 New Routes Including Longest Flight Ever [Full List]",
-        "url": "https://simpleflying.com/easyjet-announces-18-new-routes-including-longest-flight-full-list/",
-        "summary": "The low-cost carrier schedules its shortest mainland operation and its longest flight yet. See what's planned!",
-        "source": "Simple Flying",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777284028.0,
+        "title": "Spirit Airlines and the Cost of Policy Whiplash",
+        "url": "https://airinsight.com/spirit-airlines-and-the-cost-of-policy-whiplash/",
+        "summary": "The Spirit Airlines/US Government story seems to keep percolating. There has been bipartisan opposition to this deal, and for good",
+        "source": "AirInsight",
+        "date": "Apr 24, 2026",
+        "date_sort": 1777037863.0,
         "score": 3
       }
     ]
@@ -66,30 +66,30 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Romero aborda menor recaudación que generará en el corto plazo proyecto de megarreforma de Kast: “Decir otra cosa es mentir”",
-        "url": "https://www.latercera.com/politica/noticia/romero-aborda-menor-recaudacion-que-generara-en-el-corto-plazo-proyecto-de-megarreforma-de-kast-decir-otra-cosa-es-mentir/",
-        "summary": "A pesar de lo anterior, el presidente de la Comisión de Hacienda destacó los resultados que se obtendrán hacia el largo plazo. \"Hay que analizarlo bien también con esta inversión que nosotros esperamos hacer como Estado para generar lo que es más importante y sostenido en el largo plazo, que es el c…",
+        "title": "Serie de sismos ocurrieron cerca de la comuna de Navidad en la región de O’Higgins",
+        "url": "https://www.latercera.com/nacional/noticia/serie-de-sismos-ocurrieron-cerca-de-la-comuna-de-navidad-en-la-region-de-ohiggins/",
+        "summary": "Se espera que esta jornada el Presidente José Antonio Kast visite el Instituto Teletón de la región para anunciar el ingreso de un proyecto de ley que decrete el primer sábado de noviembre el Día de la Teletón.",
         "source": "La Tercera",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777304282.0,
-        "score": 9
+        "date": "Apr 28, 2026",
+        "date_sort": 1777383665.0,
+        "score": 7
       },
       {
-        "title": "Chile fija las reglas para vender reducciones de emisiones al mundo sin comprometer sus metas climáticas",
-        "url": "https://www.latercera.com/sustentabilidad/noticia/chile-fija-las-reglas-para-vender-reducciones-de-emisiones-al-mundo-sin-comprometer-sus-metas-climaticas/",
-        "summary": "La resolución presentada por el Ministerio del Medio Ambiente define 41 tipologías de proyectos que podrán generar ITMOs bajo el Artículo 6 del Acuerdo de París. La medida, de las últimas del gobierno de Gabriel Boric, busca atraer inversión climática con reglas claras, proteger la NDC y dar continu…",
+        "title": "Gobierno ratifica que aplicará el fraccionamiento pesquero, pero desecha seguir adelante con proyecto de pesca de Boric",
+        "url": "https://www.latercera.com/pulso/noticia/gobierno-ratifica-que-aplicara-el-fraccionamiento-pesquero-pero-desecha-seguir-adelante-con-proyecto-de-pesca-de-boric/",
+        "summary": "El subsecretario de Pesca, Osvaldo Urrutia, anuncia que el proyecto de ley general de pesca que envió el gobierno de Gabriel Boric en enero de 2024 al Congreso y que la actual administración retiró para su revisión no va más y que no será reingresado, explicando las razones al respecto. “Era un proy…",
         "source": "La Tercera",
         "date": "Apr 27, 2026",
-        "date_sort": 1777298311.0,
-        "score": 5
+        "date_sort": 1777338093.0,
+        "score": 7
       },
       {
-        "title": "Mideso prepara ingreso de proyecto de ley que buscará restringir el acceso de menores de edad a redes sociales",
-        "url": "https://www.latercera.com/nacional/noticia/mideso-prepara-ingreso-de-proyecto-de-ley-que-buscara-restringir-el-ingreso-de-menores-de-edad-a-redes-sociales/",
-        "summary": "\"En Chile hasta ahora solo tenemos la prohibición de uso en los colegios, pero eso no impide que estén propensos a múltiples peligros como los desafíos virales que hemos visto y la creciente violencia que genera en los colegios\", explicó al respecto la ministra María Jesús Wulf.",
+        "title": "Winter cuestiona megarreforma y apunta que de aprobarse sería “el mayor espolonazo al Estado de Chile desde 1974″",
+        "url": "https://www.latercera.com/politica/noticia/winter-cuestiona-megarreforma-y-apunta-que-de-aprobarse-seria-el-mayor-espolonazo-al-estado-de-chile-desde-1974/",
+        "summary": "En la ocasión, Winter además reiteró el llamado a dividir el proyecto y enfatizó que desde el Frente Amplio están dispuestos a apoyar lo relacionado con reconstrucción.",
         "source": "La Tercera",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777295599.0,
+        "date": "Apr 28, 2026",
+        "date_sort": 1777381811.0,
         "score": 5
       },
       {
@@ -163,21 +163,21 @@
         "score": 5
       },
       {
-        "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-        "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype…",
-        "source": "MIT Technology Review",
-        "date": "Apr 22, 2026",
-        "date_sort": 1776859800.0,
-        "score": 5
+        "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+        "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its laun…",
+        "source": "The Verge",
+        "date": "Apr 28, 2026",
+        "date_sort": 1777394948.0,
+        "score": 3
       },
       {
-        "title": "Rebuilding the data stack for AI",
-        "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-        "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a…",
-        "source": "MIT Technology Review",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777294800.0,
+        "title": "Google Translate can now help you with pronunciation",
+        "url": "https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability",
+        "summary": "Google has launched a new AI-powered feature for Translate that can help you correct and practice your enunciation when learning a new language. The \"pronunciation practice\" tool analyzes your speech to provide instant feedback on how to improve before jumping into an actual conversation in your cho…",
+        "source": "The Verge",
+        "date": "Apr 28, 2026",
+        "date_sort": 1777392000.0,
         "score": 3
       }
     ]
@@ -188,12 +188,30 @@
     "color": "#22c55e",
     "articles": [
       {
-        "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
-        "url": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
-        "summary": "Widely dispersed wind farms and solar panels are harder to target than fossil fuel power stations, Michael Shanks saysRenewable energy will boost the UK’s national security and make the country more resilient against potential aggression or sabotage, the government’s energy minister has said.Michael…",
+        "title": "‘Petro-masculinity’ is destroying the planet. Can eco-masculinity help save it? | Andrew Boyd",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/22/masculinity-gender-climate-crisis",
+        "summary": "It’s crucial to understanding how gender is affecting our ability to rally behind a shared ecological visionFeminist influencer Liz Plank opens her groundbreaking book For the Love of Men with a bold statement: “There is no greater threat to humankind than our current definitions of masculinity.” Sh…",
         "source": "Environment | The Guardian",
-        "date": "Apr 26, 2026",
-        "date_sort": 1777244486.0,
+        "date": "Apr 22, 2026",
+        "date_sort": 1776852024.0,
+        "score": 9
+      },
+      {
+        "title": "One year after Spain’s blackout, its shift to renewables and grid evolution power on",
+        "url": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
+        "summary": "Though solar was initially incorrectly blamed for crisis, renewables have helped insulate Spain from gas price rises caused by war in Middle EastOne year ago today, all of Spain, and much of Portugal, suffered through a blackout of unprecedented scale and duration. In mere seconds, a cascading seque…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 28, 2026",
+        "date_sort": 1777384068.0,
+        "score": 7
+      },
+      {
+        "title": "Middle East crisis could cost world $1tn while oil firms make ‘obscene’ profit, analysis finds",
+        "url": "https://www.theguardian.com/environment/2026/apr/28/middle-east-crisis-oil-firms-profit-colombia-conference",
+        "summary": "Climate group calls for urgent windfall tax on excess fossil fuel profits, as delegates tell Colombia conference their nations are sufferingThe Middle East oil and gas crunch will impose as much as a trillion dollars of additional costs on the global economy while petroleum companies rake in spectac…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 28, 2026",
+        "date_sort": 1777374009.0,
         "score": 7
       },
       {
@@ -206,15 +224,6 @@
         "score": 7
       },
       {
-        "title": "Republican lawmakers attempt to shield big oil from climate lawsuits in ‘alarming’ bills",
-        "url": "https://www.theguardian.com/us-news/2026/apr/23/republicans-big-oil-climate-lawsuits",
-        "summary": "Climate experts and advocates warn House and Senate bills will protect polluters at the cost of the climate Republican lawmakers are attempting to shield big oil from having to pay for its contributions to the climate crisis, alarming environmental advocates.New House and Senate bills, led by Harrie…",
-        "source": "Environment | The Guardian",
-        "date": "Apr 23, 2026",
-        "date_sort": 1776945609.0,
-        "score": 7
-      },
-      {
         "title": "A catastrophic climate event is upon us. Here is why you’ve heard so little about it | George Monbiot",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/23/catastrophic-climate-event-scientists-atlantic-system-collapse-billionaire-existential-crisis",
         "summary": "Scientists say a crucial Atlantic system is more likely to collapse than previously thought. But the billionaire death cult that steers humanity’s destiny doesn’t do existential crisesThe poor and middle pay taxes, the rich pay accountants, the very rich pay lawyers – and the ultra-rich pay politici…",
@@ -222,15 +231,6 @@
         "date": "Apr 23, 2026",
         "date_sort": 1776924002.0,
         "score": 7
-      },
-      {
-        "title": "As the UN Global Climate Talks Lose Momentum, a Smaller Coalition Eyes a Fossil Fuel Exit",
-        "url": "https://insideclimatenews.org/news/24042026/colombia-fossil-fuel-exit-conference/",
-        "summary": "In an overheated and fractured world that’s lurching from one crisis to the next to feed its oil and gas addiction, collaboration toward an energy transition may seem unrealistic or even radical. But more than 50 nations are gathering in Santa Marta, Colombia, today to start mapping out specific pla…",
-        "source": "Inside Climate News",
-        "date": "Apr 24, 2026",
-        "date_sort": 1777021200.0,
-        "score": 5
       },
       {
         "title": "How climate change threatens the economic backbone of the Pacific",
@@ -285,21 +285,21 @@
         "score": 4
       },
       {
-        "title": "Pesticide exposure linked to 150% higher cancer risk in major study",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260426012314.htm",
-        "summary": "A major new study finds that living in pesticide-heavy environments could raise cancer risk by up to 150%, even when the chemicals are considered “safe” on their own. The research suggests these mixtures may silently damage cells years before cancer appears.",
+        "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
+        "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner,…",
         "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777285554.0,
+        "date": "Apr 28, 2026",
+        "date_sort": 1777383337.0,
         "score": 3
       },
       {
-        "title": "10,000 new planets found hidden in NASA telescope data",
-        "url": "https://www.newscientist.com/article/2524305-10000-new-planets-found-hidden-in-nasa-telescope-data/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "summary": "NASA's Transiting Exoplanet Survey Satellite has been searching for exoplanets since its launch in 2018, and it turns out it may have found plenty more of them than we had thought",
-        "source": "New Scientist - Home",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777284048.0,
+        "title": "Your dreams aren’t random. Here’s what’s really happening",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260428045538.htm",
+        "summary": "Dreams are more structured than they seem, shaped by both personal traits and real-world experiences. Researchers found that the brain doesn’t just replay daily life—it reshapes it into imaginative, sometimes surreal scenarios. People who mind-wander more tend to have fragmented dreams, while those …",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Apr 28, 2026",
+        "date_sort": 1777378118.0,
         "score": 3
       }
     ]
