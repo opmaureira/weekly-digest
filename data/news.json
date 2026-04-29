@@ -5,15 +5,6 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "Inside JetBlue’s Plan To Survive The 2026 Iran Crisis Fuel Spike",
-        "url": "https://simpleflying.com/jetblue-fuel-related-capacity-cuts/",
-        "summary": "The cuts will be less severe in Q2, before ramping up in the second half of the year.",
-        "source": "Simple Flying",
-        "date": "Apr 28, 2026",
-        "date_sort": 1777388533.0,
-        "score": 5
-      },
-      {
         "title": "777-9 Rework Is Big—Not a New Crisis",
         "url": "https://airinsight.com/777-9-rework-is-big-not-a-new-crisis/",
         "summary": "Six years late and $15 billion deeper in the red, Boeing’s 777-9 program just revealed another layer of complexity: roughly",
@@ -41,12 +32,12 @@
         "score": 5
       },
       {
-        "title": "New Super Hornet: Why The Navy's Workhorse Fighter Is Getting A Block III Brain Transplant",
-        "url": "https://simpleflying.com/f-a-18-super-hornet-block-iii-upgrade/",
-        "summary": "The US Navy’s Super Hornet is undergoing a major upgrade, with a new digital backbone and advanced electronics built to counter modern threats.",
+        "title": "Flight Alerts: 16 Exciting New Nonstop Routes Launching This Week",
+        "url": "https://simpleflying.com/notable-airline-routes-206/",
+        "summary": "See which notable examples made the list this week...",
         "source": "Simple Flying",
-        "date": "Apr 28, 2026",
-        "date_sort": 1777388421.0,
+        "date": "Apr 29, 2026",
+        "date_sort": 1777471217.0,
         "score": 3
       },
       {
@@ -57,6 +48,15 @@
         "date": "Apr 24, 2026",
         "date_sort": 1777037863.0,
         "score": 3
+      },
+      {
+        "title": "Real Green Aviation: Airbus, Delta and DSO",
+        "url": "https://airinsight.com/real-green-aviation-airbus-delta-and-dso/",
+        "summary": "In a major boost to operational efficiency and sustainability, Airbus has successfully deployed its Descent Profile Optimisation (DPO) technology across",
+        "source": "AirInsight",
+        "date": "Apr 23, 2026",
+        "date_sort": 1776957524.0,
+        "score": 3
       }
     ]
   },
@@ -66,40 +66,31 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Serie de sismos ocurrieron cerca de la comuna de Navidad en la región de O’Higgins",
-        "url": "https://www.latercera.com/nacional/noticia/serie-de-sismos-ocurrieron-cerca-de-la-comuna-de-navidad-en-la-region-de-ohiggins/",
-        "summary": "Se espera que esta jornada el Presidente José Antonio Kast visite el Instituto Teletón de la región para anunciar el ingreso de un proyecto de ley que decrete el primer sábado de noviembre el Día de la Teletón.",
+        "title": "Raúl Soto (PPD) y megaproyecto de Kast: “Esta es una reforma que va contraria al sentido común”",
+        "url": "https://www.latercera.com/politica/noticia/raul-soto-ppd-y-megaproyecto-de-kast-esta-es-una-reforma-que-va-contraria-al-sentido-comun/",
+        "summary": "El diputado y jefe de bancada del PPD también abordó el papel del PDG, indicando que a su parecer \"Franco París se vendió muy rápido y muy barato” para apoyar la megarreforma.",
         "source": "La Tercera",
-        "date": "Apr 28, 2026",
-        "date_sort": 1777383665.0,
-        "score": 7
-      },
-      {
-        "title": "Gobierno ratifica que aplicará el fraccionamiento pesquero, pero desecha seguir adelante con proyecto de pesca de Boric",
-        "url": "https://www.latercera.com/pulso/noticia/gobierno-ratifica-que-aplicara-el-fraccionamiento-pesquero-pero-desecha-seguir-adelante-con-proyecto-de-pesca-de-boric/",
-        "summary": "El subsecretario de Pesca, Osvaldo Urrutia, anuncia que el proyecto de ley general de pesca que envió el gobierno de Gabriel Boric en enero de 2024 al Congreso y que la actual administración retiró para su revisión no va más y que no será reingresado, explicando las razones al respecto. “Era un proy…",
-        "source": "La Tercera",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777338093.0,
-        "score": 7
-      },
-      {
-        "title": "Winter cuestiona megarreforma y apunta que de aprobarse sería “el mayor espolonazo al Estado de Chile desde 1974″",
-        "url": "https://www.latercera.com/politica/noticia/winter-cuestiona-megarreforma-y-apunta-que-de-aprobarse-seria-el-mayor-espolonazo-al-estado-de-chile-desde-1974/",
-        "summary": "En la ocasión, Winter además reiteró el llamado a dividir el proyecto y enfatizó que desde el Frente Amplio están dispuestos a apoyar lo relacionado con reconstrucción.",
-        "source": "La Tercera",
-        "date": "Apr 28, 2026",
-        "date_sort": 1777381811.0,
+        "date": "Apr 29, 2026",
+        "date_sort": 1777468982.0,
         "score": 5
       },
       {
-        "title": "Three disasters in three years: Brazil’s deadly floods show women are ‘the first to die’ when extreme weather hits",
-        "url": "https://www.theguardian.com/global-development/2026/apr/24/three-disasters-three-years-brazil-deadly-floods-women-extreme-weather",
-        "summary": "The climate crisis is accelerating the frequency of devastating events across the world, displacing millions and disproportionately affecting womenThe water mark on Naira Santa Rita’s wall told the story before she could find the words for it. High and brown, like a scar, it was the line left by the…",
-        "source": "Americas | The Guardian",
-        "date": "Apr 24, 2026",
-        "date_sort": 1777028437.0,
-        "score": 7
+        "title": "Chile fija las reglas para vender reducciones de emisiones al mundo sin comprometer sus metas climáticas",
+        "url": "https://www.latercera.com/sustentabilidad/noticia/chile-fija-las-reglas-para-vender-reducciones-de-emisiones-al-mundo-sin-comprometer-sus-metas-climaticas/",
+        "summary": "La resolución presentada por el Ministerio del Medio Ambiente define 41 tipologías de proyectos que podrán generar ITMOs bajo el Artículo 6 del Acuerdo de París. La medida, de las últimas del gobierno de Gabriel Boric, busca atraer inversión climática con reglas claras, proteger la NDC y dar continu…",
+        "source": "La Tercera",
+        "date": "Apr 27, 2026",
+        "date_sort": 1777298311.0,
+        "score": 5
+      },
+      {
+        "title": "Matías Claro defiende las S.A. en el fútbol: “La liga chilena es de las pocas en Sudamérica donde están todos con sus sueldos y cotizaciones al día”",
+        "url": "https://www.latercera.com/pulso/noticia/matias-claro-defiende-sociedades-anonimas-y-dice-que-en-chile-se-pagan-sueldos-y-cotizaciones/",
+        "summary": "Presidente de Cruzados dijo que los socios del club han aportado US$ 50 millones, que no han recibido dividendos y que no lo harán en muchos años más. Están de acuerdo en un 90% con la nueva Ley de Sociedades Anónimas y admitió que hay un \"problema\" con las casas de apuestas.",
+        "source": "La Tercera",
+        "date": "Apr 29, 2026",
+        "date_sort": 1777467880.0,
+        "score": 3
       },
       {
         "title": "Making history and facing Neymar - Lingard on life in Brazil",
@@ -109,6 +100,15 @@
         "date": "Apr 27, 2026",
         "date_sort": 1777266661.0,
         "score": 6
+      },
+      {
+        "title": "‘Total peace’ or ‘all-out war’? Colombian voters face stark choice as rebel attacks surge",
+        "url": "https://www.theguardian.com/world/2026/apr/29/colombia-election-total-peace-promise-violence",
+        "summary": "As the country prepares to elect a new president, a fierce debate is raging on how to end the decades-long armed conflict for good The landmark 2016 peace deal between the Colombian government and the largest insurgent army in Latin America succeeded in some ways: the Revolutionary Armed Forces of C…",
+        "source": "Americas | The Guardian",
+        "date": "Apr 29, 2026",
+        "date_sort": 1777467786.0,
+        "score": 5
       },
       {
         "title": "‘A sudden gap’: poorest to suffer from Trump’s drive to stop Cuba sending doctors to its neighbours",
@@ -136,6 +136,24 @@
         "score": 7
       },
       {
+        "title": "The Moto Razr and Razr Plus are victims of shrinkflation",
+        "url": "https://www.theverge.com/tech/920236/motorola-razr-plus-2026-price",
+        "summary": "The memory crisis claims another couple of victims. Motorola's midtier and entry-level flip phones cost $100 more than their predecessors, and have few upgrades to show for it. The 2026 Razr Plus costs $1,099, up from $999. It still comes with a Snapdragon 8S Gen 3 chipset - two years old at this po…",
+        "source": "The Verge",
+        "date": "Apr 29, 2026",
+        "date_sort": 1777478400.0,
+        "score": 5
+      },
+      {
+        "title": "Adidas Adizero Adios Pro Evo 3 Shoe Review: World Record Breaker",
+        "url": "https://www.wired.com/review/adidas-adizero-pro-evo-3/",
+        "summary": "I ran in Sabastian Sawe’s world-record-breaking running shoe. It’s fast, but only if you can maintain your locked-in form for 26 miles.",
+        "source": "WIRED",
+        "date": "Apr 29, 2026",
+        "date_sort": 1777460400.0,
+        "score": 5
+      },
+      {
         "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
         "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Nota…",
@@ -145,39 +163,21 @@
         "score": 5
       },
       {
-        "title": "Here’s How Much San Francisco Tech Companies Pay for Police Protection",
-        "url": "https://www.wired.com/story/heres-how-much-san-francisco-tech-companies-are-paying-for-police-protection/",
-        "summary": "A recent attack on Sam Altman’s home and OpenAI offices has put corporate security under renewed scrutiny. Records reveal how much some tech firms spend to arm up.",
-        "source": "WIRED",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777284000.0,
-        "score": 5
-      },
-      {
-        "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-        "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-        "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-        "source": "WIRED",
-        "date": "Apr 25, 2026",
-        "date_sort": 1777113000.0,
-        "score": 5
-      },
-      {
-        "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
-        "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its laun…",
+        "title": "Google Photos launches an AI try-on feature for clothes you already have",
+        "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+        "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Goog…",
         "source": "The Verge",
-        "date": "Apr 28, 2026",
-        "date_sort": 1777394948.0,
+        "date": "Apr 29, 2026",
+        "date_sort": 1777478400.0,
         "score": 3
       },
       {
-        "title": "Google Translate can now help you with pronunciation",
-        "url": "https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability",
-        "summary": "Google has launched a new AI-powered feature for Translate that can help you correct and practice your enunciation when learning a new language. The \"pronunciation practice\" tool analyzes your speech to provide instant feedback on how to improve before jumping into an actual conversation in your cho…",
+        "title": "Uber adds hotels to its app in big travel swing",
+        "url": "https://www.theverge.com/transportation/919393/uber-hotel-expedia-vrbo-ai-voice-search",
+        "summary": "Open Uber's app and you'll see options to hail a car, order some food, or go grocery shopping. And starting today, you'll see something new: hotels. In a major expansion into the world of travel accommodations, Uber says that it's adding the ability to book and pay for a hotel room to its app. The […",
         "source": "The Verge",
-        "date": "Apr 28, 2026",
-        "date_sort": 1777392000.0,
+        "date": "Apr 29, 2026",
+        "date_sort": 1777474800.0,
         "score": 3
       }
     ]
@@ -188,30 +188,21 @@
     "color": "#22c55e",
     "articles": [
       {
-        "title": "‘Petro-masculinity’ is destroying the planet. Can eco-masculinity help save it? | Andrew Boyd",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/22/masculinity-gender-climate-crisis",
-        "summary": "It’s crucial to understanding how gender is affecting our ability to rally behind a shared ecological visionFeminist influencer Liz Plank opens her groundbreaking book For the Love of Men with a bold statement: “There is no greater threat to humankind than our current definitions of masculinity.” Sh…",
+        "title": "Hot weather and hungry datacentres lift Australia’s energy demand to record highs but batteries quell prices",
+        "url": "https://www.theguardian.com/environment/2026/apr/30/hot-weather-and-hungry-datacentres-lift-australias-energy-demand-to-record-highs-but-batteries-quell-prices",
+        "summary": "Rise in electricity demand in first quarter of 2026 was moderated by record output from rooftop solarGet our breaking news email, free app or daily news podcastMore datacentres and warmer conditions helped push electricity demand to record highs in the first three months of the year, according to Au…",
         "source": "Environment | The Guardian",
-        "date": "Apr 22, 2026",
-        "date_sort": 1776852024.0,
-        "score": 9
-      },
-      {
-        "title": "One year after Spain’s blackout, its shift to renewables and grid evolution power on",
-        "url": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
-        "summary": "Though solar was initially incorrectly blamed for crisis, renewables have helped insulate Spain from gas price rises caused by war in Middle EastOne year ago today, all of Spain, and much of Portugal, suffered through a blackout of unprecedented scale and duration. In mere seconds, a cascading seque…",
-        "source": "Environment | The Guardian",
-        "date": "Apr 28, 2026",
-        "date_sort": 1777384068.0,
+        "date": "Apr 29, 2026",
+        "date_sort": 1777471310.0,
         "score": 7
       },
       {
-        "title": "Middle East crisis could cost world $1tn while oil firms make ‘obscene’ profit, analysis finds",
-        "url": "https://www.theguardian.com/environment/2026/apr/28/middle-east-crisis-oil-firms-profit-colombia-conference",
-        "summary": "Climate group calls for urgent windfall tax on excess fossil fuel profits, as delegates tell Colombia conference their nations are sufferingThe Middle East oil and gas crunch will impose as much as a trillion dollars of additional costs on the global economy while petroleum companies rake in spectac…",
+        "title": "‘Suicidal’ model of capitalism leading to war and fascism, climate summit told",
+        "url": "https://www.theguardian.com/environment/2026/apr/29/capitalism-colombia-climate-summit-gustavo-petro",
+        "summary": "Colombia president Gustavo Petro tells 57-country talks on a green energy transition that fossil fuel interests could destroy humanityThe world is threatened by a “suicidal” model of capitalism that is leading to war, fascism and the potential extinction of humanity, Colombia’s president has said, a…",
         "source": "Environment | The Guardian",
-        "date": "Apr 28, 2026",
-        "date_sort": 1777374009.0,
+        "date": "Apr 29, 2026",
+        "date_sort": 1777456851.0,
         "score": 7
       },
       {
@@ -233,13 +224,22 @@
         "score": 7
       },
       {
-        "title": "How climate change threatens the economic backbone of the Pacific",
-        "url": "https://www.bbc.com/news/articles/cq57vxjvdy4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Tuna populations around the Pacific Islands could move away as ocean temperatures increase.",
-        "source": "BBC News",
-        "date": "Apr 26, 2026",
-        "date_sort": 1777245401.0,
-        "score": 4
+        "title": "Timmy the whale rescue attempt begins off coast of Germany – in pictures",
+        "url": "https://www.theguardian.com/environment/gallery/2026/apr/29/timmy-the-whale-rescue-attempt-begins-germany-in-pictures",
+        "summary": "A rescue operation to transport a young male humpback to deeper waters in the North Sea after it became stranded in the Baltic Sea off Lübeck a month ago is under way. The whale’s ordeal has gripped Germany but there are concerns it may be too fatigued and sick to surviveStranded whale swims on to b…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 29, 2026",
+        "date_sort": 1777460505.0,
+        "score": 5
+      },
+      {
+        "title": "Trump administration blocks US wind energy projects in switch to oil and gas",
+        "url": "https://www.theguardian.com/us-news/2026/apr/28/trump-administration-wind-projects",
+        "summary": "US representatives Jared Huffman and Jamie Raskin earlier this month called agreements outrageous and unlawfulSign up for the Breaking News US email to get newsletter alerts in your inboxThe Trump administration blocked two permitted US wind energy projects from development this week, with an agreem…",
+        "source": "Environment | The Guardian",
+        "date": "Apr 28, 2026",
+        "date_sort": 1777412263.0,
+        "score": 5
       }
     ]
   },
@@ -267,12 +267,21 @@
         "score": 5
       },
       {
-        "title": "How do you restore the wild spaces in a corner of England?",
-        "url": "https://www.bbc.com/news/articles/c747pjxv1gvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Plans to improve nature have been unveiled, aiming to restore habitats and protect wildlife.",
+        "title": "Student uses space cosmic rays to make photographs",
+        "url": "https://www.bbc.com/news/articles/c152gpqxkv0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Blank negative photographic film sealed in a bag is sent to edge of space using a helium balloon.",
         "source": "BBC News",
-        "date": "Apr 27, 2026",
-        "date_sort": 1777267048.0,
+        "date": "Apr 29, 2026",
+        "date_sort": 1777440192.0,
+        "score": 4
+      },
+      {
+        "title": "'Pioneering' study to boost bee numbers at Wakehurst",
+        "url": "https://www.bbc.com/news/articles/cewpl0vv721o?at_medium=RSS&at_campaign=rss",
+        "summary": "The study is part of Wakehurst's Nature Unlocked programme, which aims to improve biodiversity.",
+        "source": "BBC News",
+        "date": "Apr 28, 2026",
+        "date_sort": 1777402783.0,
         "score": 4
       },
       {
@@ -285,21 +294,12 @@
         "score": 4
       },
       {
-        "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
-        "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner,…",
-        "source": "Latest Science News -- ScienceDaily",
+        "title": "Competition between separated parental genomes in fertilized eggs aids development",
+        "url": "https://www.nature.com/articles/d41586-026-01270-9",
+        "summary": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01270-9In fertilized egg cells, the maternal and paternal genomes are enclosed in separate compartments called pronuclei. Experiments in mice reveal that this spatial separation enables parental competition for cytoplasmic factors, whic…",
+        "source": "Nature",
         "date": "Apr 28, 2026",
-        "date_sort": 1777383337.0,
-        "score": 3
-      },
-      {
-        "title": "Your dreams aren’t random. Here’s what’s really happening",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260428045538.htm",
-        "summary": "Dreams are more structured than they seem, shaped by both personal traits and real-world experiences. Researchers found that the brain doesn’t just replay daily life—it reshapes it into imaginative, sometimes surreal scenarios. People who mind-wander more tend to have fragmented dreams, while those …",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Apr 28, 2026",
-        "date_sort": 1777378118.0,
+        "date_sort": 1777420800.0,
         "score": 3
       }
     ]
