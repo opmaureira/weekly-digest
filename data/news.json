@@ -5,12 +5,12 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "50 Daily Flights: Inside British Airways' Record-Breaking US Network In Summer 2026",
-        "url": "https://simpleflying.com/british-airways-record-us-network-summer-2026/",
-        "summary": "The UK flag carrier serves American destinations from two London gateways.",
+        "title": "Inside The Airbus A350F's Record-Breaking Cargo Door That Swallows Jet Engines Whole",
+        "url": "https://simpleflying.com/airbus-a350f-record-breaking-cargo-door-swallows-jet-engines-whole/",
+        "summary": "The Airbus A350F cargo door fits whole jet engines while preserving structural strength and safety.",
         "source": "Simple Flying",
-        "date": "May 10, 2026",
-        "date_sort": 1778407224.0,
+        "date": "May 11, 2026",
+        "date_sort": 1778515218.0,
         "score": 5
       },
       {
@@ -23,6 +23,24 @@
         "score": 5
       },
       {
+        "title": "Breeze Airways Launches 5 Exciting New International Routes [List & Map]",
+        "url": "https://simpleflying.com/breeze-airways-launches-5-exciting-new-international-routes-list-map/",
+        "summary": "It'll now operate internationally from nine US cities. See the latest information here!",
+        "source": "Simple Flying",
+        "date": "May 11, 2026",
+        "date_sort": 1778518819.0,
+        "score": 3
+      },
+      {
+        "title": "New 14-Hour US Route: Royal Jordanian Launches First-Ever Flight To Dallas",
+        "url": "https://simpleflying.com/new-14-hour-us-route-royal-jordanian-launches-first-ever-flight-to-dallas/",
+        "summary": "Its jets are now seen in seven North American cities. Find out all about the new Dallas service here!",
+        "source": "Simple Flying",
+        "date": "May 11, 2026",
+        "date_sort": 1778511619.0,
+        "score": 3
+      },
+      {
         "title": "Airbus A220 160-seater On The Table For Years",
         "url": "https://airinsight.com/airbus-a220-160-seater-on-the-table-for-years/",
         "summary": "AirAsia X’s selection of the high-density version of the Airbus A220-300 makes it the launch customer of this variant. But",
@@ -32,30 +50,12 @@
         "score": 3
       },
       {
-        "title": "How Much Do Air Traffic Controllers At The World's Busiest Airports Actually Earn In 2026?",
-        "url": "https://simpleflying.com/how-much-atc-worlds-busiest-airports-actually-earn-2026/",
-        "summary": "Controllers are desperately needed to help with a global staffing shortage, pushing salaries higher and higher for those watching the skies",
+        "title": "288 Evacuated After Turkish Airlines Airbus A330 Catches Fire",
+        "url": "https://simpleflying.com/288-evacuated-turkish-airlines-airbus-a330-catches-fire/",
+        "summary": "The emergency evacuation of a Turkish Airlines Airbus A330 in Kathmandu highlighted the critical importance of rigorous safety training.",
         "source": "Simple Flying",
-        "date": "May 10, 2026",
-        "date_sort": 1778421618.0,
-        "score": 1
-      },
-      {
-        "title": "Is It True That The Boeing 777X's Engine Costs More Than Some Private Jets?",
-        "url": "https://simpleflying.com/true-boeing-777x-engine-costs-more-private-jets/",
-        "summary": "As per the list price, each of these engines can cost around $40-45 million, and each 777X aircraft requires two of these engines!",
-        "source": "Simple Flying",
-        "date": "May 10, 2026",
-        "date_sort": 1778418017.0,
-        "score": 1
-      },
-      {
-        "title": "The Pilot Shortage In 2026: Is It Still Real, And What Is Actually Being Done About It?",
-        "url": "https://simpleflying.com/pilot-shortage-2026-us-aviation-academy-analysis/",
-        "summary": "The relatively low mandatory retirement age for pilots means that thousands leave the role every year, and airlines are in a race to replace them.",
-        "source": "Simple Flying",
-        "date": "May 10, 2026",
-        "date_sort": 1778418017.0,
+        "date": "May 11, 2026",
+        "date_sort": 1778522219.0,
         "score": 1
       }
     ]
@@ -66,40 +66,31 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "La chispa que encendió a los secundarios",
-        "url": "https://www.latercera.com/nacional/noticia/la-chispa-que-encendio-a-los-secundarios/",
-        "summary": "El proyecto de Ley Escuelas Protegidas desató el descontento de los secundarios, que han convocado marchas masivas en contra de la legislación. Lo que se inició como una toma en el Liceo de Aplicación de Santiago, se extendió a otros colegios emblemáticos de la capital y Providencia. Desde la dirige…",
+        "title": "“Please, come back”: la petición de Jorge Quiroz a los inversionistas extranjeros en el Chile Day de Toronto",
+        "url": "https://www.latercera.com/pulso/noticia/please-come-back-la-peticion-de-jorge-quiroz-a-los-inversionistas-extranjeros-en-el-chile-day-de-toronto/",
+        "summary": "El ministro de Hacienda realizó su segunda presentación en el marco del Chile Day, esta vez en Canadá. En la ocasión presentó el detalle del proyecto de ley de Reconstrucción Nacional y subrayó la necesidad de volver a crecer. “Estuvimos un poco locos por un tiempo. Y no es sorprendente que la gente…",
         "source": "La Tercera",
-        "date": "May 10, 2026",
-        "date_sort": 1778407200.0,
-        "score": 5
-      },
-      {
-        "title": "Test Descifra-Gabinete de Kast: Quiroz se consolida como el ministro más poderoso",
-        "url": "https://www.latercera.com/politica/noticia/test-descifra-gabinete-de-kast-quiroz-se-consolida-como-el-ministro-mas-poderoso/",
-        "summary": "Aunque la tendencia general de mayo es negativa para el gabinete, el titular de Hacienda es percibido como la figura clave del gobierno. De la mano del proyecto de ley de reconstrucción, obtiene, además, el mejor promedio entre su presencia en la prensa y en redes sociales y el control de su agenda.…",
-        "source": "La Tercera",
-        "date": "May 10, 2026",
-        "date_sort": 1778407200.0,
-        "score": 5
-      },
-      {
-        "title": "Canciller Pérez Mackenna y subsecretaria Estévez visitan India para impulsar acuerdo comercial e inversiones",
-        "url": "https://www.latercera.com/nacional/noticia/canciller-perez-mackenna-y-subsecretaria-estevez-visitan-india-para-impulsar-acuerdo-comercial-e-inversiones/",
-        "summary": "La delegación chilena busca avanzar en un Acuerdo de Asociación Económica Integral y abrir nuevas oportunidades de exportación en una de las economías más grandes del mundo.",
-        "source": "La Tercera",
-        "date": "May 10, 2026",
-        "date_sort": 1778422691.0,
-        "score": 3
-      },
-      {
-        "title": "Uno de los rivales de la UC entra en crisis: Boca Juniors es eliminado del Torneo Apertura de Argentina",
-        "url": "https://www.latercera.com/el-deportivo/noticia/uno-de-los-rivales-de-la-uc-entra-en-crisis-boca-juniors-es-eliminado-del-torneo-apertura-de-argentina/",
-        "summary": "Huracán, donde Leonardo Gil abrió la cuenta y Hernán Galíndez fue la figura, deja en el camino al cuadro xeneize en la máxima competición transandina con un histórico 3-2 en la Bombonera.",
-        "source": "La Tercera",
-        "date": "May 09, 2026",
-        "date_sort": 1778374071.0,
+        "date": "May 11, 2026",
+        "date_sort": 1778516343.0,
         "score": 7
+      },
+      {
+        "title": "El tsunami terminó en llovizna: oposición restringe presentación de indicaciones a megaproyecto de Kast",
+        "url": "https://www.latercera.com/politica/noticia/el-tsunami-termino-en-llovizna-oposicion-restringe-presentacion-de-indicaciones-a-megaproyecto-de-kast/",
+        "summary": "La principal ofensiva opositora se materializó en una propuesta de 10 indicaciones, que fue acompañada por una carta que entregaron legisladores en La Moneda bajo el nombre de “Crecimiento para todos”.",
+        "source": "La Tercera",
+        "date": "May 11, 2026",
+        "date_sort": 1778521009.0,
+        "score": 5
+      },
+      {
+        "title": "Récord de escaleras mecánicas y ascensores malos: la compleja situación que enfrenta Metro de Santiago",
+        "url": "https://www.latercera.com/nacional/noticia/record-de-escaleras-mecanicas-y-ascensores-malos-la-compleja-situacion-que-enfrenta-metro-de-santiago/",
+        "summary": "Con más de 660 millones de viajes anuales, un total de 44 estaciones presentan fallas. Destaca la Línea 5 con 19 elementos fuera de funcionamiento. Los problemas, además, alcanzan al nuevo sistema de pago con tarjetas bancarias.",
+        "source": "La Tercera",
+        "date": "May 11, 2026",
+        "date_sort": 1778520600.0,
+        "score": 3
       },
       {
         "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
@@ -109,6 +100,15 @@
         "date": "May 07, 2026",
         "date_sort": 1778211906.0,
         "score": 4
+      },
+      {
+        "title": "‘We are treading heavily on the Earth’: Ailton Krenak on consumerism, shock tactics and how to sleep in a hammock",
+        "url": "https://www.theguardian.com/global-development/2026/may/11/ailton-krenak-indigenous-brazil-consumerism-earth-rights",
+        "summary": "Since his groundbreaking address to the Brazilian congress in 1987, the 72-year-old Indigenous leader has challenged assumptions and championed rights, urging us to ‘have the courage to change’After 21 years of military dictatorship in Brazil, it was a pivotal moment. Wearing a suit and tie, Ailton …",
+        "source": "Americas | The Guardian",
+        "date": "May 11, 2026",
+        "date_sort": 1778497253.0,
+        "score": 3
       },
       {
         "title": "‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest",
@@ -127,6 +127,24 @@
     "color": "#6366f1",
     "articles": [
       {
+        "title": "Fostering breakthrough AI innovation through customer-back engineering",
+        "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+        "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a…",
+        "source": "MIT Technology Review",
+        "date": "May 11, 2026",
+        "date_sort": 1778506386.0,
+        "score": 7
+      },
+      {
+        "title": "Three things in AI to watch, according to a Nobel-winning economist",
+        "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to …",
+        "source": "MIT Technology Review",
+        "date": "May 11, 2026",
+        "date_sort": 1778520912.0,
+        "score": 5
+      },
+      {
         "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
         "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
         "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
@@ -136,48 +154,30 @@
         "score": 5
       },
       {
-        "title": "A blueprint for using AI to strengthen democracy",
-        "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-        "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele…",
-        "source": "MIT Technology Review",
-        "date": "May 05, 2026",
-        "date_sort": 1777971600.0,
-        "score": 5
-      },
-      {
-        "title": "Logitech Promo Codes and Deals: Up to $100 Off",
-        "url": "https://www.wired.com/story/logitech-promo-code/",
-        "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
-        "source": "WIRED",
-        "date": "May 09, 2026",
-        "date_sort": 1778302800.0,
+        "title": "7 of our favorite deals from Amazon’s Pet Days sale",
+        "url": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale",
+        "summary": "A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I’m not spending anywhere near as much money on tech as I am on food, litter, and other supplies for our two cats. Sad, but true. If your life is [&#8230;]",
+        "source": "The Verge",
+        "date": "May 11, 2026",
+        "date_sort": 1778514332.0,
         "score": 3
       },
       {
-        "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-        "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-        "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t…",
+        "title": "Innovation abounds in device charging",
+        "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+        "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a…",
         "source": "MIT Technology Review",
-        "date": "May 08, 2026",
-        "date_sort": 1778284759.0,
+        "date": "May 11, 2026",
+        "date_sort": 1778504400.0,
         "score": 3
       },
       {
-        "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
-        "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rat…",
+        "title": "Implementing advanced AI technologies in finance",
+        "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+        "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of…",
         "source": "MIT Technology Review",
-        "date": "May 08, 2026",
-        "date_sort": 1778257180.0,
-        "score": 3
-      },
-      {
-        "title": "The Download: AI malaise and babymaking tech",
-        "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society…",
-        "source": "MIT Technology Review",
-        "date": "May 08, 2026",
-        "date_sort": 1778242200.0,
+        "date": "May 11, 2026",
+        "date_sort": 1778504400.0,
         "score": 3
       }
     ]
@@ -215,6 +215,15 @@
         "score": 8
       },
       {
+        "title": "Sharp drop in ‘forever chemicals’ in seabird eggs hailed as win for regulation",
+        "url": "https://www.theguardian.com/environment/2026/may/11/pfas-seabird-eggs-forever-chemicals",
+        "summary": "Levels of Pfas in northern gannet eggs in Canada fell up to 74% over 55-year period of studyLevels of some of the most dangerous Pfas compounds have dramatically fallen in Canadian seabird eggs, which the authors of a new peer-reviewed study say illustrates how regulations are effective.Researchers …",
+        "source": "Environment | The Guardian",
+        "date": "May 11, 2026",
+        "date_sort": 1778500854.0,
+        "score": 7
+      },
+      {
         "title": "‘Closing the chapter’ on Fema: Trump panel seeks to weaken disaster response amid climate crisis",
         "url": "https://www.theguardian.com/us-news/2026/may/09/trump-council-fema-disaster-preparedness",
         "summary": "Council’s plan will leave Federal Emergency Management Agency ill-equipped to respond to extreme weather events, experts saySweeping changes may be in store at the Federal Emergency Management Agency (Fema), the nation’s frontline emergency response coordinator, that experts warned could further ero…",
@@ -231,15 +240,6 @@
         "date": "May 07, 2026",
         "date_sort": 1778155249.0,
         "score": 7
-      },
-      {
-        "title": "A deadly bacterium is creeping up the US east coast. How worried should we be?",
-        "url": "https://www.theguardian.com/environment/2026/may/10/vibrio-bacteria-east-coast-climate-change",
-        "summary": "Warming ocean waters are priming beaches and raw shellfish for Vibrio even as scientists are trying to stay one step aheadBailey Magers and Sunil Kumar cut strange figures on Pensacola Beach. Bags of disinfectant solution surrounded them on the white sand; their gloved hands juggled test tubes while…",
-        "source": "Environment | The Guardian",
-        "date": "May 10, 2026",
-        "date_sort": 1778422279.0,
-        "score": 5
       }
     ]
   },
