@@ -5,57 +5,57 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "First Look: LAX’s Oneworld Business Class Lounge Gets Major Refresh And Capacity Boost",
-        "url": "https://simpleflying.com/lax-qantas-oneworld-business-lounge-refresh/",
-        "summary": "The newly refreshed oneworld Business Class Lounge at LAX is a joint venture between Qantas, British Airways, and Cathay Pacific.",
-        "source": "Simple Flying",
+        "title": "Airbus Cuts as Supply Chain Crisis Deepens",
+        "url": "https://airinsight.com/airbus-cuts-as-supply-chain-crisis-deepens/",
+        "summary": "For much of the post-pandemic recovery, the commercial aviation industry has operated under a simple assumption: demand is no longer",
+        "source": "AirInsight",
         "date": "May 19, 2026",
-        "date_sort": 1779172662.0,
-        "score": 3
+        "date_sort": 1779216120.0,
+        "score": 5
       },
       {
-        "title": "Delta Vs Musk: Why The Airline Snubbed Starlink",
-        "url": "https://simpleflying.com/why-starlink-not-right-for-delta-air-lines/",
-        "summary": "The carrier's CEO has fired back at criticism from Mr Musk.",
-        "source": "Simple Flying",
-        "date": "May 19, 2026",
-        "date_sort": 1779195084.0,
+        "title": "US Air Traffic Remains Stable in 2026",
+        "url": "https://airinsight.com/us-air-traffic-remains-stable-in-2026/",
+        "summary": "Here&#8217;s our latest monthly US air traffic review. You&#8217;ve seen the news and read the opinions. Here&#8217;s the data to",
+        "source": "AirInsight",
+        "date": "May 20, 2026",
+        "date_sort": 1779281559.0,
         "score": 1
       },
       {
-        "title": "20 More Widebodies: Lufthansa Doubles Down On Boeing 787-9 and Airbus A350-900",
-        "url": "https://simpleflying.com/video/20-more-widebodies-lufthansa-doubles-down-on-boeing-787-9-and-airbus-a350-900/",
-        "summary": "The Supervisory Board of Deutsche Lufthansa AG has approved an order for 20 additional widebody aircraft, split evenly between ten Airbus A350-900s and ten Boeing 787-9s. Deliveries of these aircraft are scheduled between 2032 and 2034.",
+        "title": "4.5 Hour Holding Pattern!? Why A Garuda A330neo Was 'Stuck' Over The Indian Cost",
+        "url": "https://simpleflying.com/video/4-5-hour-holding-pattern-why-a-garuda-a330neo-was-stuck-over-the-indian-cost/",
+        "summary": "On May 8th, an A330-900 operated by Garuda Indonesia was put in a holding pattern far, far from its destination, just past the midway point of the flight… and for four and a half hours!",
         "source": "Simple Flying",
-        "date": "May 19, 2026",
-        "date_sort": 1779193818.0,
+        "date": "May 20, 2026",
+        "date_sort": 1779280159.0,
         "score": 1
       },
       {
-        "title": "Massive 19-Hour Flights: KLM's 10 New Ultra-Long Routes In 2026 [Full List]",
-        "url": "https://simpleflying.com/massive-19-hour-flights-klms-10-new-ultra-long-routes-in-2026-full-list/",
-        "summary": "Discover KLM's most epic flights, including a staggering 19-hour journey.",
+        "title": "Qatar Airways Has Ended Airbus A380 Flights On 5 Routes [Updated List]",
+        "url": "https://simpleflying.com/qatar-airways-has-ended-airbus-a380-flights-on-5-routes-updated-list/",
+        "summary": "The airline's double-decker network has evolved significantly in recent years...",
         "source": "Simple Flying",
-        "date": "May 19, 2026",
-        "date_sort": 1779192018.0,
+        "date": "May 20, 2026",
+        "date_sort": 1779274820.0,
         "score": 1
       },
       {
-        "title": "Corruption Investigation After Ex-Prime Minister's Controversial $60 Million Airline Bailout",
-        "url": "https://simpleflying.com/corruption-investigation-ex-prime-minister-airline-bailout/",
-        "summary": "The carrier has also faced scrutiny for its links to Venezuela.",
+        "title": "Boeing Just Can't Deliver On Time: Which Jets Are Furthest Behind?",
+        "url": "https://simpleflying.com/boeing-cant-deliver-on-time-jets-further-behind/",
+        "summary": "The US manufacturer still has a number of outstanding orders.",
         "source": "Simple Flying",
-        "date": "May 19, 2026",
-        "date_sort": 1779190942.0,
+        "date": "May 20, 2026",
+        "date_sort": 1779274820.0,
         "score": 1
       },
       {
-        "title": "Why Longer Airline Routes Can Be Faster",
-        "url": "https://simpleflying.com/video/why-longer-airline-routes-can-be-faster/",
-        "summary": "To the casual observer glancing at a flight tracking map, the path of a long-haul jet often looks like a bizarre, unnecessary curve that deviates significantly from a direct line. However, the straight line is frequently an illusion born of flat-map distortion or a secondary priority to atmospheric …",
+        "title": "China Confirms Massive 200-Jet Boeing Order After Summit",
+        "url": "https://simpleflying.com/china-confirms-massive-200-jet-boeing-order/",
+        "summary": "A big win in a growing market.",
         "source": "Simple Flying",
-        "date": "May 19, 2026",
-        "date_sort": 1779188466.0,
+        "date": "May 20, 2026",
+        "date_sort": 1779270449.0,
         "score": 1
       }
     ]
@@ -66,30 +66,48 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Boric inicia ruta por Europa con charla en foro de Berlín: apunta al impacto de la crisis de combustibles y avance de la IA",
-        "url": "https://www.latercera.com/politica/noticia/boric-inicia-ruta-por-europa-con-charla-en-foro-de-berlin-apunta-al-impacto-de-la-crisis-de-combustibles-y-avance-de-la-ia/",
-        "summary": "En la instancia, el exmandatario además se refirió a la política energética de Trump, al calentamiento global y sus costos económicos.",
+        "title": "Tras sesión de ocho horas: Cámara de Diputados termina discusión de megarreforma de gobierno de Kast",
+        "url": "https://www.latercera.com/politica/noticia/camara-de-diputados-termina-primera-jornada-de-discusion-de-megarreforma-de-gobierno-de-kast/",
+        "summary": "El ministro de Hacienda, Jorge Quiroz, se ocupó de contestar la mayor parte de los argumentos de la oposición en torno al proyecto de ley, en especial en los puntos de impuesto corporativo, afectación en el Fondo Común Municipal y las normas medioambientales.",
         "source": "La Tercera",
         "date": "May 19, 2026",
-        "date_sort": 1779197135.0,
+        "date_sort": 1779230154.0,
+        "score": 7
+      },
+      {
+        "title": "Los grandes bancos ajustan sus perspectivas para la economía chilena y advierten que lo peor aún no se ha sentido",
+        "url": "https://www.latercera.com/pulso/noticia/los-grandes-bancos-ajustan-sus-perspectivas-para-la-economia-chilena-y-advierten-que-lo-peor-aun-no-se-ha-sentido/",
+        "summary": "JPMorgan, Santander y BTG Pactual proyectan que Chile no superará el 2% de crecimiento en 2026 tras la caída del PIB en el primer trimestre. Ven probabilidades de alza de tasas a fin de año.",
+        "source": "La Tercera",
+        "date": "May 20, 2026",
+        "date_sort": 1779282225.0,
         "score": 5
       },
       {
-        "title": "Gobierno dará suma urgencia a proyecto de ley que elimina feriado electoral para permitir funcionamiento del comercio",
-        "url": "https://www.latercera.com/nacional/noticia/gobierno-dara-suma-urgencia-a-proyecto-de-ley-que-elimina-feriado-electoral-para-permitir-funcionamiento-del-comercio/",
-        "summary": "De acuerdo con estimaciones de la Cámara de Comercio de Santiago, desde el año 2020 los procesos electorales han provocado pérdidas por US$ 900 millones.",
+        "title": "Quiroz confía en que megarreforma se aprobará en la Cámara y deja para el Senado reponer Sence y norma de propiedad intelectual",
+        "url": "https://www.latercera.com/pulso/noticia/quiroz-confia-en-que-megarreforma-se-aprobara-en-la-camara-y-deja-para-el-senado-reponer-sence-y-norma-de-propiedad-intelectual/",
+        "summary": "Este miércoles se tiene previsto que se vote en general y particular hasta total despacho el proyecto estructural de la administración de José Antonio Kast para que avance al Senado.",
         "source": "La Tercera",
         "date": "May 19, 2026",
-        "date_sort": 1779166613.0,
+        "date_sort": 1779237720.0,
         "score": 5
       },
       {
-        "title": "Guillermo Ramírez: “Me atrevería a decir que la UDI es el partido más leal al gobierno”",
-        "url": "https://www.latercera.com/politica/noticia/guillermo-ramirez-me-atreveria-a-decir-que-la-udi-es-el-partido-mas-leal-al-gobierno/",
-        "summary": "En el programa de streaming de La Tercera el presidente gremialista dijo que el gobierno de Kast está \"fundado en nuestras ideas\". Aunque reconoció que fue una \"mala cuña\" la de la ministra Steinert sobre el plan de seguridad, aseguró que en la Cuenta Pública el Mandatario va a hacer anuncios en esa…",
-        "source": "La Tercera",
-        "date": "May 18, 2026",
-        "date_sort": 1779154200.0,
+        "title": "‘Brits are not as groovy as us – but they’re less square than Europeans’: how drum’n’bass united Brazil and the UK",
+        "url": "https://www.theguardian.com/music/2026/may/20/drumnbass-united-brazil-and-the-uk",
+        "summary": "When drum’n’bass grew stale in the 90s, it got a samba-splicing Brazilian twist. As that style returns, the scene’s legends and newcomers celebrate a cross-cultural triumphWagner Ribeiro de Souza wasn’t carrying much in his backpack. A local compilation of techno, house and jungle hits, a couple of …",
+        "source": "Americas | The Guardian",
+        "date": "May 20, 2026",
+        "date_sort": 1779283842.0,
+        "score": 7
+      },
+      {
+        "title": "Just what the doctor ordered: Brazil’s drive to ditch UPFs from hospital menus",
+        "url": "https://www.theguardian.com/global-development/2026/may/20/brazil-ditch-upf-ultra-processed-food-hospital-school",
+        "summary": "Following the successful reduction of ultra-processed foods in schools, scientists and politicians hope to improve patient health with locally grown and freshly prepared mealsEvery month a few dozen staff from some of São Paulo’s leading hospitals take time out of their busy schedules to visit food …",
+        "source": "Americas | The Guardian",
+        "date": "May 20, 2026",
+        "date_sort": 1779264026.0,
         "score": 5
       },
       {
@@ -100,24 +118,6 @@
         "date": "May 17, 2026",
         "date_sort": 1779029230.0,
         "score": 5
-      },
-      {
-        "title": "High risk yet home to thousands: the makeshift towns at the mercy of landslides and floods in Peru",
-        "url": "https://www.theguardian.com/global-development/2026/may/18/high-risk-settlements-landslides-floods-peru-andes-ayacucho-urban-planning",
-        "summary": "Like many informal settlements, communities that have sprung up on the edges of Ayacucho in the Andes are on the frontline of extreme weather eventsIn December 2009, a late‑afternoon storm unleashed torrential rain over Ayacucho, in Peru, hitting poor hillside neighbourhoods hard. The deluge overwhe…",
-        "source": "Americas | The Guardian",
-        "date": "May 18, 2026",
-        "date_sort": 1779105647.0,
-        "score": 3
-      },
-      {
-        "title": "Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father",
-        "url": "https://www.theguardian.com/world/2026/may/14/flavio-bolsonaro-banker-film-jair-bolsonaro",
-        "summary": "Revelation seen as serious blow to candidacy of Flávio Bolsonaro, Brazil’s leading rightwing presidential hopefulFlávio Bolsonaro, Brazil’s leading rightwing presidential hopeful, has been caught on tape asking a banker accused of corruption for $26.8m (£20m) to fund a film about his father, the for…",
-        "source": "Americas | The Guardian",
-        "date": "May 14, 2026",
-        "date_sort": 1778795909.0,
-        "score": 3
       }
     ]
   },
@@ -136,48 +136,48 @@
         "score": 7
       },
       {
-        "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-        "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
-        "summary": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
-        "source": "WIRED",
-        "date": "May 16, 2026",
-        "date_sort": 1778927400.0,
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google ann…",
+        "source": "AI | VentureBeat",
+        "date": "May 19, 2026",
+        "date_sort": 1779212700.0,
         "score": 5
       },
       {
-        "title": "Understanding the modern cybercrime landscape",
-        "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
-        "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typi…",
-        "source": "MIT Technology Review",
+        "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
+        "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+        "summary": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
+        "source": "WIRED",
         "date": "May 19, 2026",
-        "date_sort": 1779195600.0,
+        "date_sort": 1779202828.0,
+        "score": 5
+      },
+      {
+        "title": "Boston Metal gets a $75 million lifeline to produce critical metals",
+        "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+        "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts to clean up steel production, an industry that&#8217;s responsible for about 8% of global greenhous…",
+        "source": "MIT Technology Review",
+        "date": "May 20, 2026",
+        "date_sort": 1779282000.0,
         "score": 3
       },
       {
-        "title": "Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips",
-        "url": "https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date",
-        "summary": "Almost exactly two years ago, Microsoft introduced Arm-powered versions of the Surface Pro 11 and Surface Laptop 7, with Intel models not ready until more than six months later. This time around Microsoft is refreshing its Surface Pro and Surface Laptop models with Intel's latest Core Ultra Series 3…",
+        "title": "The biggest data center ever is becoming a huge problem in Utah",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+        "summary": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Stratos Project: a 40,000-acre data center stretching across the county's Hansel Valley. It's supposed …",
         "source": "The Verge",
-        "date": "May 19, 2026",
-        "date_sort": 1779195600.0,
+        "date": "May 20, 2026",
+        "date_sort": 1779282000.0,
         "score": 3
       },
       {
-        "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-        "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its fo…",
+        "title": "The Download: fully artificial chicken eggs and why Musk lost",
+        "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But…",
         "source": "MIT Technology Review",
-        "date": "May 19, 2026",
-        "date_sort": 1779192600.0,
-        "score": 3
-      },
-      {
-        "title": "Colossal Biosciences is growing chickens in a 3D-printed container",
-        "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
-        "summary": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.&#160; Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial …",
-        "source": "MIT Technology Review",
-        "date": "May 19, 2026",
-        "date_sort": 1779192000.0,
+        "date": "May 20, 2026",
+        "date_sort": 1779279000.0,
         "score": 3
       }
     ]
@@ -206,21 +206,21 @@
         "score": 9
       },
       {
-        "title": "New revelations show WA is putting Australia’s climate targets at risk. Will Anthony Albanese do anything about it? | Clear Air",
-        "url": "https://www.theguardian.com/environment/2026/may/14/wa-western-australia-climate-targets-at-risk",
-        "summary": "Premier Roger Cook has the prime minister’s implicit support but he’s making it harder for federal Labor to meet its much-vaunted climate targetsWant to get this in your inbox when it publishes? Sign up for the Clear Air Australia newsletter hereFollow our Australia news live blog for latest updates…",
+        "title": "Eva v Goliath: the 20-year-old climate activist taking on Trump and the fossil fuel industry",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/20/eva-lighthiser-trump-climate",
+        "summary": "Young Americans are suing the president for violating rights with executive orders that fuel the climate crisisEva Lighthiser was at a dorm party on her Colorado college campus last month when she had to call it an early night.“I said, ‘Hey, I’ve got to go to bed, I’m flying out to Portland tomorrow…",
         "source": "Environment | The Guardian",
-        "date": "May 13, 2026",
-        "date_sort": 1778684402.0,
-        "score": 9
+        "date": "May 20, 2026",
+        "date_sort": 1779282042.0,
+        "score": 7
       },
       {
-        "title": "Orcas could be casualty in Carney’s push for pipeline, environmental groups fear",
-        "url": "https://www.theguardian.com/world/2026/may/19/canada-orcas-oil-pipeline-mark-carney",
-        "summary": "Rush to develop fossil fuel infrastructure in Canada collides with laws meant to protect endangered speciesEnvironmental groups in Canada fear endangered orcas could become a casualty of Mark Carney’s push for a new oil pipeline, as the rush to develop fossil fuel infrastructure collides with laws m…",
+        "title": "Rachel Reeves to protect ‘critical’ clean energy projects from legal challenges",
+        "url": "https://www.theguardian.com/politics/2026/may/20/rachel-reeves-protect-clean-energy-projects-legal-challenges-environment",
+        "summary": "Chancellor’s planning shake-up would ‘reduce exposure from judicial review on all but human rights grounds’Rachel Reeves is ​preparing to announce a planning shake-up ‌that would fast-track clean energy ​and infrastructure projects by curbing judicial reviews, the ​Treasury has said.The chancellor w…",
         "source": "Environment | The Guardian",
-        "date": "May 19, 2026",
-        "date_sort": 1779188402.0,
+        "date": "May 20, 2026",
+        "date_sort": 1779267022.0,
         "score": 7
       },
       {
@@ -285,13 +285,13 @@
         "score": 5
       },
       {
-        "title": "A grad student’s wild idea sparks a major aging breakthrough",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
-        "summary": "A casual conversation between graduate students helped spark a breakthrough in aging research at Mayo Clinic. Researchers discovered that tiny synthetic DNA molecules called aptamers can selectively attach to senescent “zombie cells,” which are linked to aging, cancer, and neurodegenerative disease.…",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "May 15, 2026",
-        "date_sort": 1778820611.0,
-        "score": 5
+        "title": "Lake study shows ways to 'cancel' climate impact",
+        "url": "https://www.bbc.com/news/articles/c8r834z8ze8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Environment Agency says new research will help it inform future action at Windermere.",
+        "source": "BBC News",
+        "date": "May 20, 2026",
+        "date_sort": 1779273698.0,
+        "score": 4
       },
       {
         "title": "Europe's oldest science park could be redeveloped",
