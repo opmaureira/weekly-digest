@@ -5,12 +5,12 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "The World's Largest Air Forces By Number Of Active Stealth Aircraft",
-        "url": "https://simpleflying.com/the-worlds-largest-air-forces-by-number-of-active-stealth-aircraft/",
-        "summary": "The US leads in stealth aircraft fleet, followed by China and then US allies who have completed much of their F-35 program of records.",
+        "title": "Cargo Airlines Desperately Need New Jets",
+        "url": "https://simpleflying.com/video/cargo-airlines-desperately-need-new-jets/",
+        "summary": "The global air cargo industry is being defined by aging assets and stalled innovation at the present moment. The demand for high-capacity, fuel-efficient freighters has never been higher, but the path to modernization is blocked by a series of unprecedented manufacturing hurdles and supply chain fai…",
         "source": "Simple Flying",
-        "date": "May 26, 2026",
-        "date_sort": 1779793218.0,
+        "date": "May 27, 2026",
+        "date_sort": 1779879619.0,
         "score": 5
       },
       {
@@ -23,13 +23,31 @@
         "score": 5
       },
       {
-        "title": "Airbus Cuts as Supply Chain Crisis Deepens",
-        "url": "https://airinsight.com/airbus-cuts-as-supply-chain-crisis-deepens/",
-        "summary": "For much of the post-pandemic recovery, the commercial aviation industry has operated under a simple assumption: demand is no longer",
+        "title": "These Are The Busiest US-Canada Transborder Flights This Summer",
+        "url": "https://simpleflying.com/busiest-us-canada-transborder-summer-2026/",
+        "summary": "United Airlines operate most number of flights to Canada of all US airlines, and Air Canada holds the majority of capacity across the entire market!",
+        "source": "Simple Flying",
+        "date": "May 27, 2026",
+        "date_sort": 1779886005.0,
+        "score": 3
+      },
+      {
+        "title": "US \"Drawing Up Plans\" To Pull Customs Officers From 10 Major Airports [Full List]",
+        "url": "https://simpleflying.com/us-plans-pull-customs-officers-major-airports-full-list/",
+        "summary": "If this plan is to go into effect, these ten major gateways will no longer be able to accept international arrivals!",
+        "source": "Simple Flying",
+        "date": "May 27, 2026",
+        "date_sort": 1779872026.0,
+        "score": 3
+      },
+      {
+        "title": "easyJet and Schiphol launch etaxi",
+        "url": "https://airinsight.com/easyjet-and-schiphol-launch-etaxi/",
+        "summary": "At Amsterdam Airport Schiphol, something quiet is taking place. Four easyJet Airbus A320neo aircraft are being prepared for a new",
         "source": "AirInsight",
-        "date": "May 19, 2026",
-        "date_sort": 1779216120.0,
-        "score": 5
+        "date": "May 26, 2026",
+        "date_sort": 1779820371.0,
+        "score": 3
       },
       {
         "title": "Italy’s Airbus Tanker Deal Signals Shift",
@@ -39,24 +57,6 @@
         "date": "May 21, 2026",
         "date_sort": 1779379182.0,
         "score": 3
-      },
-      {
-        "title": "Transatlantic Growth: Inside The Big 3 US Legacy Airlines' New European Routes For Summer 2026",
-        "url": "https://simpleflying.com/us-big-three-airlines-new-european-routes/",
-        "summary": "Each has plenty to offer.",
-        "source": "Simple Flying",
-        "date": "May 26, 2026",
-        "date_sort": 1779801148.0,
-        "score": 1
-      },
-      {
-        "title": "A Look At The Salaries Of UK Airline Pilots In 2026",
-        "url": "https://simpleflying.com/uk-airline-pilot-salaries/",
-        "summary": "Pilot salaries in the UK vary widely by airline and experience, with earnings ranging from modest starting pay to six-figure Captain salaries.",
-        "source": "Simple Flying",
-        "date": "May 26, 2026",
-        "date_sort": 1779800418.0,
-        "score": 1
       }
     ]
   },
@@ -65,6 +65,15 @@
     "icon": "🌎",
     "color": "#ef4444",
     "articles": [
+      {
+        "title": "Longton coincide con senadora Núñez y apunta a que AC contra Grau “no facilita el diálogo frente a la megarreforma”",
+        "url": "https://www.latercera.com/politica/noticia/longton-coincide-con-senadora-nunez-y-apunta-a-que-ac-contra-grau-no-facilita-el-dialogo-frente-a-la-megarreforma/",
+        "summary": "El senador de Renovación Nacional manifestó que esta situación “polariza aún más la discusión” del proyecto clave del Presidente Kast.",
+        "source": "La Tercera",
+        "date": "May 27, 2026",
+        "date_sort": 1779885067.0,
+        "score": 5
+      },
       {
         "title": "Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis",
         "url": "https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html",
@@ -75,31 +84,13 @@
         "score": 5
       },
       {
-        "title": "Three arrested over burglaries against high-profile athletes",
-        "url": "https://www.bbc.com/news/articles/c0m22vdwrr9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Chilean nationals were arrested in Argentina on suspicion of targeting stars including Travis Kelce.",
-        "source": "BBC News",
-        "date": "May 25, 2026",
-        "date_sort": 1779720688.0,
-        "score": 4
-      },
-      {
-        "title": "Squella y discusión de la megarreforma en el Senado: “Si se gana por un voto, feliz igual”",
-        "url": "https://www.latercera.com/politica/noticia/squella-y-discusion-de-la-megarreforma-en-el-senado-si-se-gana-por-un-voto-feliz-igual/",
-        "summary": "El timonel de los republicanos aseguró que un voto no interferiría en la visión del mundo empresarial hacia el país. \"El efecto de que Chile es el lugar para invertir en esta región se logra igual”, aseveró.",
+        "title": "Cumbre de Sofofa pone foco en destrabar inversión sin bajar estándares ambientales y destaca colaboración entre empresas y academia",
+        "url": "https://www.latercera.com/sustentabilidad/noticia/cumbre-de-sofofa-pone-foco-en-destrabar-inversion-sin-bajar-estandares-ambientales/",
+        "summary": "El encuentro reunió a líderes empresariales y académicos para impulsar una agenda de desarrollo sostenible basada en evidencia científica para impulsar el crecimiento. En esa línea, el académico de Harvard University Petros Koutrakis destacó el impacto del recambio masivo de calefactores impulsado p…",
         "source": "La Tercera",
-        "date": "May 26, 2026",
-        "date_sort": 1779799867.0,
-        "score": 3
-      },
-      {
-        "title": "‘Brits are not as groovy as us – but they’re less square than Europeans’: how drum’n’bass united Brazil and the UK",
-        "url": "https://www.theguardian.com/music/2026/may/20/drumnbass-united-brazil-and-the-uk",
-        "summary": "When drum’n’bass grew stale in the 90s, it got a samba-splicing Brazilian twist. As that style returns, the scene’s legends and newcomers celebrate a cross-cultural triumphWagner Ribeiro de Souza wasn’t carrying much in his backpack. A local compilation of techno, house and jungle hits, a couple of …",
-        "source": "Americas | The Guardian",
-        "date": "May 20, 2026",
-        "date_sort": 1779283842.0,
-        "score": 7
+        "date": "May 25, 2026",
+        "date_sort": 1779734381.0,
+        "score": 5
       },
       {
         "title": "Inter Miami say Messi went off with muscle fatigue",
@@ -109,6 +100,15 @@
         "date": "May 25, 2026",
         "date_sort": 1779750741.0,
         "score": 6
+      },
+      {
+        "title": "The mural project honouring the Black cultural heritage of Rio de Janeiro – photo essay",
+        "url": "https://www.theguardian.com/artanddesign/2026/may/27/the-mural-project-honouring-the-black-cultural-heritage-of-rio-de-janeiro-photo-essay",
+        "summary": "Despite its majority Afro-descendant population, fewer than 10% of public monuments across Rio commemorate Black people. Photographer María Magdalena Arréllaga chronicles the project seeking to redress the balanceOnce home to the world’s largest port of arrival for enslaved Africans, Rio de Janeiro …",
+        "source": "Americas | The Guardian",
+        "date": "May 27, 2026",
+        "date_sort": 1779876023.0,
+        "score": 5
       },
       {
         "title": "Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
@@ -163,21 +163,21 @@
         "score": 5
       },
       {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google ann…",
-        "source": "AI | VentureBeat",
-        "date": "May 19, 2026",
-        "date_sort": 1779212700.0,
-        "score": 5
+        "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+        "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+        "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
+        "source": "WIRED",
+        "date": "May 27, 2026",
+        "date_sort": 1779890400.0,
+        "score": 3
       },
       {
-        "title": "The Download: puncturing the AI jobs panic",
-        "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the tech…",
-        "source": "MIT Technology Review",
-        "date": "May 26, 2026",
-        "date_sort": 1779797400.0,
+        "title": "The Witcher 3 is getting another expansion, more than a decade after launch",
+        "url": "https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion",
+        "summary": "The fourth Witcher game may be a ways off, but fans won't be without Geralt of Rivia for long. CD Projekt Red just announced Songs of the Past, the third expansion for The Witcher 3, which will be launching in 2027. Aside from the title, there aren't many details about the expansion just yet. It's […",
+        "source": "The Verge",
+        "date": "May 27, 2026",
+        "date_sort": 1779885158.0,
         "score": 3
       }
     ]
@@ -195,6 +195,24 @@
         "date": "May 25, 2026",
         "date_sort": 1779726841.0,
         "score": 11
+      },
+      {
+        "title": "Why temperature records are being not only broken but smashed",
+        "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
+        "source": "BBC News",
+        "date": "May 27, 2026",
+        "date_sort": 1779890930.0,
+        "score": 8
+      },
+      {
+        "title": "Mapping the last glaciers in Oceania – in pictures",
+        "url": "https://www.theguardian.com/environment/gallery/2026/may/27/mapping-the-last-glaciers-in-oceania-in-pictures",
+        "summary": "Puncak Jaya in Indonesia is one of the last equatorial mountains with glaciers but the ice has retreated drastically because of the climate crisis. Project Pressure came to the mountain to create the first 3D model of the remaining ice before it disappears‘Planetary destruction on fast-forward’: wit…",
+        "source": "Environment | The Guardian",
+        "date": "May 26, 2026",
+        "date_sort": 1779850815.0,
+        "score": 7
       },
       {
         "title": "Revealed: huge climate cost of harmful emissions from US immigration flights",
@@ -215,15 +233,6 @@
         "score": 7
       },
       {
-        "title": "Australian taxpayers subsidise Big Mining’s use of fossil fuel to the tune of $4bn a year. It’s a strange way to tackle emissions | Adam Morton",
-        "url": "https://www.theguardian.com/world/commentisfree/2026/may/25/bhp-climate-promises-slash-emissions-global-solutions",
-        "summary": "Given the scale of its contribution to global heating, the world’s biggest miner has a duty to invest heavily in solutions that could have a global impactRevealed: the internal BHP memo that slammed the brakes on world’s biggest miner’s climate pushRead more from the BHP files investigation hereSign…",
-        "source": "Environment | The Guardian",
-        "date": "May 25, 2026",
-        "date_sort": 1779705024.0,
-        "score": 7
-      },
-      {
         "title": "BHP files: leaked memo shows miner backtracking on key climate projects in Australia – video",
         "url": "https://www.theguardian.com/business/video/2026/may/25/bhp-files-leaked-memo-shows-miner-backtracking-on-key-climate-projects-in-australia-video",
         "summary": "The world’s biggest miner has halted or delayed projects to cut vast amounts of emissions and has quietly war-gamed options to stall major climate investments in its Western Australian iron ore operations into the next two decades, according to documents leaked to the Guardian and ABC’s Four Corners…",
@@ -231,15 +240,6 @@
         "date": "May 25, 2026",
         "date_sort": 1779705023.0,
         "score": 7
-      },
-      {
-        "title": "Moment SpaceX rocket explodes in the Indian Ocean after splashdown",
-        "url": "https://www.bbc.com/news/videos/c1728ypp15no?at_medium=RSS&at_campaign=rss",
-        "summary": "Elon Musk's SpaceX has successfully launched its Starship V3 rocket, which landed in a planned fiery explosion on Friday.",
-        "source": "BBC News",
-        "date": "May 22, 2026",
-        "date_sort": 1779505392.0,
-        "score": 6
       }
     ]
   },
@@ -294,12 +294,12 @@
         "score": 5
       },
       {
-        "title": "The space race to create gym equipment for future astronauts",
-        "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+        "title": "Nasa unveils next steps to build permanent Moon base",
+        "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
         "source": "BBC News",
-        "date": "May 22, 2026",
-        "date_sort": 1779493327.0,
+        "date": "May 26, 2026",
+        "date_sort": 1779827150.0,
         "score": 4
       }
     ]
