@@ -5,6 +5,15 @@
     "color": "#f59e0b",
     "articles": [
       {
+        "title": "Breaking: SAS Announces Order For Up To 40 Airbus A330 Aircraft",
+        "url": "https://simpleflying.com/sas-orders-up-to-40-airbus-a330s/",
+        "summary": "The carrier has put pen to paper on the largest investment in its history.",
+        "source": "Simple Flying",
+        "date": "Jun 30, 2026",
+        "date_sort": 1782808888.0,
+        "score": 5
+      },
+      {
         "title": "Data Confirms Wall Street’s Bullish Re-Rating",
         "url": "https://airinsight.com/data-confirms-wall-streets-bullish-re-rating/",
         "summary": "The Banks&#8217; View Five major banks — UBS, Deutsche Bank, Morgan Stanley, Bank of America, and Jefferies — all lifted",
@@ -14,21 +23,30 @@
         "score": 5
       },
       {
-        "title": "British Airways Drops Airbus A380 Flights On 7 Major Routes [Fully Updated]",
-        "url": "https://simpleflying.com/british-airways-drops-airbus-a380-flights-on-7-major-routes-fully-updated/",
-        "summary": "They include a raft of short-haul and long-haul routes, including some that only operated very briefly. Find out more here!",
+        "title": "British Airways Launches New Nonstop US Route In 3 Weeks: See Full Schedule",
+        "url": "https://simpleflying.com/british-airways-launches-new-nonstop-us-route-in-3-weeks-see-full-schedule/",
+        "summary": "BA now plans 28 US routes in July with 50 to 51 daily flights. Find out more here!",
         "source": "Simple Flying",
-        "date": "Jun 29, 2026",
-        "date_sort": 1782741619.0,
+        "date": "Jun 30, 2026",
+        "date_sort": 1782820819.0,
         "score": 3
       },
       {
-        "title": "Qatar Airways Abruptly Cancels All Airbus A380 Flights On Major Long-Haul Route [Map]",
-        "url": "https://simpleflying.com/qatar-airways-abruptly-cancels-all-airbus-a380-flights-on-major-long-haul-route-map/",
-        "summary": "It is the latest cut to the superjumbo's winter schedule. 54% fewer A380 flights are now planned.",
+        "title": "Baggage Delays Strand 800 at Orlando Airport for 5+ Hours, Passengers Threatened With Arrest for Leaving",
+        "url": "https://simpleflying.com/baggage-delays-strand-800-orlando-5-hours-arrests/",
+        "summary": "Over five hours passed before any sign of bags arrived on the carousel, with three other Virgin flights facing the same ordeal, stranding 800 flyers.",
         "source": "Simple Flying",
+        "date": "Jun 30, 2026",
+        "date_sort": 1782798933.0,
+        "score": 3
+      },
+      {
+        "title": "R&D Airbus Benefits From European Loans",
+        "url": "https://airinsight.com/rd-airbus-benefits-from-european-loans/",
+        "summary": "The European Investment Bank (EIB) has granted Airbus a €1.0 billion loan to support R&#38;D projects in commercial aviation, defence,",
+        "source": "AirInsight",
         "date": "Jun 29, 2026",
-        "date_sort": 1782730818.0,
+        "date_sort": 1782755506.0,
         "score": 3
       },
       {
@@ -39,24 +57,6 @@
         "date": "Jun 26, 2026",
         "date_sort": 1782497627.0,
         "score": 3
-      },
-      {
-        "title": "Rolls-Royce, Bombardier Advance Health Data",
-        "url": "https://airinsight.com/rolls-royce-bombardier-advance-health-data/",
-        "summary": "Rolls-Royce announced the launch of an advanced aircraft and engine health monitoring program for Bombardier Global 5500 and Global 6500",
-        "source": "AirInsight",
-        "date": "Jun 25, 2026",
-        "date_sort": 1782402576.0,
-        "score": 3
-      },
-      {
-        "title": "Risky Low Pass Caught On Camera: Boeing 777-200LR Converted Freighter Inches From Disaster",
-        "url": "https://simpleflying.com/video/risky-low-pass-caught-on-camera-boeing-777-200lr-converted-freighter-inches-from-disaster/",
-        "summary": "In this day and age it's easy to see how this video footage could be AI-generated, or part of a high-quality flight simulator program. But, no. This actually happened, and it’s left the aviation world in shock as many know just how dangerous such a maneuver can be.",
-        "source": "Simple Flying",
-        "date": "Jun 29, 2026",
-        "date_sort": 1782741619.0,
-        "score": 1
       }
     ]
   },
@@ -66,31 +66,31 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Pablo Neruda, malacólogo: Universidad de Chile reabre la gran muestra de caracolas del poeta",
-        "url": "https://www.latercera.com/culto/noticia/pablo-neruda-malacologo-universidad-de-chile-reabre-la-gran-muestra-de-caracolas-del-poeta/",
-        "summary": "Más de mil piezas marinas que el poeta entregó a la Universidad vuelven a exhibirse en una propuesta que cruza el patrimonio cultural, la ciencia y la crisis ecológica. La reapertura de la muestra gratuita -ubicada en la Casa Central del plantel, en el centro de Santiago- permite reencontrarse con i…",
+        "title": "Kast respalda legislar “Ley Alejandro” y anuncia reunión con familias de víctimas de delitos violentos",
+        "url": "https://www.latercera.com/politica/noticia/kast-respalda-legislar-ley-alejandro-y-anuncia-reunion-con-familias-de-victimas-de-delitos-violentos/",
+        "summary": "El Mandatario afirmó que el Ejecutivo está preparando alternativas para enfrentar delitos cometidos por jóvenes instrumentalizados por el crimen organizado. Además, mencionó brevemente la ley de reconstrucción y aseguró que se reforzará el Plan de Desarrollo de Zonas Extremas para Magallanes.",
         "source": "La Tercera",
         "date": "Jun 29, 2026",
-        "date_sort": 1782740843.0,
+        "date_sort": 1782755367.0,
         "score": 5
       },
       {
-        "title": "El club de la migraña: comprender juntas ese dolor que no se explica",
-        "url": "https://www.latercera.com/paula/noticia/el-club-de-la-migrana-comprender-juntas-ese-dolor-que-no-se-explica/",
-        "summary": "Hace cuatro años, en medio de una crisis de migraña y convencida de que nadie entendía lo que estaba viviendo, la periodista Antonia Cancino abrió una cuenta de Instagram para compartir información y encontrar a otras personas que, como ella, no encontraban respuestas para sus constantes dolores de …",
+        "title": "“Chao préstamo y chao benchmark”: la crítica visión de Cristián Rodríguez respecto de la reforma previsional",
+        "url": "https://www.latercera.com/pulso/noticia/chao-prestamo-y-chao-benchmark-la-critica-vision-de-cristian-rodriguez-respecto-de-la-reforma-previsional/",
+        "summary": "El expresidente de AFP Habitat también aseguró que hay dos asuntos fundamentales que no han sido abordados. Uno es el aumento de la edad de jubilación. “En pocos años más, la mayoría del país va a tener más de 60 años”, afirma. El otros es, los que no cotizan. “Ese es el gran problema que tienen las…",
         "source": "La Tercera",
-        "date": "Jun 29, 2026",
-        "date_sort": 1782734400.0,
-        "score": 5
+        "date": "Jun 30, 2026",
+        "date_sort": 1782817200.0,
+        "score": 3
       },
       {
-        "title": "Marcha del Orgullo 2026 congrega a más 100 mil asistentes en el centro de Santiago",
-        "url": "https://www.latercera.com/nacional/noticia/marcha-del-orgullo-2026-congrega-a-mas-100-mil-asistentes-en-el-centro-de-santiago/",
-        "summary": "Los organizadores hicieron un llamado a \"avanzar en la reforma a la Ley Zamudio, establecer sanciones contra los discursos de odio” y alertaron sobre amenazas a los derechos LGBTIQ+ tanto en Chile como a nivel internacional. La jornada registró incidentes aislados entre distintos bloques de manifest…",
+        "title": "El trabajo que Chile no puede seguir postergando",
+        "url": "https://www.latercera.com/opinion/noticia/el-trabajo-que-chile-no-puede-seguir-postergando/",
+        "summary": "Chile necesita sacudirse del pesimismo y del conformismo y acometer un trabajo esencial e impostergable. Volver a crecer exige un salto de inversión, productividad y empleo.",
         "source": "La Tercera",
-        "date": "Jun 28, 2026",
-        "date_sort": 1782662400.0,
-        "score": 5
+        "date": "Jun 30, 2026",
+        "date_sort": 1782817200.0,
+        "score": 3
       },
       {
         "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
@@ -102,6 +102,15 @@
         "score": 9
       },
       {
+        "title": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss",
+        "summary": "Half-time in Houston and Brazil's players trudged off facing another early World Cup exit. But we should have known better than to doubt Carlo Ancelotti.",
+        "source": "BBC News",
+        "date": "Jun 29, 2026",
+        "date_sort": 1782771271.0,
+        "score": 4
+      },
+      {
         "title": "A new Brazil is taking shape - and Cunha is key",
         "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
         "summary": "Former Brazil midfielder Lucas Leiva explains why Manchester United striker Matheus Cunha is so important to Brazil's adaptable system under Carlo Ancelotti.",
@@ -109,15 +118,6 @@
         "date": "Jun 29, 2026",
         "date_sort": 1782716627.0,
         "score": 4
-      },
-      {
-        "title": "Families of two football players killed and injured in Venezuela earthquakes",
-        "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
-        "summary": "Lucas Trejo of Argentina loses wife and two children while Héctor Bello’s partner dies saving their daughter‘Critical hours’ in Venezuela earthquake rescue operation – latest updatesFamily members of two professional footballers are among those killed by the twin earthquakes that struck Venezuela in…",
-        "source": "Americas | The Guardian",
-        "date": "Jun 29, 2026",
-        "date_sort": 1782739287.0,
-        "score": 3
       }
     ]
   },
@@ -154,30 +154,30 @@
         "score": 7
       },
       {
-        "title": "Europe’s extreme heat is shutting down power plants",
-        "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-        "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8…",
+        "title": "Building tech in the world’s secret R&D hub",
+        "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+        "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, howe…",
         "source": "MIT Technology Review",
-        "date": "Jun 24, 2026",
-        "date_sort": 1782314728.0,
-        "score": 7
+        "date": "Jun 30, 2026",
+        "date_sort": 1782815010.0,
+        "score": 5
       },
       {
-        "title": "The Download: metric weaknesses and AI elephant warnings",
-        "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l…",
+        "title": "Agent confidence on the technical frontier",
+        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+        "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out…",
         "source": "MIT Technology Review",
         "date": "Jun 29, 2026",
-        "date_sort": 1782735000.0,
-        "score": 3
+        "date_sort": 1782744241.0,
+        "score": 5
       },
       {
-        "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-        "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned sin…",
-        "source": "The Verge",
-        "date": "Jun 28, 2026",
-        "date_sort": 1782678456.0,
+        "title": "The Download: AI “coworkers” and stratospheric internet",
+        "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI to…",
+        "source": "MIT Technology Review",
+        "date": "Jun 30, 2026",
+        "date_sort": 1782821400.0,
         "score": 3
       }
     ]
@@ -187,24 +187,6 @@
     "icon": "🌿",
     "color": "#22c55e",
     "articles": [
-      {
-        "title": "Monday briefing: Will the heatwave spark action, or further inflame the culture wars?",
-        "url": "https://www.theguardian.com/world/2026/jun/29/first-edition-monday-briefing-heatwave-europe-uk-political-action-far-right-culture-wars",
-        "summary": "In today’s newsletter: Last week’s extreme weather should galvanise the political response to global heating. But the sad paradox is that it could bolster support for climate-sceptical partiesGood morning. You could be forgiven for thinking that last week’s heatwave in Europe would be a galvanising …",
-        "source": "Environment | The Guardian",
-        "date": "Jun 29, 2026",
-        "date_sort": 1782711939.0,
-        "score": 13
-      },
-      {
-        "title": "Climate sceptics cheering as they melt in record temperatures? This heatwave is where satire has come to die | Jonathan Freedland",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/26/climate-sceptics-record-temperatures-heatwave-ed-miliband-net-zero",
-        "summary": "Delegates at an ‘anti-woke’ conference disparaged Ed Miliband’s net zero policies. But even they could not ignore the sweat on their foreheadsIt was hardly a perfect film, but I keep thinking of Don’t Look Up. In its depiction of a world that stubbornly refuses to heed the warnings of an imminent pl…",
-        "source": "Environment | The Guardian",
-        "date": "Jun 26, 2026",
-        "date_sort": 1782491465.0,
-        "score": 13
-      },
       {
         "title": "Not just for rich people: the progressive case for air conditioning | Phineas Harper",
         "url": "https://www.theguardian.com/commentisfree/2026/jun/29/progressive-case-for-air-conditioning-climate-adaptation",
@@ -224,12 +206,12 @@
         "score": 9
       },
       {
-        "title": "Germany, Czechia, Poland and Hungary swelter through hottest days on record",
-        "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
-        "summary": "Heat records of over 40C set as extreme weather spreads east, with more than 191m in Europe enduring 35C or aboveAfter decades of warnings, why is Europe so unprepared?Germany, Czechia, Poland and Hungary reached record temperatures of more than 40C on Sunday as a heatwave linked to hundreds of deat…",
+        "title": "Australia’s next summer isn’t guaranteed to be the hottest yet – but it’s looking likely | Milton Speer and Lance M Leslie",
+        "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jun/30/australia-next-summer-heat-predictions",
+        "summary": "A warm start to winter is part of a global trend of extreme and unseasonable temperatures caused by global heatingMany parts of Australia have already broken early winter maximum and minimum temperature records.In southern Australia, Sydney and Melbourne had their warmest-ever starts to winter. Dail…",
         "source": "Environment | The Guardian",
-        "date": "Jun 28, 2026",
-        "date_sort": 1782674828.0,
+        "date": "Jun 29, 2026",
+        "date_sort": 1782785647.0,
         "score": 7
       },
       {
@@ -240,6 +222,24 @@
         "date": "Jun 28, 2026",
         "date_sort": 1782644783.0,
         "score": 7
+      },
+      {
+        "title": "Rising cost of insuring against climate crisis will have wider knock-on effects for UK economy | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/jun/28/rising-cost-insuring-against-climate-crisis-knock-on-effects-for-uk-economy",
+        "summary": "As extreme weather events become more common, economists say government will need to take more active role to protect consumersAnyone attempting to notch up a productive day’s work in the searing heat of southern England this last week was left in little doubt about the impact of extreme weather.But…",
+        "source": "Environment | The Guardian",
+        "date": "Jun 28, 2026",
+        "date_sort": 1782639246.0,
+        "score": 7
+      },
+      {
+        "title": "Has Cornwall’s housing crisis created a van life generation?",
+        "url": "https://www.theguardian.com/global/video/2026/jun/25/has-cornwalls-housing-crisis-created-a-van-life-generation",
+        "summary": "Cornwall's housing crisis is forcing young people to live in vans. As second homes and short-term holiday lets drive up house prices, a growing number are turning to van life to stay in the place they love. The Guardian meets young people who say their van brings them freedom but also uncertainty, a…",
+        "source": "Environment | The Guardian",
+        "date": "Jun 25, 2026",
+        "date_sort": 1782379040.0,
+        "score": 7
       }
     ]
   },
@@ -248,15 +248,6 @@
     "icon": "🔬",
     "color": "#0ea5e9",
     "articles": [
-      {
-        "title": "A “ghost” great white shark just reignited a 160-year Mediterranean mystery",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260621052722.htm",
-        "summary": "The capture of a juvenile great white shark in Spain has provided fresh evidence that the Mediterranean's elusive \"ghost\" population of great whites still survives. Researchers reviewing 160 years of records say the discovery could even hint that the sharks are still breeding in the region.",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Jun 26, 2026",
-        "date_sort": 1782457423.0,
-        "score": 5
-      },
       {
         "title": "Europe’s record heatwave: does the continent have a new climate?",
         "url": "https://www.nature.com/articles/d41586-026-02046-x",
@@ -276,6 +267,24 @@
         "score": 5
       },
       {
+        "title": "Researchers find millions more insect species",
+        "url": "https://www.bbc.co.uk/news/articles/clye273m70xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Scientists estimate at least between 14 and 30 million insect species, not just six million.",
+        "source": "BBC News",
+        "date": "Jun 30, 2026",
+        "date_sort": 1782822914.0,
+        "score": 4
+      },
+      {
+        "title": "Academic finds diverse algae on Antarctic mission",
+        "url": "https://www.bbc.co.uk/news/articles/c8xw5qdeg8lo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Bristol researcher discovers \"surprisingly rich\" microscopic communities on her three-month trip.",
+        "source": "BBC News",
+        "date": "Jun 30, 2026",
+        "date_sort": 1782796950.0,
+        "score": 4
+      },
+      {
         "title": "BBC Inside Science",
         "url": "https://www.bbc.co.uk/sounds/play/w3ct977s?at_medium=RSS&at_campaign=rss",
         "summary": "Is it time to start considering solar geoengineering to help us combat extreme heat?",
@@ -285,21 +294,12 @@
         "score": 4
       },
       {
-        "title": "From pet to pest, goldfish can wreck entire ecosystems",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260622091524.htm",
-        "summary": "A new study reveals that goldfish can do far more than survive in the wild—they can fundamentally reshape freshwater ecosystems. Researchers found they cloud water, damage food webs, and hurt native fish populations, sometimes triggering major ecological shifts.",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Jun 26, 2026",
-        "date_sort": 1782495917.0,
-        "score": 3
-      },
-      {
-        "title": "New solid-state material converts sunlight into higher-energy UV light",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260623083058.htm",
-        "summary": "A new sunlight-powered material can convert visible light into higher-energy UV light, overcoming a challenge that has frustrated scientists for years. The breakthrough could enable cleaner air purification, solar-driven chemistry, and advanced manufacturing technologies using nothing more than natu…",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Jun 26, 2026",
-        "date_sort": 1782487277.0,
+        "title": "Your menstrual cycle may affect how well vaccines work",
+        "url": "https://www.newscientist.com/article/2532245-your-menstrual-cycle-may-affect-how-well-vaccines-work/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "summary": "Women who were vaccinated against covid-19 in the luteal phase of their menstrual cycle reported having a breakthrough infection sooner than those vaccinated during their follicular phase",
+        "source": "New Scientist - Home",
+        "date": "Jun 29, 2026",
+        "date_sort": 1782744170.0,
         "score": 3
       }
     ]
