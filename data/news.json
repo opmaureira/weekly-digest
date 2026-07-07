@@ -5,6 +5,15 @@
     "color": "#f59e0b",
     "articles": [
       {
+        "title": "Cirrus Launches Trac10 – a New Trainer",
+        "url": "https://airinsight.com/cirrus-launches-trac10-a-new-trainer/",
+        "summary": "Cirrus launched the TRAC10, designed specifically for the flight training market. This is a new platform, powered by the turbocharged Rotax 916iSc",
+        "source": "AirInsight",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783429316.0,
+        "score": 3
+      },
+      {
         "title": "SAS Big Airbus $10Bn Bet On A330-900",
         "url": "https://airinsight.com/sas-big-airbus-10bn-bet-on-a330-900/",
         "summary": "PR: SAS today announced the largest investment in the company&#8217;s history, marking a significant step in the airline&#8217;s long-term ambition",
@@ -14,48 +23,39 @@
         "score": 3
       },
       {
-        "title": "R&D Airbus Benefits From European Loans",
-        "url": "https://airinsight.com/rd-airbus-benefits-from-european-loans/",
-        "summary": "The European Investment Bank (EIB) has granted Airbus a €1.0 billion loan to support R&#38;D projects in commercial aviation, defence,",
-        "source": "AirInsight",
-        "date": "Jun 29, 2026",
-        "date_sort": 1782755506.0,
-        "score": 3
-      },
-      {
-        "title": "Not Done Yet: Breeze Airways Schedules Embraer E190 Flights On 9 Routes Over The Next 2 Months",
-        "url": "https://simpleflying.com/breeze-airways-schedules-embraer-e190-flights-9-routes-next-2-months/",
-        "summary": "The airline will operate the Embraer aircraft for a little longer before moving to the Airbus A220.",
+        "title": "Only 62% Full: Aer Lingus' 10 Surprisingly Empty US Routes From Dublin Airport [Map]",
+        "url": "https://simpleflying.com/only-62pc-full-aer-lingus-10-surprisingly-empty-us-routes-from-dublin-airport/",
+        "summary": "There are some highly intriguing results. See them all here!",
         "source": "Simple Flying",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783344618.0,
+        "date": "Jul 07, 2026",
+        "date_sort": 1783429218.0,
         "score": 1
       },
       {
-        "title": "This Airline Was The Last Operator Of The Boeing 747SP",
-        "url": "https://simpleflying.com/airline-last-operators-boeing-747sp-2026/",
-        "summary": "How can an airline keep an aircraft from the 70s operating into the 2010s? This is the story of Iran Air and the Boeing 747SP, a tale of resilience.",
+        "title": "The Ryanair Paradox: Passengers Say They Hate The Airline, But Keep Booking It Anyway",
+        "url": "https://simpleflying.com/video/the-ryanair-paradox-passengers-say-they-hate-the-airline-but-keep-booking-it-anyway/",
+        "summary": "Ryanair is the epitome of a low-cost airline: cheap fares and the no-frills experience that goes with them. Indeed, the carrier’s offering centers around the idea that travel does not have to break the bank if passengers are willing to forgo almost any element of comfort. But this focus on budget tr…",
         "source": "Simple Flying",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783342818.0,
+        "date": "Jul 07, 2026",
+        "date_sort": 1783427359.0,
         "score": 1
       },
       {
-        "title": "Southwest Airlines Scrutinized Over Social Media Post Calling Out People Who Stand At The Gate",
-        "url": "https://simpleflying.com/southwest-airlines-scrutinized-social-media-post-calling-out-people-stand-seat-belt/",
-        "summary": "The post has sparked passionate debate from both sides.",
+        "title": "Why The B-52's New Engines Will Make It More Powerful Than Jets Built 40 Years After It",
+        "url": "https://simpleflying.com/why-b-52-engine-efficient/",
+        "summary": "One engine swap makes a 1950s bomber more useful than the aircraft designed to replace it.",
         "source": "Simple Flying",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783342638.0,
+        "date": "Jul 07, 2026",
+        "date_sort": 1783422033.0,
         "score": 1
       },
       {
-        "title": "Why The Red Arrows Can't Display At Farnborough Airshow",
-        "url": "https://simpleflying.com/why-red-arrows-cant-display-at-farnborough-airshow/",
-        "summary": "The famous display team has been limited to only performing flypasts at the most recent iterations of the event.",
+        "title": "10 Of The Most Comfortable Economy Class Seats You Can Book Today",
+        "url": "https://simpleflying.com/most-comfortable-economy-class-seats-today/",
+        "summary": "Which airlines are raising the bar for economy class comfort?",
         "source": "Simple Flying",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783341097.0,
+        "date": "Jul 07, 2026",
+        "date_sort": 1783416413.0,
         "score": 1
       }
     ]
@@ -66,49 +66,31 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Trabajó en ferrocarriles y en el puente más alto del país y fue la primera ingeniera de Chile y Sudamérica",
-        "url": "https://www.latercera.com/educacion/noticia/trabajo-en-ferrocarriles-y-en-el-puente-mas-alto-del-pais-y-fue-la-primera-ingeniera-de-chile-y-sudamerica/",
-        "summary": "La especialista en cálculo y diseño estructural de infraestructura para la Empresa de Ferrocarriles del Estado, especialmente de puentes de gran longitud, es recordada a propósito del Día Internacional de la Mujer en Ingeniería, que se conmemora cada 23 de junio.",
+        "title": "Franja de Maricunga: dos mineras anuncian importante hallazgo de oro e inician explotación en el norte del país",
+        "url": "https://www.latercera.com/mineria/noticia/franja-de-maricunga-dos-mineras-anuncian-importante-hallazgo-de-oro-e-inician-explotacion-en-el-norte-del-pais/",
+        "summary": "Dos compañías junior con operaciones en la franja de Maricunga —la australiana Flagship Minerals y la canadiense Tiernan Gold— dieron a conocer en los últimos días progresos en sus proyectos auríferos en Atacama, que coinciden con el reciente respaldo del Presidente José Antonio Kast al proyecto Lob…",
+        "source": "La Tercera",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783425282.0,
+        "score": 7
+      },
+      {
+        "title": "Avanza bono de $30 mil por hijo: comisión aprueba por unanimidad proyecto para apoyar a familias vulnerables",
+        "url": "https://www.latercera.com/nacional/noticia/avanza-bono-de-30-mil-por-hijo-comision-aprueba-por-unanimidad-proyecto-para-apoyar-a-familias-vulnerables/",
+        "summary": "La iniciativa, anunciada por el Presidente José Antonio Kast durante su Cuenta Pública, beneficiará automáticamente a hogares del 80% más vulnerable con niños de hasta 13 años.",
         "source": "La Tercera",
         "date": "Jul 06, 2026",
-        "date_sort": 1783345465.0,
+        "date_sort": 1783377964.0,
         "score": 5
       },
       {
-        "title": "Monitos a Mano: anuncian el estreno en cines de tres cortos chilenos de animación",
-        "url": "https://www.latercera.com/culto/noticia/monitos-a-mano-anuncian-el-estreno-en-cines-de-tres-cortos-chilenos-de-animacion/",
-        "summary": "El Tamagochi Escarlata, Merrimundi y Ánima del Amanecer se proyectarán en conjunto en salas del país, en una iniciativa inédita en la industria local. La productora Pista B confirmó la noticia en el marco de un panel de la edición 2026 de la Comic Con Chile.",
-        "source": "La Tercera",
-        "date": "Jul 05, 2026",
-        "date_sort": 1783285260.0,
-        "score": 5
-      },
-      {
-        "title": "Shark CryoGlow, la máscara LED para el cuidado de la piel y elogiada por Time, anuncia su llegada a Chile",
-        "url": "https://www.latercera.com/tecnologia/noticia/mascara-led-cuidado-de-la-piel-shark-cryoglow-chile/",
-        "summary": "El dispositivo facial de la firma SharkNinja combina tratamientos de luz y frío localizado, con un diseño inspirado en los lentes de esquí y los cascos de realidad virtual. Estará disponible en el mercado chileno a partir de este lunes 6 de julio.",
+        "title": "Corte de Puerto Montt verá este viernes desafuero del senador Miguel Ángel Calisto",
+        "url": "https://www.latercera.com/nacional/noticia/corte-de-puerto-montt-vera-esta-semana-desafuero-del-senador-miguel-angel-calisto/",
+        "summary": "Por faude al fisco reiterado es acusado por Fiscalía de Aysén el parlamentario independiente, cuyo eventual desafuero podría afectar la votación de la megarreforma de Kast, al amenazar la estrecha mayoría oficialista en el Senado.",
         "source": "La Tercera",
         "date": "Jul 06, 2026",
-        "date_sort": 1783344684.0,
+        "date_sort": 1783394181.0,
         "score": 3
-      },
-      {
-        "title": "Ageing Brazil need major surgery - but is Ancelotti the man to do it?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c20yywnqwl5o?at_medium=RSS&at_campaign=rss",
-        "summary": "There was nothing unlucky about Brazil's loss to Norway in the last 16 of the World Cup and their exit at this stage is an unmitigated disaster, writes Tim Vickery.",
-        "source": "BBC News",
-        "date": "Jul 05, 2026",
-        "date_sort": 1783299096.0,
-        "score": 6
-      },
-      {
-        "title": "Neymar says Brazil career over after Norway defeat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o?at_medium=RSS&at_campaign=rss",
-        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
-        "source": "BBC News",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783319381.0,
-        "score": 4
       },
       {
         "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
@@ -118,6 +100,24 @@
         "date": "Jul 04, 2026",
         "date_sort": 1783151575.0,
         "score": 4
+      },
+      {
+        "title": "Venezuela's 'moles' search through rubble for earthquake survivors – video",
+        "url": "https://www.theguardian.com/world/video/2026/jul/06/venezuelas-moles-search-through-rubble-for-earthquake-survivors-video",
+        "summary": "Amateur Venezuelan rescue workers, known as topos (moles) have spent recent days burrowing deep into crevices and crannies to locate thousands of people feared trapped after their homes collapsed during powerful earthquakes on 24 June. Tom Phillips, the Guardian’s Latin America correspondent, visite…",
+        "source": "Americas | The Guardian",
+        "date": "Jul 06, 2026",
+        "date_sort": 1783345802.0,
+        "score": 3
+      },
+      {
+        "title": "Ruined utopias: the afterlife of the Amazon’s forgotten towns – in pictures",
+        "url": "https://www.theguardian.com/environment/gallery/2026/jul/03/brazil-ruined-utopias-afterlife-amazon-forgotten-company-towns",
+        "summary": "For decades, foreign firms established settlements in the Brazilian Amazon to support extractive activities, only to eventually abandon both workers and the buildings Continue reading...",
+        "source": "Americas | The Guardian",
+        "date": "Jul 03, 2026",
+        "date_sort": 1783058422.0,
+        "score": 3
       }
     ]
   },
@@ -127,57 +127,57 @@
     "color": "#6366f1",
     "articles": [
       {
-        "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-        "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m…",
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur…",
         "source": "MIT Technology Review",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783342800.0,
-        "score": 3
+        "date": "Jul 07, 2026",
+        "date_sort": 1783422652.0,
+        "score": 5
       },
       {
-        "title": "Bentley Torcal EV: Price, Specs, Availability",
-        "url": "https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/",
-        "summary": "The 300-mile Torcal arrives in September, but considering what's come before with Ferrari, Porsche and Mercedes, has the company timed its EV entry right?",
-        "source": "WIRED",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783337400.0,
-        "score": 3
-      },
-      {
-        "title": "South Korea’s hottest new bachelors are chip workers",
-        "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-        "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to …",
-        "source": "MIT Technology Review",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783328400.0,
-        "score": 3
-      },
-      {
-        "title": "Where to preorder Grand Theft Auto VI",
-        "url": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
-        "summary": "Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases containing codes, not discs, so your options for preordering are straightforward. The preloading phase for …",
+        "title": "Nothing’s new earbuds can record calls and what you’re listening to",
+        "url": "https://www.theverge.com/tech/961845/nothing-ear-3a-wireless-earbuds-call-recording-price-availability",
+        "summary": "Nothing announced a new pair of budget-friendly wireless earbuds, but not as part of the company's affordability-focused sub-brand, CMF. The new Nothing Ear 3A are available starting today through the company's online store for $99, which is the same price as Nothing's original Ear (a). That's good …",
         "source": "The Verge",
-        "date": "Jul 05, 2026",
-        "date_sort": 1783267200.0,
+        "date": "Jul 07, 2026",
+        "date_sort": 1783420200.0,
+        "score": 5
+      },
+      {
+        "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report…",
+        "source": "MIT Technology Review",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783426200.0,
         "score": 3
       },
       {
-        "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-        "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-        "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi…",
+        "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+        "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi…",
         "source": "MIT Technology Review",
-        "date": "Jul 03, 2026",
-        "date_sort": 1783100077.0,
+        "date": "Jul 07, 2026",
+        "date_sort": 1783418400.0,
         "score": 3
       },
       {
-        "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-        "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h…",
+        "title": "British Space Startup Launches Longevity Lab Into Orbit",
+        "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+        "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+        "source": "WIRED",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783418232.0,
+        "score": 3
+      },
+      {
+        "title": "Your family’s $300 stake in OpenAI",
+        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times…",
         "source": "MIT Technology Review",
-        "date": "Jul 03, 2026",
-        "date_sort": 1783080600.0,
+        "date": "Jul 06, 2026",
+        "date_sort": 1783360800.0,
         "score": 3
       }
     ]
@@ -233,13 +233,13 @@
         "score": 7
       },
       {
-        "title": "Australia’s next summer isn’t guaranteed to be the hottest yet – but it’s looking likely | Milton Speer and Lance M Leslie",
-        "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jun/30/australia-next-summer-heat-predictions",
-        "summary": "A warm start to winter is part of a global trend of extreme and unseasonable temperatures caused by global heatingMany parts of Australia have already broken early winter maximum and minimum temperature records.In southern Australia, Sydney and Melbourne had their warmest-ever starts to winter. Dail…",
-        "source": "Environment | The Guardian",
-        "date": "Jun 29, 2026",
-        "date_sort": 1782785647.0,
-        "score": 7
+        "title": "Nasa launches mission to save falling space telescope",
+        "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+        "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+        "source": "BBC News",
+        "date": "Jul 03, 2026",
+        "date_sort": 1783074497.0,
+        "score": 6
       }
     ]
   },
@@ -256,6 +256,15 @@
         "date": "Jul 03, 2026",
         "date_sort": 1783074497.0,
         "score": 6
+      },
+      {
+        "title": "Engineers solved an airflow mystery hidden nearly a mile underground",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260624025416.htm",
+        "summary": "Engineers at a deep underground research facility noticed something strange during major rainstorms: airflow underground sometimes reversed direction. Using new sensors and mathematical modeling, they found that water rushing down a shaft was effectively pushing air through the tunnels like a giant …",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Jul 06, 2026",
+        "date_sort": 1783349583.0,
+        "score": 5
       },
       {
         "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
@@ -292,15 +301,6 @@
         "date": "Jun 30, 2026",
         "date_sort": 1782864000.0,
         "score": 5
-      },
-      {
-        "title": "New heatwave likely to peak at 34C with week-long health alert issued",
-        "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
-        "source": "BBC News",
-        "date": "Jul 04, 2026",
-        "date_sort": 1783178897.0,
-        "score": 4
       }
     ]
   }
