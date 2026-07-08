@@ -5,6 +5,15 @@
     "color": "#f59e0b",
     "articles": [
       {
+        "title": "The Castlelake Workaround That Unsticks Condor",
+        "url": "https://airinsight.com/the-castlelake-workaround-that-unsticks-condor/",
+        "summary": "Castlelake&#8217;s £5.2 billion approach for easyJet is, potentially, more than an airline takeover story. That deal structure could become a",
+        "source": "AirInsight",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783436909.0,
+        "score": 3
+      },
+      {
         "title": "Cirrus Launches Trac10 – a New Trainer",
         "url": "https://airinsight.com/cirrus-launches-trac10-a-new-trainer/",
         "summary": "Cirrus launched the TRAC10, designed specifically for the flight training market. This is a new platform, powered by the turbocharged Rotax 916iSc",
@@ -14,48 +23,39 @@
         "score": 3
       },
       {
-        "title": "SAS Big Airbus $10Bn Bet On A330-900",
-        "url": "https://airinsight.com/sas-big-airbus-10bn-bet-on-a330-900/",
-        "summary": "PR: SAS today announced the largest investment in the company&#8217;s history, marking a significant step in the airline&#8217;s long-term ambition",
+        "title": "Saudia Boeing 787 Strikes Philippine Airlines Airbus A320 Tail While Taxiing At Manila",
+        "url": "https://simpleflying.com/saudia-787-strikes-philippine-airlines-a320-manila/",
+        "summary": "No passengers or crew were hurt in this ground collision; however, both aircraft have sustained damage and are grounded.",
+        "source": "Simple Flying",
+        "date": "Jul 08, 2026",
+        "date_sort": 1783510241.0,
+        "score": 1
+      },
+      {
+        "title": "Airbus guides demand for 42.060 pax aircraft",
+        "url": "https://airinsight.com/airbus-guides-demand-for-42-060-pax-aircraft/",
+        "summary": "42.060 new aircraft deliveries: that’s the number Airbus is guiding in its latest Global Market Forecast for the next 20",
         "source": "AirInsight",
-        "date": "Jun 30, 2026",
-        "date_sort": 1782825916.0,
-        "score": 3
-      },
-      {
-        "title": "Only 62% Full: Aer Lingus' 10 Surprisingly Empty US Routes From Dublin Airport [Map]",
-        "url": "https://simpleflying.com/only-62pc-full-aer-lingus-10-surprisingly-empty-us-routes-from-dublin-airport/",
-        "summary": "There are some highly intriguing results. See them all here!",
-        "source": "Simple Flying",
-        "date": "Jul 07, 2026",
-        "date_sort": 1783429218.0,
+        "date": "Jul 08, 2026",
+        "date_sort": 1783508435.0,
         "score": 1
       },
       {
-        "title": "The Ryanair Paradox: Passengers Say They Hate The Airline, But Keep Booking It Anyway",
-        "url": "https://simpleflying.com/video/the-ryanair-paradox-passengers-say-they-hate-the-airline-but-keep-booking-it-anyway/",
-        "summary": "Ryanair is the epitome of a low-cost airline: cheap fares and the no-frills experience that goes with them. Indeed, the carrier’s offering centers around the idea that travel does not have to break the bank if passengers are willing to forgo almost any element of comfort. But this focus on budget tr…",
+        "title": "42,000 New Planes: Airbus Reveals Massive 20-Year Forecast",
+        "url": "https://simpleflying.com/airbus-growth-forecast/",
+        "summary": "The European planemaker believes its aircraft are well-suited to developing network trends.",
         "source": "Simple Flying",
-        "date": "Jul 07, 2026",
-        "date_sort": 1783427359.0,
+        "date": "Jul 08, 2026",
+        "date_sort": 1783508434.0,
         "score": 1
       },
       {
-        "title": "Why The B-52's New Engines Will Make It More Powerful Than Jets Built 40 Years After It",
-        "url": "https://simpleflying.com/why-b-52-engine-efficient/",
-        "summary": "One engine swap makes a 1950s bomber more useful than the aircraft designed to replace it.",
+        "title": "Why The B-21 Raider Is Officially A 6th-Generation Aircraft Before Any Fighter Earned The Label",
+        "url": "https://simpleflying.com/why-b-21-raider-officially-6th-generation-aircraft-before-any-fighter-earned-label/",
+        "summary": "The future of stealth strike is already on the USAF flightline.",
         "source": "Simple Flying",
-        "date": "Jul 07, 2026",
-        "date_sort": 1783422033.0,
-        "score": 1
-      },
-      {
-        "title": "10 Of The Most Comfortable Economy Class Seats You Can Book Today",
-        "url": "https://simpleflying.com/most-comfortable-economy-class-seats-today/",
-        "summary": "Which airlines are raising the bar for economy class comfort?",
-        "source": "Simple Flying",
-        "date": "Jul 07, 2026",
-        "date_sort": 1783416413.0,
+        "date": "Jul 08, 2026",
+        "date_sort": 1783508434.0,
         "score": 1
       }
     ]
@@ -66,31 +66,40 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Franja de Maricunga: dos mineras anuncian importante hallazgo de oro e inician explotación en el norte del país",
-        "url": "https://www.latercera.com/mineria/noticia/franja-de-maricunga-dos-mineras-anuncian-importante-hallazgo-de-oro-e-inician-explotacion-en-el-norte-del-pais/",
-        "summary": "Dos compañías junior con operaciones en la franja de Maricunga —la australiana Flagship Minerals y la canadiense Tiernan Gold— dieron a conocer en los últimos días progresos en sus proyectos auríferos en Atacama, que coinciden con el reciente respaldo del Presidente José Antonio Kast al proyecto Lob…",
+        "title": "Avanzan cambios sobre tramitación ambiental de megarreforma: se extienden plazos y se ratifica regreso del Comité de Ministros",
+        "url": "https://www.latercera.com/pulso/noticia/avanzan-cambios-sobre-tramitacion-ambiental-de-megarreforma-se-extienden-plazos-y-se-ratifica-regreso-del-comite-de-ministros/",
+        "summary": "El gobierno del presidente José Antonio Kast presentó indicaciones a la megarreforma que la Comisión de Medio Ambiente del Senado revisó y aprobó.",
         "source": "La Tercera",
         "date": "Jul 07, 2026",
-        "date_sort": 1783425282.0,
-        "score": 7
-      },
-      {
-        "title": "Avanza bono de $30 mil por hijo: comisión aprueba por unanimidad proyecto para apoyar a familias vulnerables",
-        "url": "https://www.latercera.com/nacional/noticia/avanza-bono-de-30-mil-por-hijo-comision-aprueba-por-unanimidad-proyecto-para-apoyar-a-familias-vulnerables/",
-        "summary": "La iniciativa, anunciada por el Presidente José Antonio Kast durante su Cuenta Pública, beneficiará automáticamente a hogares del 80% más vulnerable con niños de hasta 13 años.",
-        "source": "La Tercera",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783377964.0,
-        "score": 5
-      },
-      {
-        "title": "Corte de Puerto Montt verá este viernes desafuero del senador Miguel Ángel Calisto",
-        "url": "https://www.latercera.com/nacional/noticia/corte-de-puerto-montt-vera-esta-semana-desafuero-del-senador-miguel-angel-calisto/",
-        "summary": "Por faude al fisco reiterado es acusado por Fiscalía de Aysén el parlamentario independiente, cuyo eventual desafuero podría afectar la votación de la megarreforma de Kast, al amenazar la estrecha mayoría oficialista en el Senado.",
-        "source": "La Tercera",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783394181.0,
+        "date_sort": 1783471200.0,
         "score": 3
+      },
+      {
+        "title": "Canciller Pérez Mackenna se reúne con empresarios estadounidenses para impulsar inversión y comercio",
+        "url": "https://www.latercera.com/pulso/noticia/canciller-perez-mackenna-se-reune-con-empresarios-estadounidenses-para-impulsar-inversion-y-comercio/",
+        "summary": "En la reunión el ministro aseguró que para Chile es prioritario atraer inversión extranjera, y destacó la importancia del país en la producción de minerales críticos.",
+        "source": "La Tercera",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783461209.0,
+        "score": 3
+      },
+      {
+        "title": "De un cuartel de la PDI al estadio de Melipilla: los 11 proyectos urbanos abandonados en la RM en vías de ser recuperados",
+        "url": "https://www.latercera.com/nacional/noticia/de-un-cuartel-de-la-pdi-al-estadio-de-melipilla-los-11-proyectos-urbanos-abandonados-en-la-rm-en-vias-de-ser-recuperados/",
+        "summary": "El Estadio La Montura de San Miguel, el Polideportivo de La Granja, el Centro Cultural de Huechuraba y un Cesfam de Renca son parte de los proyectos que el Gobierno Regional Metropolitano de Santiago busca reimpulsar.",
+        "source": "La Tercera",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783454400.0,
+        "score": 3
+      },
+      {
+        "title": "Tears of relief? Messi adds another incredible chapter to World Cup career",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cz6v407y3qjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Argentina great Lionel Messi sheds tears as they fight back to beat Egypt and reach the World Cup quarter-finals.",
+        "source": "BBC News",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783456099.0,
+        "score": 4
       },
       {
         "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
@@ -109,15 +118,6 @@
         "date": "Jul 06, 2026",
         "date_sort": 1783345802.0,
         "score": 3
-      },
-      {
-        "title": "Ruined utopias: the afterlife of the Amazon’s forgotten towns – in pictures",
-        "url": "https://www.theguardian.com/environment/gallery/2026/jul/03/brazil-ruined-utopias-afterlife-amazon-forgotten-company-towns",
-        "summary": "For decades, foreign firms established settlements in the Brazilian Amazon to support extractive activities, only to eventually abandon both workers and the buildings Continue reading...",
-        "source": "Americas | The Guardian",
-        "date": "Jul 03, 2026",
-        "date_sort": 1783058422.0,
-        "score": 3
       }
     ]
   },
@@ -126,6 +126,15 @@
     "icon": "🤖",
     "color": "#6366f1",
     "articles": [
+      {
+        "title": "X says top accounts steal videos from other users as it announces new video tools",
+        "url": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
+        "summary": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral,\" while noting that videos on the platform \"make up close to half the impressions on X.\" According to Bier, X is lau…",
+        "source": "The Verge",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783448888.0,
+        "score": 5
+      },
       {
         "title": "The foundational elements of AI architecture that IT leaders need to scale",
         "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
@@ -136,48 +145,39 @@
         "score": 5
       },
       {
-        "title": "Nothing’s new earbuds can record calls and what you’re listening to",
-        "url": "https://www.theverge.com/tech/961845/nothing-ear-3a-wireless-earbuds-call-recording-price-availability",
-        "summary": "Nothing announced a new pair of budget-friendly wireless earbuds, but not as part of the company's affordability-focused sub-brand, CMF. The new Nothing Ear 3A are available starting today through the company's online store for $99, which is the same price as Nothing's original Ear (a). That's good …",
+        "title": "Valvoline Coupons and Promo Codes for July 2026",
+        "url": "https://www.wired.com/story/valvoline-coupons/",
+        "summary": "We've gathered all the top Valvoline coupons and promo codes for July 2026, including deals on full synthetic oil changes and other essential maintenance.",
+        "source": "WIRED",
+        "date": "Jul 08, 2026",
+        "date_sort": 1783486800.0,
+        "score": 3
+      },
+      {
+        "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
+        "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
+        "summary": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Cond&#233; Nast, Hearst Magazines, People Inc, and Tastemade. As reported earlier by TechCrunch, the deal includes a mix of licensed past videos and new ongoing seri…",
         "source": "The Verge",
         "date": "Jul 07, 2026",
-        "date_sort": 1783420200.0,
-        "score": 5
-      },
-      {
-        "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report…",
-        "source": "MIT Technology Review",
-        "date": "Jul 07, 2026",
-        "date_sort": 1783426200.0,
+        "date_sort": 1783460239.0,
         "score": 3
       },
       {
-        "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-        "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi…",
-        "source": "MIT Technology Review",
+        "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+        "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+        "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's par…",
+        "source": "The Verge",
         "date": "Jul 07, 2026",
-        "date_sort": 1783418400.0,
+        "date_sort": 1783456318.0,
         "score": 3
       },
       {
-        "title": "British Space Startup Launches Longevity Lab Into Orbit",
-        "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
-        "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
-        "source": "WIRED",
+        "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
+        "url": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
+        "summary": "While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in a different direction. Amble's new electric buggy won't impress anyone with its 0-60 time or its self-d…",
+        "source": "The Verge",
         "date": "Jul 07, 2026",
-        "date_sort": 1783418232.0,
-        "score": 3
-      },
-      {
-        "title": "Your family’s $300 stake in OpenAI",
-        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times…",
-        "source": "MIT Technology Review",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783360800.0,
+        "date_sort": 1783446771.0,
         "score": 3
       }
     ]
@@ -187,6 +187,24 @@
     "icon": "🌿",
     "color": "#22c55e",
     "articles": [
+      {
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "summary": "Experts warn that some marine species are at risk of ‘mass mortality events’ in ever-warming oceansUK waters are being hit with an “extreme” marine heatwave, the Met Office has said, as scientists warn that high ocean temperatures globally could result in “mass-mortality events” for some species.The…",
+        "source": "Environment | The Guardian",
+        "date": "Jul 08, 2026",
+        "date_sort": 1783509213.0,
+        "score": 11
+      },
+      {
+        "title": "Lake Powell, a vital reservoir, plunges toward unprecedented low levels as water crisis deepens in US west",
+        "url": "https://www.theguardian.com/us-news/2026/jul/07/lake-powell-water-crisis",
+        "summary": "Experts say the critical reservoir system is careening toward a breaking point as the US west’s climate warms and driesLake Powell, the US’s second-largest reservoir, threatens to plunge to unprecedentedly low levels this year after a historically bleak snowpack failed to raise its water level, scie…",
+        "source": "Environment | The Guardian",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783454717.0,
+        "score": 11
+      },
       {
         "title": "At least 25 people die in US as record heatwave scorches swaths of country",
         "url": "https://www.theguardian.com/us-news/2026/jul/05/heatwave-deaths-weather",
@@ -206,40 +224,22 @@
         "score": 11
       },
       {
-        "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
-        "summary": "Temperature records were smashed in June - and scientists warn this is a sign of things to come.",
-        "source": "BBC News",
-        "date": "Jul 03, 2026",
-        "date_sort": 1783126625.0,
-        "score": 8
-      },
-      {
-        "title": "Voyage to the end of the world: floating lab to explore life in Arctic adrift in ice",
-        "url": "https://www.theguardian.com/environment/2026/jul/02/arctic-tara-ocean-foundation-expedition-floating-lab-explore-life-adrift-ice",
-        "summary": "An eight-month expedition will set off soon from Norway on a mission to find new species before the climate crisis and pollution changes the northern ocean for everSix scientists and six crew will travel next month to Kirkenes, a remote Arctic town in Norway near the Russian border, to begin an odys…",
+        "title": "European countries top ‘scorecard’ on climate progress while US slips to 27th",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/climate-change-crisis-europe-us",
+        "summary": "Estonia, Luxembourg and UK are the top three in biennial Yale University index in tackling pollution and other issuesMuch of the world has made encouraging strides in reducing toxic problems such as water and air pollution that have long plagued communities. But there is still a widespread lack of p…",
         "source": "Environment | The Guardian",
-        "date": "Jul 02, 2026",
-        "date_sort": 1782990012.0,
-        "score": 7
+        "date": "Jul 08, 2026",
+        "date_sort": 1783504827.0,
+        "score": 9
       },
       {
-        "title": "Can Bolivia’s historic big cat release help change jaguar conservation in the country?",
-        "url": "https://www.theguardian.com/environment/2026/jul/02/project-reintroducing-jaguars-wild-bolivia-aoe",
-        "summary": "Poaching and wildfires have driven the country’s jaguar population to a critical level, and until now even rescued animals faced life in captivityA tentative paw emerged from a steel cage on to the sandy riverbed deep in the Bolivian rainforest. Then, another. Slowly, the female jaguar looked right,…",
+        "title": "Washington records world’s worst air quality for a city after 850,000 Fourth of July fireworks",
+        "url": "https://www.theguardian.com/us-news/2026/jul/07/washington-air-quality-fireworks-independence-day",
+        "summary": "Hourly concentrations of particulate matter rose to 6.7 times their pre-fireworks levels, according to an analysisWashington DC residents breathed in “unhealthy” air for hours after a 40-minute Independence Day fireworks show over the National Mall on Saturday night, with the country’s capital brief…",
         "source": "Environment | The Guardian",
-        "date": "Jul 02, 2026",
-        "date_sort": 1782968403.0,
-        "score": 7
-      },
-      {
-        "title": "Nasa launches mission to save falling space telescope",
-        "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
-        "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
-        "source": "BBC News",
-        "date": "Jul 03, 2026",
-        "date_sort": 1783074497.0,
-        "score": 6
+        "date": "Jul 07, 2026",
+        "date_sort": 1783436404.0,
+        "score": 9
       }
     ]
   },
@@ -256,15 +256,6 @@
         "date": "Jul 03, 2026",
         "date_sort": 1783074497.0,
         "score": 6
-      },
-      {
-        "title": "Engineers solved an airflow mystery hidden nearly a mile underground",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260624025416.htm",
-        "summary": "Engineers at a deep underground research facility noticed something strange during major rainstorms: airflow underground sometimes reversed direction. Using new sensors and mathematical modeling, they found that water rushing down a shaft was effectively pushing air through the tunnels like a giant …",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783349583.0,
-        "score": 5
       },
       {
         "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
@@ -294,13 +285,22 @@
         "score": 5
       },
       {
-        "title": "Have people stopped trusting science? The data tell a surprising story",
-        "url": "https://www.nature.com/articles/d41586-026-01977-9",
-        "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01977-9Some say there’s a global crisis of trust — but research reveals where the real problems lie.",
-        "source": "Nature",
-        "date": "Jun 30, 2026",
-        "date_sort": 1782864000.0,
-        "score": 5
+        "title": "Amber heat health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
+        "url": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&at_campaign=rss",
+        "summary": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week.",
+        "source": "BBC News",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783465807.0,
+        "score": 4
+      },
+      {
+        "title": "Rocket test flight could be attempted from Shetland in August",
+        "url": "https://www.bbc.co.uk/news/articles/c0my797z90eo?at_medium=RSS&at_campaign=rss",
+        "summary": "SaxaVord Spaceport has announced a five-week \"window\" for possible attempts.",
+        "source": "BBC News",
+        "date": "Jul 07, 2026",
+        "date_sort": 1783442720.0,
+        "score": 4
       }
     ]
   }
