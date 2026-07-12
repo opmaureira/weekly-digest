@@ -5,12 +5,21 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "US To Launch Deportation Airline With 737s & Luxury Gulfstreams In 2027",
-        "url": "https://simpleflying.com/us-deportation-airline-737-gulfstream-2027/",
-        "summary": "With a focus on round-the-clock operations and a hub-and-spoke network, the DHS deportation airline aims to reduce reliance on charter providers.",
+        "title": "Why The Boeing 787 Dreamliner's List Price Has More Than Doubled Since The Aircraft First Entered Service In 2011",
+        "url": "https://simpleflying.com/boeing-787-build-cost-2026/",
+        "summary": "The Boeing 787's list price has increased significantly since launch, but the reasons go far beyond inflation and tell a bigger story.",
         "source": "Simple Flying",
-        "date": "Jul 10, 2026",
-        "date_sort": 1783737806.0,
+        "date": "Jul 11, 2026",
+        "date_sort": 1783810818.0,
+        "score": 3
+      },
+      {
+        "title": "American Airlines Launches 13 Exciting New Nonstop International Routes [Full List]",
+        "url": "https://simpleflying.com/american-airlines-new-international-routes/",
+        "summary": "These range from transatlantic odysseys to cross-border hops.",
+        "source": "Simple Flying",
+        "date": "Jul 11, 2026",
+        "date_sort": 1783807219.0,
         "score": 3
       },
       {
@@ -32,30 +41,21 @@
         "score": 3
       },
       {
-        "title": "Chicago O'Hare Flight Cap Extended To Oct 2027, Freezing United Vs American Growth Race",
-        "url": "https://simpleflying.com/chicago-ohare-flight-cap-october-2027-united-american-growth-race/",
-        "summary": "The FAA's extension has effectively paused the high-profile 'turf war' between American and United.",
+        "title": "7-Hour Flights: Singapore Airlines' 11 Longest Nonstop Boeing 737 MAX Routes Revealed",
+        "url": "https://simpleflying.com/singapore-airlines-11-longest-737-max-routes/",
+        "summary": "The airline often flies its MAX aircraft alongside its larger widebody services to ensure appropriate capacity is deployed on various routes.",
         "source": "Simple Flying",
-        "date": "Jul 11, 2026",
-        "date_sort": 1783770094.0,
+        "date": "Jul 12, 2026",
+        "date_sort": 1783850478.0,
         "score": 1
       },
       {
-        "title": "The $1.1 Billion Missile Contract That Quietly Arms Every Western Fighter Jet",
-        "url": "https://simpleflying.com/1-1-billion-missle-contract-quietly-arms-every-western-fighter-jet/",
-        "summary": "America and its allies begin rebuilding missile stockpiles.",
+        "title": "How Emirates Is Spending $2 Billion To Defend Itself Against The World's Newest Premium Airline",
+        "url": "https://simpleflying.com/how-emirates-spending-2-billion-defend-worlds-newest-premium-airline/",
+        "summary": "Riyadh Air is quickly growing from a startup to a world leader, leaving Emirates with no choice but to valiantly protect its crown.",
         "source": "Simple Flying",
-        "date": "Jul 11, 2026",
-        "date_sort": 1783767625.0,
-        "score": 1
-      },
-      {
-        "title": "The Airline That Pioneered Low-Cost Long-Haul Widebody Flying Just Killed The Model It Created",
-        "url": "https://simpleflying.com/airline-pioneered-low-cost-long-haul-widebody-flying-killed-model-created/",
-        "summary": "AirAsia has long championed the idea that low-cost works on a widebody platform. Now, attention has moved elsewhere to new generation narrowbodies.",
-        "source": "Simple Flying",
-        "date": "Jul 11, 2026",
-        "date_sort": 1783756819.0,
+        "date": "Jul 12, 2026",
+        "date_sort": 1783850478.0,
         "score": 1
       }
     ]
@@ -66,31 +66,31 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Santiago Videla, máximo anotador de los Cóndores: “Contra Hong Kong China es el partido más importante del año”",
-        "url": "https://www.latercera.com/el-deportivo/noticia/santiago-videla-maximo-anotador-de-los-condores-contra-hong-kong-china-es-el-partido-mas-importante-del-ano/",
-        "summary": "El histórico jugador de la selección analiza el importante encuentro por la World Nations Cup ante el emergente combinado asiático, que además integra el mismo grupo que Chile en el Mundial del próximo año.",
+        "title": "El grupo Indumotora debuta en el negocio inmobiliario con una alianza con Echeverría Izquierdo",
+        "url": "https://www.latercera.com/pulso/noticia/el-grupo-indumotora-debuta-en-el-negocio-inmobiliario-con-una-alianza-con-echeverria-izquierdo/",
+        "summary": "La compañía de la familia Avayú está buscando diversificar sus negocios más allá de su corazón automotriz. Hoy tiene una cartera de siete proyectos y el primero de ellos comenzará a construirse en Santiago Centro, en noviembre, con la constructora Echeverría Izquierdo como socio en partes iguales. E…",
         "source": "La Tercera",
-        "date": "Jul 11, 2026",
-        "date_sort": 1783764001.0,
+        "date": "Jul 12, 2026",
+        "date_sort": 1783854000.0,
         "score": 3
       },
       {
-        "title": "Temblor hoy, sábado 11 de julio en Chile: consulta epicentro y magnitud",
-        "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-sabado-11-de-julio-en-chile-consulta-epicentro-y-magnitud/",
-        "summary": "Revisa los recientes movimientos sísmicos registrados por el Centro Sismológico Nacional de la Universidad de Chile. Además, conoce las recomendaciones de Senapred sobre qué hacer en caso de un terremoto.",
+        "title": "Indultos: la otra batalla que complica a Kast",
+        "url": "https://www.latercera.com/politica/noticia/indultos-la-otra-batalla-que-complica-a-kast/",
+        "summary": "Mientras el foco de La Moneda está puesto en la aprobación de la megarreforma, el tema de los indultos reapareció en el escenario provocando un nuevo choque de posiciones en el oficialismo. El presidente ya definió que ejercerá su facultad y que lo hará caso a caso, ante la presión por un indulto ge…",
         "source": "La Tercera",
-        "date": "Jul 11, 2026",
-        "date_sort": 1783768781.0,
-        "score": 1
+        "date": "Jul 12, 2026",
+        "date_sort": 1783850400.0,
+        "score": 3
       },
       {
-        "title": "Constanza Hube: “La UDI tiene que tener una identidad propia, clara y fuera de lo que sería Chile Vamos”",
-        "url": "https://www.latercera.com/politica/noticia/constanza-hube-la-udi-tiene-que-tener-una-identidad-propia-clara-y-fuera-de-lo-que-seria-chile-vamos/",
-        "summary": "La diputada y líder de la generación de recambio en el partido afirma que por estos días el eje central de su partido tiene que ser la unidad interna y el afianzamiento de una identidad propia en el oficialismo.",
+        "title": "Debate sobre Inteligencia Artificial llega al Congreso",
+        "url": "https://www.latercera.com/tecnologia/noticia/debate-sobre-inteligencia-artificial-llega-al-congreso/",
+        "summary": "La Alianza por la Innovación Tecnológica (AiT) organizó un encuentro en la Biblioteca del Congreso Nacional en Valparaíso para analizar el rol del Poder Legislativo frente al avance de la Inteligencia Artificial. La actividad reunió a parlamentarios y asesores con el fin de discutir cómo Chile debe …",
         "source": "La Tercera",
-        "date": "Jul 11, 2026",
-        "date_sort": 1783768081.0,
-        "score": 1
+        "date": "Jul 12, 2026",
+        "date_sort": 1783835993.0,
+        "score": 3
       },
       {
         "title": "Are Argentina being treated favourably at World Cup?",
@@ -111,12 +111,12 @@
         "score": 4
       },
       {
-        "title": "Venezuela's 'moles' search through rubble for earthquake survivors – video",
-        "url": "https://www.theguardian.com/world/video/2026/jul/06/venezuelas-moles-search-through-rubble-for-earthquake-survivors-video",
-        "summary": "Amateur Venezuelan rescue workers, known as topos (moles) have spent recent days burrowing deep into crevices and crannies to locate thousands of people feared trapped after their homes collapsed during powerful earthquakes on 24 June. Tom Phillips, the Guardian’s Latin America correspondent, visite…",
-        "source": "Americas | The Guardian",
-        "date": "Jul 06, 2026",
-        "date_sort": 1783345802.0,
+        "title": "A qué hora y dónde ver a Argentina vs. Suiza en TV y streaming",
+        "url": "https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-argentina-vs-suiza-en-tv-y-streaming/",
+        "summary": "Las selecciones se miden en el último duelo de cuartos de final del Mundial 2026.",
+        "source": "La Tercera",
+        "date": "Jul 11, 2026",
+        "date_sort": 1783782000.0,
         "score": 3
       }
     ]
@@ -127,15 +127,6 @@
     "color": "#6366f1",
     "articles": [
       {
-        "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-        "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-        "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to re…",
-        "source": "The Verge",
-        "date": "Jul 10, 2026",
-        "date_sort": 1783704695.0,
-        "score": 7
-      },
-      {
         "title": "Sperm donors need limits, says a European fertility group",
         "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
         "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have…",
@@ -145,15 +136,6 @@
         "score": 7
       },
       {
-        "title": "Federal Investigators Say Certain DOGE Records Were Deleted",
-        "url": "https://www.wired.com/story/federal-investigators-say-certain-doge-records-were-deleted/",
-        "summary": "A government report claims DOGE didn’t access sensitive systems. It also says the agency deleted records that would show if they had.",
-        "source": "WIRED",
-        "date": "Jul 09, 2026",
-        "date_sort": 1783589400.0,
-        "score": 5
-      },
-      {
         "title": "The foundational elements of AI architecture that IT leaders need to scale",
         "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
         "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur…",
@@ -161,6 +143,15 @@
         "date": "Jul 07, 2026",
         "date_sort": 1783422652.0,
         "score": 5
+      },
+      {
+        "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+        "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+        "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Roc&#237;o Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launchi…",
+        "source": "The Verge",
+        "date": "Jul 11, 2026",
+        "date_sort": 1783803462.0,
+        "score": 3
       },
       {
         "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
@@ -179,6 +170,15 @@
         "date": "Jul 10, 2026",
         "date_sort": 1783663200.0,
         "score": 3
+      },
+      {
+        "title": "More Than a Thousand ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo",
+        "url": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
+        "summary": "A surprise 10th-anniversary event saw Niantic fulfilling a promise teased in the original 2016 launch trailer for its popular mobile game.",
+        "source": "WIRED",
+        "date": "Jul 09, 2026",
+        "date_sort": 1783645730.0,
+        "score": 3
       }
     ]
   },
@@ -187,15 +187,6 @@
     "icon": "🌿",
     "color": "#22c55e",
     "articles": [
-      {
-        "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
-        "summary": "They suck up energy and water, and blast out heat. Just who is better off from all this investment – aside from tech bros?The two great existential threats of our time – the climate crisis and AI – come hurtling together in the explosion of datacentres across Australia and around the world.You can h…",
-        "source": "Environment | The Guardian",
-        "date": "Jul 08, 2026",
-        "date_sort": 1783522836.0,
-        "score": 11
-      },
       {
         "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
         "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
@@ -231,6 +222,15 @@
         "date": "Jul 10, 2026",
         "date_sort": 1783659611.0,
         "score": 7
+      },
+      {
+        "title": "Drones are detecting more sharks at US beaches, but do they make the public safer?",
+        "url": "https://www.theguardian.com/environment/2026/jul/11/sharks-drones-public-safety-beaches",
+        "summary": "Increase in sightings may not reflect increase in sharks with little evidence that threat to swimmers has risenExperts say that despite recent increased investment in drones to monitor for sharks in states like New York, the machines have limited usefulness as a public safety tool and there does not…",
+        "source": "Environment | The Guardian",
+        "date": "Jul 11, 2026",
+        "date_sort": 1783771249.0,
+        "score": 5
       },
       {
         "title": "The Guardian view on the flamingo revolution: Albanians are standing up for their rights, as well as for nature | Editorial",
@@ -285,22 +285,22 @@
         "score": 4
       },
       {
-        "title": "UK heatwave spreads north and west as further heat health alerts issued",
-        "url": "https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&at_campaign=rss",
-        "summary": "This year's third heatwave is one of the longest lasting heatwaves since the infamous year of 1976.",
+        "title": "Rocket test flight could be attempted from Shetland in August",
+        "url": "https://www.bbc.co.uk/news/articles/c0my797z90eo?at_medium=RSS&at_campaign=rss",
+        "summary": "SaxaVord Spaceport has announced a five-week \"window\" for possible attempts.",
         "source": "BBC News",
-        "date": "Jul 09, 2026",
-        "date_sort": 1783594460.0,
+        "date": "Jul 07, 2026",
+        "date_sort": 1783442720.0,
         "score": 4
       },
       {
-        "title": "How beachgoers are turning snaps into science",
-        "url": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Scientists hope to learn more about the impact of climate change on coasts through people's photos.",
-        "source": "BBC News",
-        "date": "Jul 09, 2026",
-        "date_sort": 1783573571.0,
-        "score": 4
+        "title": "Physicists finally build a quantum material predicted more than a decade ago",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm",
+        "summary": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through strain could make the material a promising platform for future room-temperature quantum electronics.",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Jul 11, 2026",
+        "date_sort": 1783753433.0,
+        "score": 3
       }
     ]
   }
