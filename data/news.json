@@ -5,21 +5,39 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "17-Hour Flights: Cathay Pacific's 11 New Ultra-Long Airbus A350 Routes Revealed [Map]",
-        "url": "https://simpleflying.com/17-hour-flights-cathay-pacific-11-new-ultra-long-airbus-a350-routes-map/",
-        "summary": "Cathay Pacific's longest A350 route spans 7,060 nautical miles, connecting Hong Kong to a major US city.",
+        "title": "Virgin Atlantic Slashes Flights To 5 Major Cities: See All Affected Routes",
+        "url": "https://simpleflying.com/virgin-atlantic-slashes-flights-to-5-major-cities-see-all-affected-routes/",
+        "summary": "Virgin will temporarily be the joint-third-largest carrier from London Heathrow to the US. Find out more here!",
         "source": "Simple Flying",
-        "date": "Jul 13, 2026",
-        "date_sort": 1783943186.0,
+        "date": "Jul 14, 2026",
+        "date_sort": 1784030416.0,
         "score": 3
       },
       {
-        "title": "Emirates Abruptly Suspends Airbus A380 Flights On These 5 Major Routes [Map]",
-        "url": "https://simpleflying.com/emirates-abruptly-suspends-airbus-a380-flights-on-these-5-major-routes-map/",
-        "summary": "Superjumbo service to these five destinations has been postponed again. Find out more here!",
+        "title": "Qatar Airways Abruptly Delays Launch Of 1st Flight On New 21-Hour Route",
+        "url": "https://simpleflying.com/qatar-airways-delays-bogota-caracas-launch/",
+        "summary": "2026 has been an uncertain year for Middle Eastern carriers.",
+        "source": "Simple Flying",
+        "date": "Jul 14, 2026",
+        "date_sort": 1784016671.0,
+        "score": 3
+      },
+      {
+        "title": "The 9 Countries Supplying Major Structural Components For The Boeing 787 Dreamliner Assembly Line",
+        "url": "https://simpleflying.com/countries-building-the-boeing-787/",
+        "summary": "The Boeing 787 is assembled in the US, but its parts come from nine countries. Here is what each one builds.",
+        "source": "Simple Flying",
+        "date": "Jul 14, 2026",
+        "date_sort": 1784005216.0,
+        "score": 3
+      },
+      {
+        "title": "Why Delta Air Lines Is One Of The Only US Major Carriers That Lets Basic Economy Flyers Keep Their Carry-On",
+        "url": "https://simpleflying.com/why-delta-air-lines-only-us-major-carrier-lets-basic-economy-flyers-keep-carry-on/",
+        "summary": "Delta Air Lines may have removed plenty from its basic economy product, but at the very least, you can still keep your carry on without an added fee",
         "source": "Simple Flying",
         "date": "Jul 13, 2026",
-        "date_sort": 1783940417.0,
+        "date_sort": 1783987216.0,
         "score": 3
       },
       {
@@ -39,24 +57,6 @@
         "date": "Jul 07, 2026",
         "date_sort": 1783429316.0,
         "score": 3
-      },
-      {
-        "title": "Why Airbus Builds The A321XLR Wing In Britain & Assembles The Aircraft In Germany",
-        "url": "https://simpleflying.com/why-airbus-builds-a321xlr-wing-in-britain/",
-        "summary": "The A321XLR is built across four countries. The reason has more to do with politics than engineering.",
-        "source": "Simple Flying",
-        "date": "Jul 13, 2026",
-        "date_sort": 1783947616.0,
-        "score": 1
-      },
-      {
-        "title": "World Cup Fever: 1.2% North America Flight Boost At Heathrow, Gatwick Adds Late US Trip",
-        "url": "https://simpleflying.com/london-north-america-world-cup-traffic-boosts/",
-        "summary": "North American traffic was on the rise at Heathrow last month. Tomorrow, Norse Atlantic will operate a rare one-off flight from Gatwick to Atlanta.",
-        "source": "Simple Flying",
-        "date": "Jul 13, 2026",
-        "date_sort": 1783947290.0,
-        "score": 1
       }
     ]
   },
@@ -66,31 +66,40 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Megarreforma: el PPD coloca como condición para retomar el diálogo con La Moneda rebajar el impuesto a las bencinas",
-        "url": "https://www.latercera.com/politica/noticia/megarreforma-el-ppd-coloca-como-condicion-para-retomar-el-dialogo-con-la-moneda-rebajar-el-impuesto-a-las-bencinas/",
-        "summary": "En medio de la batahola por la caída del acuerdo con el PPD -por el cambio a la indicación del impuesto corporativo a las empresas-, la administración Kast se enfrenta a una nueva coyuntura: la exigencia del senador PPD, Pedro Araya, de rebajar el impuesto específico a las bencinas, para sentarse de…",
+        "title": "Gobierno incluye en el proyecto de adaptabilidad laboral para el turismo cambios generales para flexibilizar la ley de 40 horas",
+        "url": "https://www.latercera.com/pulso/noticia/gobierno-incluye-en-el-proyecto-de-adaptabilidad-laboral-para-el-turismo-cambios-generales-para-flexibilizar-la-ley-de-40-horas/",
+        "summary": "Para el régimen general, se permitirá que la jornada laboral de 40 horas pueda promediarse en 16 semanas. Hoy es en 4 semanas. Con este cambio, los expertos afirman que Chile quedará en línea con el promedio de los países de la OCDE.",
         "source": "La Tercera",
         "date": "Jul 13, 2026",
-        "date_sort": 1783936800.0,
+        "date_sort": 1783989600.0,
         "score": 5
       },
       {
-        "title": "Barómetro Unab: economía chilena se deteriora por segundo mes consecutivo, pero modera su caída",
-        "url": "https://www.latercera.com/pulso/noticia/barometro-unab-economia-chilena-se-deteriora-por-segundo-mes-consecutivo-pero-modera-su-caida/",
-        "summary": "“Hoy el panorama es más heterogéneo: algunos indicadores ya muestran señales de estabilización y la economía se mantiene en terreno positivo. Es un avance alentador, aunque el desafío será que se consolide en el tiempo”, afirmaron desde el Instituto de Políticas Públicas de la Universidad Andrés Bel…",
+        "title": "El plazo contrarreloj que tendría la oposición para impugnar la megarreforma ante el Tribunal Constitucional",
+        "url": "https://www.latercera.com/politica/noticia/el-plazo-contrarreloj-que-tendria-la-oposicion-para-impugnar-la-megarreforma-ante-el-tribunal-constitucional/",
+        "summary": "En el pasado, ha habido casos en que La Moneda ha jugado con habilidad y ha apurado la promulgación de leyes cuestionadas para dejar fuera de plazo impugnaciones ante el TC. Piñera lo hizo con la llamada ley antisaqueos y antibarricadas; Boric recurrió al mismo resquicio con la iniciativa Nain-Retam…",
         "source": "La Tercera",
         "date": "Jul 13, 2026",
-        "date_sort": 1783940400.0,
+        "date_sort": 1783963897.0,
+        "score": 5
+      },
+      {
+        "title": "Se aproxima un evento de lluvia histórico: revisa los milímetros que caerán en cada sector",
+        "url": "https://www.latercera.com/tendencias/noticia/se-aproxima-el-evento-de-lluvia-historico-revisa-los-milimetros-que-caeran-en-cada-sector/",
+        "summary": "La Dirección Meteorológica de Chile emitió una alerta por precipitaciones moderadas a fuertes debido al sistema frontal que afectará, esta semana, desde las regiones de Atacama hasta el Biobío.",
+        "source": "La Tercera",
+        "date": "Jul 14, 2026",
+        "date_sort": 1784023380.0,
         "score": 3
       },
       {
-        "title": "Tras última baja, precios de combustibles en Chile quedan entre los menores de la OCDE y solo dos países volvieron al nivel previo a la guerra",
-        "url": "https://www.latercera.com/pulso/noticia/tras-ultima-baja-precios-de-combustibles-en-chile-quedan-entre-los-menores-de-la-ocde-y-solo-dos-paises-volvieron-al-nivel-previo-a-la-guerra/",
-        "summary": "Desde el inicio de la guerra en Medio Oriente, el diésel acumula en Chile -medido en dólares comparables- un alza de 14,3% y la gasolina una de 19,6%. Tras la caída de la semana pasada, el litro de bencina pasa a ser el noveno más barato del bloque, aunque en Sudamérica sigue entre los más caros.",
-        "source": "La Tercera",
+        "title": "Argentina to wear 'lucky' blue away kit against England",
+        "url": "https://www.bbc.co.uk/sport/football/articles/czx5v2p7qkgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Argentina will wear their navy blue away strip and England their all-white home strip when the two sides face each other in the World Cup semi-finals on Wednesday.",
+        "source": "BBC News",
         "date": "Jul 13, 2026",
-        "date_sort": 1783940400.0,
-        "score": 3
+        "date_sort": 1783944851.0,
+        "score": 4
       },
       {
         "title": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
@@ -108,15 +117,6 @@
         "source": "BBC News",
         "date": "Jul 12, 2026",
         "date_sort": 1783831698.0,
-        "score": 4
-      },
-      {
-        "title": "Are Argentina being treated favourably at World Cup?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-        "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
-        "source": "BBC News",
-        "date": "Jul 08, 2026",
-        "date_sort": 1783525027.0,
         "score": 4
       }
     ]
@@ -136,48 +136,48 @@
         "score": 7
       },
       {
-        "title": "The foundational elements of AI architecture that IT leaders need to scale",
-        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur…",
-        "source": "MIT Technology Review",
-        "date": "Jul 07, 2026",
-        "date_sort": 1783422652.0,
+        "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+        "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+        "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
+        "source": "WIRED",
+        "date": "Jul 14, 2026",
+        "date_sort": 1784019600.0,
         "score": 5
       },
       {
-        "title": "The Download: a donor conception cap and world models for AI",
-        "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a …",
-        "source": "MIT Technology Review",
-        "date": "Jul 13, 2026",
-        "date_sort": 1783944600.0,
-        "score": 3
-      },
-      {
-        "title": "Social media limits are coming for teens across Europe",
-        "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
-        "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. Eur…",
+        "title": "Apple’s public betas for iOS 27 and more are out now",
+        "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+        "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief. Other betas available now [&…",
         "source": "The Verge",
         "date": "Jul 13, 2026",
-        "date_sort": 1783934572.0,
+        "date_sort": 1783975540.0,
+        "score": 5
+      },
+      {
+        "title": "The first sunlight reflecting space mirror has been cleared for launch",
+        "url": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+        "summary": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and operate a single prototype satellite in low-Earth orbit later…",
+        "source": "The Verge",
+        "date": "Jul 14, 2026",
+        "date_sort": 1784027439.0,
         "score": 3
       },
       {
-        "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-        "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins…",
-        "source": "MIT Technology Review",
-        "date": "Jul 10, 2026",
-        "date_sort": 1783685400.0,
-        "score": 3
-      },
-      {
-        "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-        "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-        "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
+        "title": "The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
+        "url": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/",
+        "summary": "The FCC authorized Reflect Orbital to launch the mirror satellite Eärendil-1. “For optical astronomy, this poses an existential threat,” the European Southern Observatory said.",
         "source": "WIRED",
-        "date": "Jul 10, 2026",
-        "date_sort": 1783663200.0,
+        "date": "Jul 14, 2026",
+        "date_sort": 1784017800.0,
+        "score": 3
+      },
+      {
+        "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+        "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+        "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze…",
+        "source": "MIT Technology Review",
+        "date": "Jul 14, 2026",
+        "date_sort": 1784016000.0,
         "score": 3
       }
     ]
@@ -188,12 +188,21 @@
     "color": "#22c55e",
     "articles": [
       {
-        "title": "Plan to restore nature in England by 2030 criticised as ‘completely insufficient’",
-        "url": "https://www.theguardian.com/environment/2026/jul/13/england-rewilding-plan-restore-nature-2030-criticised",
-        "summary": "Critics accuse ministers of failing to take control of nature crisis and leaving it to private landowners to act voluntarilyThe government’s plan to protect and restore nature in England by 2030 has been condemned as “pathetic” and “completely insufficient” in the face of the spiralling environmenta…",
+        "title": "Most UK media reports on June heatwave failed to mention climate crisis",
+        "url": "https://www.theguardian.com/environment/2026/jul/14/most-coverage-june-heatwave-did-not-mention-climate-crisis",
+        "summary": "Exclusive: Analysis of nearly 2,500 articles finds almost three-quarters made no reference to global heatingMost of the UK media stories about the record-breaking heatwave that struck in June failed to mention the climate crisis, analysis has found.Nearly 2,500 articles about the extreme heat – when…",
+        "source": "Environment | The Guardian",
+        "date": "Jul 14, 2026",
+        "date_sort": 1784005221.0,
+        "score": 11
+      },
+      {
+        "title": "Lancashire chemicals factory facing potential legal claim announces closure",
+        "url": "https://www.theguardian.com/environment/2026/jul/13/lancashire-factory-agc-chemicals-europe-potential-legal-claim-announces-closure",
+        "summary": "More than 90 residents have expressed interest in contamination claim against AGC Chemicals EuropeA Pfas factory in Lancashire has announced plans to close down, just days after the Guardian revealed that more than 90 residents had signed up to be involved in a potential legal claim over contaminati…",
         "source": "Environment | The Guardian",
         "date": "Jul 13, 2026",
-        "date_sort": 1783942068.0,
+        "date_sort": 1783965939.0,
         "score": 7
       },
       {
@@ -215,12 +224,12 @@
         "score": 7
       },
       {
-        "title": "Drones are detecting more sharks at US beaches, but do they make the public safer?",
-        "url": "https://www.theguardian.com/environment/2026/jul/11/sharks-drones-public-safety-beaches",
-        "summary": "Increase in sightings may not reflect increase in sharks with little evidence that threat to swimmers has risenExperts say that despite recent increased investment in drones to monitor for sharks in states like New York, the machines have limited usefulness as a public safety tool and there does not…",
-        "source": "Environment | The Guardian",
-        "date": "Jul 11, 2026",
-        "date_sort": 1783771249.0,
+        "title": "Alabama Data Center Non-Disclosure Agreement Required City Officials to Destroy Records, Document Shows",
+        "url": "https://insideclimatenews.org/news/13072026/alabama-data-center-non-disclosure-agreement/",
+        "summary": "BESSEMER, Ala.—After months of resistance, officials in a historic suburb of Birmingham have released a non-disclosure agreement between city leaders and developers of a hyperscale data center. The release of the agreement came after environmental groups threatened to sue Bessemer over its unwilling…",
+        "source": "Inside Climate News",
+        "date": "Jul 13, 2026",
+        "date_sort": 1783973646.0,
         "score": 5
       },
       {
@@ -231,15 +240,6 @@
         "date": "Jul 08, 2026",
         "date_sort": 1783501225.0,
         "score": 5
-      },
-      {
-        "title": "Pupils vow to save 'dying' river in beauty spot",
-        "url": "https://www.bbc.co.uk/news/articles/cjrgvxjqdlvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Children from a school near a popular beauty spot test local water quality over pollution concerns.",
-        "source": "BBC News",
-        "date": "Jul 12, 2026",
-        "date_sort": 1783833401.0,
-        "score": 4
       }
     ]
   },
@@ -248,6 +248,15 @@
     "icon": "🔬",
     "color": "#0ea5e9",
     "articles": [
+      {
+        "title": "NASA's Perseverance just completed a marathon on Mars",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
+        "summary": "NASA's Perseverance rover has reached an impressive new milestone on Mars, completing the equivalent of a full marathon by driving 26.2 miles (42.195 kilometers) across the Red Planet. It accomplished the feat in just five years and four months, reaching the distance on its 1,890th Martian day, less…",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Jul 14, 2026",
+        "date_sort": 1784007132.0,
+        "score": 5
+      },
       {
         "title": "China lands reusable rocket for first time, state media says",
         "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
@@ -276,30 +285,21 @@
         "score": 4
       },
       {
+        "title": "Daily briefing: The rise of evidence-based medicine",
+        "url": "https://www.nature.com/articles/d41586-026-02206-z",
+        "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02206-zHow rigorous research has transformed health and social policy. Plus, a breakthrough for lab-grown sperm and the NSF plans to cut core science programmes to fund a White House initiative.",
+        "source": "Nature",
+        "date": "Jul 12, 2026",
+        "date_sort": 1783900800.0,
+        "score": 3
+      },
+      {
         "title": "Physicists finally build a quantum material predicted more than a decade ago",
         "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm",
         "summary": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through strain could make the material a promising platform for future room-temperature quantum electronics.",
         "source": "Latest Science News -- ScienceDaily",
         "date": "Jul 11, 2026",
         "date_sort": 1783753433.0,
-        "score": 3
-      },
-      {
-        "title": "Europe just unveiled a new rival to SpaceX’s Starship",
-        "url": "https://www.sciencedaily.com/releases/2026/07/260710003526.htm",
-        "summary": "A detailed independent study found that SpaceX's Starship is every bit as revolutionary as expected, while revealing both its impressive capabilities and its biggest remaining hurdles. It also introduces an ambitious European rocket concept that could offer a very different route to affordable super…",
-        "source": "Latest Science News -- ScienceDaily",
-        "date": "Jul 10, 2026",
-        "date_sort": 1783732473.0,
-        "score": 3
-      },
-      {
-        "title": "UN space database aimed at easing global tensions is mysteriously down",
-        "url": "https://www.newscientist.com/article/2533721-un-space-database-aimed-at-easing-global-tensions-is-mysteriously-down/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-        "summary": "A list of global space launches designed to calm cold war tensions and promote transparency has been missing from the UN's website for months",
-        "source": "New Scientist",
-        "date": "Jul 10, 2026",
-        "date_sort": 1783692720.0,
         "score": 3
       }
     ]
