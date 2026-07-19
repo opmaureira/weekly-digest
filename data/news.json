@@ -5,57 +5,57 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "How This Major Airline Is Creating The Most Spacious Business Suite In The Sky",
-        "url": "https://simpleflying.com/creating-most-spacious-business-suite-sky/",
-        "summary": "ANA's new 787 business class suite is 41.5 inches wide. Most competitors offer roughly half that.",
+        "title": "2,000-Jet Shortage: Boeing Warns Global Supply Squeeze Will Last Into The 2030s",
+        "url": "https://simpleflying.com/boeing-2000-jet-shortage-supply-squeeze-2030s/",
+        "summary": "Boeing's latest forecast at the Farnborough Airshow reveals a looming crisis in the global aviation market, with a shortage of nearly 2,000 aircraft.",
         "source": "Simple Flying",
         "date": "Jul 18, 2026",
-        "date_sort": 1784350811.0,
+        "date_sort": 1784428650.0,
+        "score": 5
+      },
+      {
+        "title": "How American & United Airlines Are Turning 19-Year-Olds With Zero Flight Hours Into Branded Airline Pilots",
+        "url": "https://simpleflying.com/how-american-united-airlines-turning-19-year-olds-zero-flight-hours-branded-pilots/",
+        "summary": "The two major US carriers are supporting pilots in the early stages of their careers.",
+        "source": "Simple Flying",
+        "date": "Jul 18, 2026",
+        "date_sort": 1784415611.0,
         "score": 3
       },
       {
-        "title": "Why United Airlines Stopped Trusting Boeing's Timeline & Bet 260 Jets On Airbus Instead",
-        "url": "https://simpleflying.com/why-united-airlines-stopped-trusting-boeing-timeline-bet-260-jets-airbus-instead/",
-        "summary": "After being burned by Boeing, United will now heavily rely on Airbus for large narrowbody growth.",
+        "title": "Rolls-Royce Says It Has Doubled Engine Time On Wing Since Launching Its Transformation",
+        "url": "https://simpleflying.com/rolls-royce-engine-time-on-wing-improvement/",
+        "summary": "Rolls-Royce set a 40% time on wing target in 2023. In 2026, the company says it has hit 100%.",
         "source": "Simple Flying",
         "date": "Jul 18, 2026",
-        "date_sort": 1784372416.0,
-        "score": 1
+        "date_sort": 1784408411.0,
+        "score": 3
       },
       {
-        "title": "The Highest Paid US Army Helicopter Pilot Ranks In 2026",
-        "url": "https://simpleflying.com/highest-paid-army-helicopter-pilots-2026/",
-        "summary": "The pay scale for America's rotary-wing warriors.",
+        "title": "American Airlines Launches New 3-Hour Nonstop Regional Jet Flights To South America",
+        "url": "https://simpleflying.com/american-airlines-launches-new-3-hour-nonstop-regional-jet-flights-to-south-america/",
+        "summary": "As Venezuela recovers from a devastating earthquake, American Airlines' new regional jet flights to Maracaibo adds a connection to this oil city.",
         "source": "Simple Flying",
         "date": "Jul 18, 2026",
-        "date_sort": 1784361611.0,
-        "score": 1
+        "date_sort": 1784405591.0,
+        "score": 3
       },
       {
-        "title": "FAA Hands Boeing Back Full Authority To Certify Its Own 737 MAX & 787s For Delivery",
-        "url": "https://simpleflying.com/faa-boeing-authority-certify-737-max-787-delivery/",
-        "summary": "After years of intense scrutiny, the FAA has finally returned Boeing the authority to certify airworthiness certificates.",
+        "title": "Delta Air Lines Broke A Decade Of Airbus Widebody Loyalty To Give Boeing 1 Order",
+        "url": "https://simpleflying.com/delta-air-lines-broke-decade-airbus-widebody-loyalty-give-boeing-1-order/",
+        "summary": "Delta has finally returned to Boeing after years of Airbus reliance. This is what the landmark order may mean for the airline's future plans",
         "source": "Simple Flying",
-        "date": "Jul 18, 2026",
-        "date_sort": 1784351463.0,
+        "date": "Jul 19, 2026",
+        "date_sort": 1784455211.0,
         "score": 1
       },
       {
-        "title": "Air Taxis Could Begin Flying From Orlando Airport “Later This Year,” Executive Says",
-        "url": "https://simpleflying.com/air-taxis-begin-flying-orlando-airport-later-this-year/",
-        "summary": "As eVTOL aircraft inch closer to commercial operations, the Greater Orlando Aviation Authority bets big on a vertistop at MCO.",
+        "title": "Why The Boeing KC-46 Still Has Refueling Limitations With Several USAF Aircraft",
+        "url": "https://simpleflying.com/why-kc-46-has-refueling-limitations/",
+        "summary": "KC-46 Pegasus still faces A-10 and stealth aircraft refueling limits as Boeing works on boom and vision system fixes.",
         "source": "Simple Flying",
-        "date": "Jul 17, 2026",
-        "date_sort": 1784332441.0,
-        "score": 1
-      },
-      {
-        "title": "Boeing’s Market Forecast Echoes Gulf War",
-        "url": "https://airinsight.com/boeings-market-forecast-echoes-gulf-war/",
-        "summary": "Boeing’s latest 20-year delivery forecast for 43.625 aircraft is almost identical to last year’s Commercial Market Outlook (CMO). It’s just",
-        "source": "AirInsight",
-        "date": "Jul 17, 2026",
-        "date_sort": 1784329218.0,
+        "date": "Jul 19, 2026",
+        "date_sort": 1784444411.0,
         "score": 1
       }
     ]
@@ -66,31 +66,40 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Glencore reactiva emblemático proyecto minero El Pachón en Argentina, el vecino fronterizo de Los Pelambres",
-        "url": "https://www.latercera.com/pulso/noticia/glencore-reactiva-emblematico-proyecto-minero-el-pachon-en-argentina-el-vecino-fronterizo-de-los-pelambres/",
-        "summary": "Después de que en agosto del año pasado solicitara adherirse al programa RIGI de fomento a la inversión del gobierno argentino, la multinacional suiza ha estado contratando profesionales en Chile y Argentina. Además, mientras levanta infraestructura caminera, hace unos días culminó su campaña de exp…",
+        "title": "Robert Powell: “Jesús de Nazaret ha perdurado 50 años y espero que perdure mucho más allá de mí”",
+        "url": "https://www.latercera.com/culto/noticia/robert-powell-jesus-de-nazaret-ha-perdurado-50-anos-y-espero-que-perdure-mucho-mas-alla-de-mi/",
+        "summary": "“Yo no hice nada. Simplemente existí para la cámara”, dice el actor inglés al recordar la icónica miniserie de Franco Zeffirelli, que comienza las celebraciones de su medio siglo de existencia. Reconocido con un premio a la trayectoria en Italia, en esta entrevista con Culto detalla su reticencia in…",
         "source": "La Tercera",
         "date": "Jul 18, 2026",
-        "date_sort": 1784372400.0,
-        "score": 5
+        "date_sort": 1784419393.0,
+        "score": 7
       },
       {
-        "title": "Crisis en el tenis chileno: IND denuncia a Milovan Kegevic ante la Fiscalía por presunta falsificación de documentos",
-        "url": "https://www.latercera.com/el-deportivo/noticia/crisis-en-el-tenis-chileno-ind-denuncia-a-milovan-kegevic-ante-la-fiscalia-por-presunta-falsificacion-de-documentos/",
-        "summary": "La entidad presentó los antecedentes ante la Justicia, mientras que el impugnado presidente del tenis acudió al Tribunal Electoral para dejar sin efecto su inhabilitación. Asegura que el certificado exhibido por la Universidad Bolivariana, que desmiente su título, “es falso”.",
+        "title": "Las definiciones del nuevo “CEO” de PwC",
+        "url": "https://www.latercera.com/pulso/noticia/las-definiciones-del-nuevo-ceo-de-pwc/",
+        "summary": "Ricardo Arraño asumió hace dos semanas como socio principal en Chile de una de las Big Four globales. Contador auditor de 58 años, llegó en 1990 a la empresa que dirigirá los próximos cuatro años, en reemplazo de Renzo Corona. Aquí explica su énfasis en la Inteligencia Artificial, sus ambiciones par…",
         "source": "La Tercera",
-        "date": "Jul 18, 2026",
-        "date_sort": 1784368801.0,
-        "score": 5
-      },
-      {
-        "title": "Claudia Sanhueza: “La agenda que está impulsando el ministro Quiroz responde a una batalla cultural, no a una estrategia de desarrollo”",
-        "url": "https://www.latercera.com/pulso/noticia/claudia-sanhueza-la-agenda-que-esta-impulsando-el-ministro-quiroz-responde-a-una-batalla-cultural-no-a-una-estrategia-de-desarrollo/",
-        "summary": "La exsubsecretaria de Hacienda y de Relaciones Económicas Internacionales del gobierno pasado critica la megarreforma impulsada por la administración Kast. \"Es una agenda identitaria\", señala, y añade que los cambios propuestos \"con certeza van a disminuir los recursos fiscales\".",
-        "source": "La Tercera",
-        "date": "Jul 18, 2026",
-        "date_sort": 1784372400.0,
+        "date": "Jul 19, 2026",
+        "date_sort": 1784458800.0,
         "score": 3
+      },
+      {
+        "title": "Sistema frontal en Chile, EN VIVO: monitorea las lluvias, alertas y la emergencia en el norte este domingo",
+        "url": "https://www.latercera.com/nacional/noticia/sistema-frontal-en-chile-en-vivo-monitorea-las-lluvias-alertas-y-la-emergencia-en-el-norte-este-domingo/",
+        "summary": "Sigue el minuto a minuto del sistema frontal que afecta a distintas regiones del país. Revisa las alertas SAE, evacuaciones, los reportes de Senapred y de la Dirección Meteorológica de Chile, el estado de las rutas, los cortes de suministro eléctrico y las principales novedades de la emergencia.",
+        "source": "La Tercera",
+        "date": "Jul 19, 2026",
+        "date_sort": 1784461684.0,
+        "score": 1
+      },
+      {
+        "title": "‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
+        "url": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final",
+        "summary": "A history of racism and ongoing footballing rivalries have made the choice of which team to get behind in Sunday’s final a charged topicThe Brazilian journalist and columnist Julia Duailibi usually writes about politics in her weekly column for the leading Brazilian newspaper O Globo, but last Thurs…",
+        "source": "Americas | The Guardian",
+        "date": "Jul 18, 2026",
+        "date_sort": 1784386980.0,
+        "score": 5
       },
       {
         "title": "‘Las Malvinas son Argentinas’? Not quite – but the Falklands cannot remain British for ever | Simon Jenkins",
@@ -102,21 +111,12 @@
         "score": 5
       },
       {
-        "title": "The Guardian view on Brazil’s sovereignty: Trump turns autonomy into a trade offence | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/14/the-guardian-view-on-brazils-sovereignty-trump-turns-autonomy-into-a-trade-offence",
-        "summary": "Donald Trump’s tariff threat recasts Brazil’s attempt to protect its democracy as unfair commercial practice – and gives Bolsonarism a Washington stageLast June, Brazil’s supreme court responded to the online lies that helped fuel Jair Bolsonaro’s failed far-right coup attempt in 2023. It ruled that…",
-        "source": "Americas | The Guardian",
-        "date": "Jul 14, 2026",
-        "date_sort": 1784050722.0,
-        "score": 5
-      },
-      {
-        "title": "White House defends Argentina team over Falklands banner",
-        "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-        "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+        "title": "Messi on the brink of history - will it be his last World Cup game?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
         "source": "BBC News",
-        "date": "Jul 17, 2026",
-        "date_sort": 1784326374.0,
+        "date": "Jul 19, 2026",
+        "date_sort": 1784454922.0,
         "score": 4
       }
     ]
@@ -145,6 +145,15 @@
         "score": 7
       },
       {
+        "title": "The apps, gadgets, and tools every reader needs",
+        "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+        "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of V…",
+        "source": "The Verge",
+        "date": "Jul 18, 2026",
+        "date_sort": 1784376000.0,
+        "score": 5
+      },
+      {
         "title": "The risk of weather data sabotage is rising",
         "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
         "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit…",
@@ -169,15 +178,6 @@
         "source": "AI | VentureBeat",
         "date": "Jul 16, 2026",
         "date_sort": 1784220048.0,
-        "score": 5
-      },
-      {
-        "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-        "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-        "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”…",
-        "source": "AI | VentureBeat",
-        "date": "Jul 15, 2026",
-        "date_sort": 1784154257.0,
         "score": 5
       }
     ]
@@ -206,12 +206,30 @@
         "score": 11
       },
       {
-        "title": "Southern Water fined £7m after illegally dumping sewage off Kent coast",
-        "url": "https://www.theguardian.com/environment/2026/jul/17/southern-water-fined-7m-dumping-sewage-kent-coast",
-        "summary": "Firm pleaded guilty to 13 offences over discharges at Margate and Broadstairs wastewater pumping stationsSouthern Water has been fined more than £7m after illegally dumping sewage off the Kent coast between 2019 and 2021.The company, described by the judge as having a “record of criminality” that wa…",
+        "title": "Majority of US voters link extreme weather to climate crisis, study finds",
+        "url": "https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study",
+        "summary": "Top Democrat says findings show public ‘way ahead of the politicians’ as Trump dismisses global heating as ‘hoax’Amid a summer of dangerous heat, drought and floods, a majority of Americans are connecting increasingly severe weather to the climate crisis, new polling shows, despite efforts by Donald…",
         "source": "Environment | The Guardian",
-        "date": "Jul 17, 2026",
-        "date_sort": 1784300161.0,
+        "date": "Jul 19, 2026",
+        "date_sort": 1784458826.0,
+        "score": 9
+      },
+      {
+        "title": "How Trump and his administration have mired the US in multiple crises",
+        "url": "https://www.theguardian.com/us-news/2026/jul/19/how-trump-and-his-administration-have-mired-the-us-in-multiple-crises",
+        "summary": "From manufactured election insecurity to an outbreak of ‘explosive’ diarrhea, Americans are bearing the brunt of harmful policiesBetween widespread cuts to vital government agencies, various disease and illness outbreaks, and new environmental disaster vulnerabilities, the United States is facing a …",
+        "source": "Environment | The Guardian",
+        "date": "Jul 19, 2026",
+        "date_sort": 1784458825.0,
+        "score": 7
+      },
+      {
+        "title": "Bank of England to stop accepting bonds linked to coal for key loans",
+        "url": "https://www.theguardian.com/business/2026/jul/19/bank-of-england-bonds-coal-loans-assets",
+        "summary": "Campaigners hope move will force commercial banks to rethink holding assets linked to the fossil fuelClimate campaigners have declared a victory after the Bank of England said it would no longer accept bonds linked to one of the most polluting industries on the planet for key loan arrangements.The b…",
+        "source": "Environment | The Guardian",
+        "date": "Jul 19, 2026",
+        "date_sort": 1784437217.0,
         "score": 7
       },
       {
@@ -221,24 +239,6 @@
         "source": "Environment | The Guardian",
         "date": "Jul 16, 2026",
         "date_sort": 1784181615.0,
-        "score": 7
-      },
-      {
-        "title": "Surviving extreme heat increasingly boils down to this: access to air conditioning | Mark Wolfe",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/15/air-conditioning-access-extreme-heat",
-        "summary": "The next great climate divide will be between countries that have the resources to adapt and those that don’tThis summer, much of the media’s attention has focused on record temperatures across Europe and the United States. Television coverage has been filled with familiar images: heat maps shaded d…",
-        "source": "Environment | The Guardian",
-        "date": "Jul 15, 2026",
-        "date_sort": 1784116855.0,
-        "score": 7
-      },
-      {
-        "title": "US trial could reveal who paid hackers to target Exxon climate critics: ‘on the edge of our seats’",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial",
-        "summary": "Oil giant has denied involvement, but climate activists are closely watching court case against Israeli private investigator for answersA group of American climate activists are closely watching a US court case that could reveal who hired hackers to target their inboxes a decade ago.In 2015, a set o…",
-        "source": "Environment | The Guardian",
-        "date": "Jul 15, 2026",
-        "date_sort": 1784109653.0,
         "score": 7
       }
     ]
@@ -285,21 +285,21 @@
         "score": 5
       },
       {
+        "title": "The hidden cost of the night shift and how to sleep it off",
+        "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+        "summary": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
+        "source": "BBC News",
+        "date": "Jul 18, 2026",
+        "date_sort": 1784419315.0,
+        "score": 4
+      },
+      {
         "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
         "url": "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&at_campaign=rss",
         "summary": "Researchers have found an Earth-like, rocky planet orbiting within the habitable zone of a distant star with an atmosphere.",
         "source": "BBC News",
         "date": "Jul 17, 2026",
         "date_sort": 1784293117.0,
-        "score": 4
-      },
-      {
-        "title": "BBC Inside Science",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct977w?at_medium=RSS&at_campaign=rss",
-        "summary": "What’s the point of having a treaty banning nukes in space if we can’t spot them?",
-        "source": "BBC News",
-        "date": "Jul 16, 2026",
-        "date_sort": 1784232000.0,
         "score": 4
       }
     ]
