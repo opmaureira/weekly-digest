@@ -5,12 +5,21 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "Southwest Flight Attendant Arrested By ICE Agents Waiting At His Nashville Crew Base",
-        "url": "https://simpleflying.com/southwest-flight-attendant-arrested-ice-nashville-crew-base/",
-        "summary": "One man's fight for citizenship turns into a battle against ICE: A Southwest flight attendant's ordeal.",
+        "title": "The Lockheed P-38 Lightning Pilot With More Confirmed Aerial Victories Than Any Other American In World War II",
+        "url": "https://simpleflying.com/p38-lightning-richard-bong-record/",
+        "summary": "The battle record of America's ace of aces.",
         "source": "Simple Flying",
-        "date": "Jul 24, 2026",
-        "date_sort": 1784937963.0,
+        "date": "Jul 26, 2026",
+        "date_sort": 1785049211.0,
+        "score": 5
+      },
+      {
+        "title": "Why Alaska Airlines Paid $2.6 Billion For Virgin America Then Retired Its Brand Within 2 Years Of Closing The Deal",
+        "url": "https://simpleflying.com/why-alaska-retired-virgin-america/",
+        "summary": "The company ultimately chose to focus on growing Alaska Airlines and, increasingly, its own brand relevance.",
+        "source": "Simple Flying",
+        "date": "Jul 26, 2026",
+        "date_sort": 1785038413.0,
         "score": 3
       },
       {
@@ -23,39 +32,30 @@
         "score": 3
       },
       {
-        "title": "15-Hour Flights: Singapore Airlines' 9 New Longest Nonstop Airbus A380 Routes [Map]",
-        "url": "https://simpleflying.com/singapore-airlines-new-longest-airbus-a380-routes/",
-        "summary": "The carrier flies its superjumbos to a wide range of destinations.",
+        "title": "The Reason Airlines At The Same Airport Pay Completely Different Prices For The Same Fuel On The Same Day",
+        "url": "https://simpleflying.com/why-airlines-pay-different-fuel-prices/",
+        "summary": "Fuel is a complicated variable to invoice, meaning that even under identical circumstances, two different aircraft can pay different prices.",
         "source": "Simple Flying",
-        "date": "Jul 25, 2026",
-        "date_sort": 1784977211.0,
+        "date": "Jul 26, 2026",
+        "date_sort": 1785060011.0,
         "score": 1
       },
       {
-        "title": "How Boeing Fixed The 737 MAX's Problem Without Redesigning The Entire Aircraft",
-        "url": "https://simpleflying.com/how-boeing-fixed-737-max-problem-without-redesigning-entire-aircraft/",
-        "summary": "Boeing's MCAS system was designed to counteract the 737 MAX's aerodynamic changes, but a single sensor failure led to disaster. Twice.",
+        "title": "The 1960s Design Decision That Still Limits How Wide Every Boeing 737 Economy Seat Can Be",
+        "url": "https://simpleflying.com/why-boeing-737-seats-so-narrow/",
+        "summary": "A closer look at why the 737 is tighter inside than rivals like the Airbus A320.",
         "source": "Simple Flying",
         "date": "Jul 25, 2026",
-        "date_sort": 1784977211.0,
+        "date_sort": 1785027611.0,
         "score": 1
       },
       {
-        "title": "Qatar Airways Boeing 777 Intercepted By RAF Typhoons After Failing To Respond To ATC",
-        "url": "https://simpleflying.com/qatar-airways-777-raf-typhoon-intercept-manchester/",
-        "summary": "An apparently unresponsive Qatar Airways flight caused concern for UK authorities.",
+        "title": "Why Buying A Fighter Jet Costs Far More Than Its Advertised Price",
+        "url": "https://simpleflying.com/true-cost-buying-fighter-jet/",
+        "summary": "The difference in per-unit costs of modern Western fighter jets is around $50 million, but this is largely incidental to overall costs.",
         "source": "Simple Flying",
         "date": "Jul 25, 2026",
-        "date_sort": 1784974632.0,
-        "score": 1
-      },
-      {
-        "title": "London Gatwick Has 1 Runway. It Still Handles More Passengers Per Year Than Most Airports With 4",
-        "url": "https://simpleflying.com/how-gatwick-handles-so-many-passengers/",
-        "summary": "How Gatwick handles over 43 million passengers annually with one runway through world-class scheduling, rapid turnarounds, and operational efficiency.",
-        "source": "Simple Flying",
-        "date": "Jul 25, 2026",
-        "date_sort": 1784966411.0,
+        "date_sort": 1785024011.0,
         "score": 1
       }
     ]
@@ -66,31 +66,31 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "El temporal que cambió el invierno",
-        "url": "https://www.latercera.com/nacional/noticia/el-temporal-que-cambio-el-invierno/",
-        "summary": "La semana en que Chile enfrentó una emergencia climática sin precedentes hasta ahora arroja un saldo de 13 víctimas oficiales, aunque se presumen más. Los registros históricos de agua caída también dejan miles de damnificados, infraestructura destruida y comunidades que permanecen aisladas. Pero tam…",
+        "title": "Los pragmáticos 69 días de Arrau en Seguridad",
+        "url": "https://www.latercera.com/politica/noticia/la-pragmatica-instalacion-de-arrau-en-seguridad-comienza-a-generar-sus-primeros-ruidos/",
+        "summary": "El ingeniero republicano tomó con decisión las riendas de un ministerio en crisis, tras el fracaso de Trinidad Steinert. Sin embargo, la ausencia de medidas acordes con lo prometido por Kast en campaña y su estilo comunicacional generan cuestionamientos. Ahora prepara una reforma constitucional que …",
         "source": "La Tercera",
-        "date": "Jul 25, 2026",
-        "date_sort": 1784973601.0,
-        "score": 9
+        "date": "Jul 26, 2026",
+        "date_sort": 1785060000.0,
+        "score": 7
       },
       {
-        "title": "Nico Pino, piloto chileno: “Hoy para poder llegar a las grandes ligas es necesario el apoyo de un país”",
-        "url": "https://www.latercera.com/el-deportivo/noticia/nico-pino-piloto-chileno-hoy-para-poder-llegar-a-las-grandes-ligas-es-necesario-el-apoyo-de-un-pais/",
-        "summary": "El piloto busca dar el salto a la Fórmula 1 y al mismo tiempo trabaja con las autoridades chilenas en impulsar un proyecto de ley para potenciar a deportistas con exposición global.",
-        "source": "La Tercera",
-        "date": "Jul 25, 2026",
-        "date_sort": 1784973601.0,
-        "score": 5
+        "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+        "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
+        "summary": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
+        "source": "BBC News",
+        "date": "Jul 21, 2026",
+        "date_sort": 1784632907.0,
+        "score": 4
       },
       {
-        "title": "Presidente Kast lidera nueva reunión de monitoreo y coordinación por sistema frontal",
-        "url": "https://www.latercera.com/nacional/noticia/presidente-kast-lidera-nueva-reunion-de-monitoreo-y-coordinacion-por-sistema-frontal/",
-        "summary": "La cita se da en medio de una serie de gestiones y despliegues en terreno que ha realizado el gobierno para enfrentar la crisis climática que ha perjudicado a varias zonas de Chile.",
+        "title": "Un ejecutivo histórico deja el family office de los Piñera",
+        "url": "https://www.latercera.com/pulso/noticia/un-ejecutivo-historico-deja-el-family-office-de-los-pinera/",
+        "summary": "El abogado Andrés Gazitúa estuvo 16 años como gerente de administración y finanzas del grupo Odisea, antes Bancard, y ejerció como gerente general de varias sociedades. Su primer cargo lo ocupa ahora Juan Guillermo Puga, ex ejecutivo de Ontario Teachers’ Pension Plan en Chile. Otros roles los asumie…",
         "source": "La Tercera",
-        "date": "Jul 24, 2026",
-        "date_sort": 1784927726.0,
-        "score": 5
+        "date": "Jul 26, 2026",
+        "date_sort": 1785063600.0,
+        "score": 3
       },
       {
         "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
@@ -188,13 +188,22 @@
     "color": "#22c55e",
     "articles": [
       {
-        "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
+        "title": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
         "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first ministerTell us: have you been affected by wildfires in Europe?The French prime minister, Sébastien Lecornu, has requested the armed forces to deploy an Airbus A400M military transp…",
         "source": "Environment | The Guardian",
         "date": "Jul 25, 2026",
-        "date_sort": 1784980177.0,
+        "date_sort": 1784999256.0,
         "score": 9
+      },
+      {
+        "title": "Firefighters in Spain and France battle raging wildfires – video",
+        "url": "https://www.theguardian.com/world/video/2026/jul/25/firefighters-in-spain-and-france-battle-raging-wildfires-video",
+        "summary": "Footage shows the extent of the devastation caused by wildfires in Cenicientos, in the Madrid region of Spain, on Friday. Members of Spain's military emergency unit sought to contain the blazes in the Madrid region and in Cuevas de Cañart in the country's north-east. In France, dozens of firefighter…",
+        "source": "Environment | The Guardian",
+        "date": "Jul 25, 2026",
+        "date_sort": 1784988716.0,
+        "score": 7
       },
       {
         "title": "Scientists decry Trump’s ‘blame game’ after he claims Canada ‘poisoning’ US air",
@@ -231,15 +240,6 @@
         "date": "Jul 20, 2026",
         "date_sort": 1784520045.0,
         "score": 7
-      },
-      {
-        "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
-        "url": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch.",
-        "source": "BBC News",
-        "date": "Jul 24, 2026",
-        "date_sort": 1784940110.0,
-        "score": 6
       }
     ]
   },
@@ -258,12 +258,12 @@
         "score": 6
       },
       {
-        "title": "Play area aims to interest children in rare habitat",
-        "url": "https://www.bbc.co.uk/news/articles/c74gev9399yo?at_medium=RSS&at_campaign=rss",
-        "summary": "A science centre hopes play is the key to making children care about the future of chalk streams.",
+        "title": "Nasa boss praises rise of women in science",
+        "url": "https://www.bbc.co.uk/news/articles/c62vq0pg6yvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Dr Nicola Fox says she was one of four women on her science course at university in the 1991.",
         "source": "BBC News",
-        "date": "Jul 24, 2026",
-        "date_sort": 1784870455.0,
+        "date": "Jul 26, 2026",
+        "date_sort": 1785043033.0,
         "score": 4
       },
       {
