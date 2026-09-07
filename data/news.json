@@ -14,48 +14,48 @@
         "score": 5
       },
       {
-        "title": "The US Air Force Just Bought A Stripped-Down Radar To Keep The B-52 Relevant Into The 2040s",
-        "url": "https://simpleflying.com/usaf-bought-stripped-down-radar-keep-b-52-relevant-2040s/",
-        "summary": "Budget overruns force the BUFF to cut back.",
+        "title": "New York Is Getting Direct All-Business Class Flights To Germany",
+        "url": "https://simpleflying.com/la-compangie-all-business-new-york-dusseldorf-flights/",
+        "summary": "100% business class airline launches new route to Düsseldorf",
         "source": "Simple Flying",
-        "date": "Sep 06, 2026",
-        "date_sort": 1788699613.0,
-        "score": 1
+        "date": "Sep 07, 2026",
+        "date_sort": 1788795891.0,
+        "score": 3
       },
       {
-        "title": "Ramp Agent Struck By Airbus A350 At Montreal Airport, Succumbs To Injuries",
-        "url": "https://simpleflying.com/video/ramp-agent-struck-by-airbus-a350-at-montreal-airport-succumbs-to-injuries/",
-        "summary": "Tragedy struck at Montreal-Trudeau International Airport on August 24th as a ramp agent was struck by an Airbus A350-900. It’s said that the individual, now deceased, had stumbled during pushback.",
-        "source": "Simple Flying",
-        "date": "Sep 06, 2026",
-        "date_sort": 1788698054.0,
-        "score": 1
-      },
-      {
-        "title": "First Flight for IAI A330-300 P2F Conversion",
-        "url": "https://airinsight.com/first-flight-for-iai-a330-300-p2f-conversion/",
-        "summary": "IAI has completed the first flight of its Airbus A330-300 passenger to freight conversion program. The first Airbus A330-300BDSF, with",
+        "title": "Boeing’s Deal to Lose: American’s Widebody Decision",
+        "url": "https://airinsight.com/boeings-deal-to-lose-americans-widebody-decision/",
+        "summary": "Reports state American Airlines&#8217; widebody decision has narrowed to two aircraft: the Airbus A330-900neo and the Boeing 787-10, to replace",
         "source": "",
-        "date": "Sep 06, 2026",
-        "date_sort": 1788689298.0,
+        "date": "Sep 07, 2026",
+        "date_sort": 1788795708.0,
+        "score": 3
+      },
+      {
+        "title": "How The Boeing 787-10 Dreamliner Quietly Moved In On Routes Once Owned By The Airbus A350",
+        "url": "https://simpleflying.com/how-boeing-787-10-dreamliner-quietly-moved-in-routes-once-owned-airbus-a350/",
+        "summary": "The 787 and A350 are becoming even more competitive with one another.",
+        "source": "Simple Flying",
+        "date": "Sep 07, 2026",
+        "date_sort": 1788796874.0,
         "score": 1
       },
       {
-        "title": "Why Pilots Fly Final Approach At Exactly 1.3 Times The Stall Speed",
-        "url": "https://simpleflying.com/why-pilots-fly-final-approach-exactly-1-3-times-stall-speed/",
-        "summary": "The approach is always a highly critical stage of flight, demanding strict adherence to speeds calculated at 1.3 times the stall speed. But why?",
+        "title": "Tail Collapses As Preserved Airbus A340 Catches Fire At Turkish Museum",
+        "url": "https://simpleflying.com/ex-turkish-airlines-airbus-a340-fire/",
+        "summary": "The jet had been in preservation for around a decade before its fiery demise.",
         "source": "Simple Flying",
-        "date": "Sep 06, 2026",
-        "date_sort": 1788688814.0,
+        "date": "Sep 07, 2026",
+        "date_sort": 1788794522.0,
         "score": 1
       },
       {
-        "title": "Delta Air Lines Slashes 4 More Routes From New York & Las Vegas This Winter",
-        "url": "https://simpleflying.com/delta-air-lines-slashes-4-more-routes-new-york-las-vegas/",
-        "summary": "Domestic links from New York JFK, LaGuardia and Las Vegas will disappear in November and December.",
+        "title": "Lost Tool? Airbus Delays Hit A330neo Deliveries & Premium-Heavy Rollout On US Flights",
+        "url": "https://simpleflying.com/airbus-a330neo-delivery-pause-lost-tool/",
+        "summary": "Deliveries were paused for several months earlier this year.",
         "source": "Simple Flying",
-        "date": "Sep 06, 2026",
-        "date_sort": 1788688589.0,
+        "date": "Sep 07, 2026",
+        "date_sort": 1788787948.0,
         "score": 1
       }
     ]
@@ -66,13 +66,22 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Luto en el básquetbol chileno: fallece histórico entrenador Carlos Iglesias",
-        "url": "https://www.latercera.com/el-deportivo/noticia/luto-en-el-basquetbol-chileno-fallece-historico-entrenador-carlos-iglesias/",
-        "summary": "El recordado técnico argentino radicado en Chile hace casi medio siglo falleció este sábado en Temuco tras batallar contra una dura enfermedad.",
+        "title": "La Moneda y el Congreso presionan el acelerador en seguridad: el aumento del plazo de flagrancia podría ser el primero en despacharse de la ACOT",
+        "url": "https://www.latercera.com/politica/noticia/la-moneda-y-el-congreso-presionan-el-acelerador-en-seguridad-el-aumento-del-plazo-de-flagrancia-podria-ser-el-primero-en-despacharse-de-la-acot/",
+        "summary": "El proyecto que aumenta el plazo máximo de flagrancia ante hechos ilícitos, de 12 a 24 horas, podría ser despachado este martes por el Senado, con lo que quedaría en condiciones de pasar a la Cámara y convertirse en el primer proyecto de la ACOT en convertirse en ley. Los nudos siguen estando, en to…",
         "source": "La Tercera",
-        "date": "Sep 05, 2026",
-        "date_sort": 1788651931.0,
+        "date": "Sep 07, 2026",
+        "date_sort": 1788768000.0,
         "score": 7
+      },
+      {
+        "title": "Récord de inversión en el SEIA: en casi seis meses de Kast se registran US$ 33 mil millones aprobados y triplica gobiernos previos",
+        "url": "https://www.latercera.com/pulso/noticia/record-de-inversion-en-el-seia-en-casi-seis-meses-de-kast-se-registran-us-33-mil-millones-aprobados-y-triplica-gobiernos-previos/",
+        "summary": "La inversión aprobada ambientalmente desde que asumió el gobierno en marzo y hasta el cierre de agosto, es el mayor monto registrado para los primeros casi seis meses de un gobierno, al menos en las últimas dos décadas. De hecho, las administraciones anteriores tardaron entre un año y medio y más do…",
+        "source": "La Tercera",
+        "date": "Sep 07, 2026",
+        "date_sort": 1788768000.0,
+        "score": 5
       },
       {
         "title": "CEO de Colbún: “El principal desafío como sector es utilizar la abundancia de energía que tenemos”",
@@ -81,15 +90,6 @@
         "source": "La Tercera",
         "date": "Sep 06, 2026",
         "date_sort": 1788688800.0,
-        "score": 5
-      },
-      {
-        "title": "Lágrimas, respeto y una ‘bendición’: el día en que la Roja retiró por primera vez a Messi de la selección argentina",
-        "url": "https://www.latercera.com/el-deportivo/noticia/lagrimas-respeto-y-una-bendicion-el-dia-en-que-la-roja-retiro-por-primera-vez-a-messi-de-la-seleccion-argentina/",
-        "summary": "La Pulga puso fin a su paso por Argentina. El recorrido será recordado por el título de Qatar, pero también por las decepciones que sufrió ante Chile. Un dirigente, exjugadores y el utilero recuerdan cuando lo jubilaron en la Copa América Centenario.",
-        "source": "La Tercera",
-        "date": "Sep 05, 2026",
-        "date_sort": 1788660465.0,
         "score": 5
       },
       {
@@ -127,12 +127,12 @@
     "color": "#6366f1",
     "articles": [
       {
-        "title": "CD sales are booming as physical media continues its resurgence",
-        "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-        "summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percen…",
-        "source": "The Verge",
-        "date": "Sep 05, 2026",
-        "date_sort": 1788626973.0,
+        "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+        "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+        "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+        "source": "WIRED",
+        "date": "Sep 07, 2026",
+        "date_sort": 1788777000.0,
         "score": 5
       },
       {
@@ -163,21 +163,21 @@
         "score": 5
       },
       {
-        "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-        "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-        "summary": "To get started with competitive Pok&#233;mon battles, all you need is your phone. But to compete at the highest level, like at the Pok&#233;mon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pok&#233;mon Champions originally launc…",
-        "source": "The Verge",
-        "date": "Sep 06, 2026",
-        "date_sort": 1788699600.0,
+        "title": "The 57 Best Deals From the REI Labor Day Sale",
+        "url": "https://www.wired.com/story/rei-labor-day-sale-2026/",
+        "summary": "Labor Day already? Say it ain’t so. Today is the last day to shop the best deals on WIRED-tested outdoor gear from REI, Nemo, MSR, Coleman, and more during REI’s Labor Day sale.",
+        "source": "WIRED",
+        "date": "Sep 07, 2026",
+        "date_sort": 1788788010.0,
         "score": 3
       },
       {
-        "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
-        "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
-        "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
-        "source": "WIRED",
-        "date": "Sep 06, 2026",
-        "date_sort": 1788688800.0,
+        "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+        "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va…",
+        "source": "MIT Technology Review",
+        "date": "Sep 07, 2026",
+        "date_sort": 1788783000.0,
         "score": 3
       }
     ]
@@ -188,13 +188,22 @@
     "color": "#22c55e",
     "articles": [
       {
-        "title": "Reform continues to cast doubt on climate science. Do its supporters agree?",
-        "url": "https://www.theguardian.com/politics/2026/sep/05/reform-continues-to-cast-doubt-on-climate-science-do-its-supporters-agree",
-        "summary": "Climate scepticism is common at the Reform party conference, but many also criticise Labour for failing to protect Britons from hot weatherOn the second day of the Reform UK conference, in the wake of an undercover investigation alleging party officials plotted to evade the law on foreign donations,…",
+        "title": "Heatwaves and wildfires are setting back air quality improvements, UN finds",
+        "url": "https://www.theguardian.com/environment/2026/sep/07/heatwaves-wildfires-setting-back-air-quality-improvements-un-finds",
+        "summary": "WMO report details extreme weather events causing climatic feedback loop with serious health consequencesBig increases in wildfires and heatwaves supercharged by the climate crisis are hindering improvements to air quality around the world, UN experts have said.Regions that had recorded a fall in po…",
         "source": "Environment | The Guardian",
-        "date": "Sep 05, 2026",
-        "date_sort": 1788606034.0,
-        "score": 13
+        "date": "Sep 07, 2026",
+        "date_sort": 1788780934.0,
+        "score": 11
+      },
+      {
+        "title": "We’re the mayors of Paris, Milan and Phoenix. The heat crisis has us all facing the same question | Emmanuel Grégoire, Giuseppe Sala and Kate Gallego",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/07/heat-climate-crisis-paris-milan-phoenix",
+        "summary": "Our three cities are learning from each other about how to protect residents. These climate policies are also public health measuresThis summer, mayors met in London during the heatwave that ironically threatened to derail London Climate Action Week.As temperatures broke records across the UK and Eu…",
+        "source": "Environment | The Guardian",
+        "date": "Sep 07, 2026",
+        "date_sort": 1788768028.0,
+        "score": 11
       },
       {
         "title": "Temperature check: alarm as prediction markets lean into weather and climate bets",
@@ -215,30 +224,21 @@
         "score": 8
       },
       {
+        "title": "Record strength El Niño could mean bigger supermarket bills for Australians, experts warn",
+        "url": "https://www.theguardian.com/business/2026/sep/08/record-strength-el-nino-could-mean-bigger-supermarket-bills-for-australians-experts-warn",
+        "summary": "Predicted hot and dry weather in growing areas in eastern Australia identified as ‘one of the key issues’ that will affect food prices over next 12 monthsGet our breaking news email, free app or daily news podcastThe most severe El Niño weather event on record threatens to push food prices higher th…",
+        "source": "Environment | The Guardian",
+        "date": "Sep 07, 2026",
+        "date_sort": 1788793224.0,
+        "score": 7
+      },
+      {
         "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
         "url": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
         "summary": "Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisisThe greenest campaigners against climate change have long suffered from a crippling shortcoming: they too often frame the challenge as a problem of excess consumption. This motivates calls to “degrow” t…",
         "source": "Environment | The Guardian",
         "date": "Sep 06, 2026",
         "date_sort": 1788692403.0,
-        "score": 7
-      },
-      {
-        "title": "UK subsidence claims surge after hottest summer on record",
-        "url": "https://www.theguardian.com/business/2026/sep/05/uk-insurers-surge-subsidence-claims-hottest-summer-on-record",
-        "summary": "Insurers in England and Wales tell of busy August with one reporting near-140% jump in claims UK insurers are experiencing a surge in the number of homeowners making claims for subsidence after the hottest summer on record, with Hastings Direct reporting a near 140% jump to an all-time high for Augu…",
-        "source": "Environment | The Guardian",
-        "date": "Sep 05, 2026",
-        "date_sort": 1788588030.0,
-        "score": 7
-      },
-      {
-        "title": "Albanese’s resources minister celebrating the Beetaloo carbon bomb is a hell of a choice. Labor can’t say it wasn’t warned | Clear Air",
-        "url": "https://www.theguardian.com/environment/commentisfree/2026/sep/04/beetaloo-carbon-bomb-labor-cant-say-it-wasnt-warned",
-        "summary": "Scientists will be able to estimate the amount of heating and destruction caused by the gas ultimately drawn from the BeetalooGet our breaking news email, free app or daily news podcastA giant chunk of glacier-covered mountain has collapsed with catastrophic effect and, whatever the mechanics of the…",
-        "source": "Environment | The Guardian",
-        "date": "Sep 03, 2026",
-        "date_sort": 1788487247.0,
         "score": 7
       }
     ]
@@ -248,6 +248,15 @@
     "icon": "🔬",
     "color": "#0ea5e9",
     "articles": [
+      {
+        "title": "Study to reveal more about Guernsey's wild ferrets",
+        "url": "https://www.bbc.co.uk/news/articles/c770vv8r888o?at_medium=RSS&at_campaign=rss",
+        "summary": "A conservation group has been spending a year studying wild ferrets after securing government funds.",
+        "source": "BBC News",
+        "date": "Sep 07, 2026",
+        "date_sort": 1788780597.0,
+        "score": 4
+      },
       {
         "title": "How the hair of a museum bear is helping tackle wildlife crime",
         "url": "https://www.bbc.co.uk/news/articles/cz6z3306z66o?at_medium=RSS&at_campaign=rss",
@@ -291,15 +300,6 @@
         "source": "BBC News",
         "date": "Sep 02, 2026",
         "date_sort": 1788347422.0,
-        "score": 4
-      },
-      {
-        "title": "Is Donald Trump 'supplying all that money' to Nasa?",
-        "url": "https://www.bbc.co.uk/news/videos/c158qg542g4o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Verify fact checks President Trump's funding claims about Nasa.",
-        "source": "BBC News",
-        "date": "Sep 02, 2026",
-        "date_sort": 1788343107.0,
         "score": 4
       }
     ]
