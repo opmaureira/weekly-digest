@@ -5,57 +5,57 @@
     "color": "#f59e0b",
     "articles": [
       {
-        "title": "Turkish Airlines Launches New 22-Hour Ultra-Long Route: See Map Now",
-        "url": "https://simpleflying.com/turkish-airlines-launches-new-22-hour-route/",
-        "summary": "Turkish Airlines reroutes its Sydney flights through Singapore, strengthening Australian connections while preparing for future nonstop services.",
+        "title": "Air Transat Launches New 11-Hour Nonstop Route Today: See Map Now",
+        "url": "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/",
+        "summary": "Air Transat launches Montreal–Istanbul flights, strengthens its Turkish Airlines partnership, and announces five new European routes for 2027.",
         "source": "Simple Flying",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793200757.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793292493.0,
+        "score": 5
+      },
+      {
+        "title": "TAP Air Portugal Launches Major New 9-Hour Nonstop US Route Today: See Map Now",
+        "url": "https://simpleflying.com/tap-air-portugal-launches-major-new-9-hour-nonstop-us-route-today/",
+        "summary": "With the latest addition, the airline now flies to nine US cities.",
+        "source": "Simple Flying",
+        "date": "Oct 29, 2026",
+        "date_sort": 1793278878.0,
+        "score": 5
+      },
+      {
+        "title": "Lufthansa Launches Historic 1st Airbus A350-1000 Flight In 5 Weeks: See Map Now",
+        "url": "https://simpleflying.com/lufthansa-launches-historic-1st-a350-1000-flight-5-weeks/",
+        "summary": "Lufthansa's first Airbus A350-1000 route launches in December, bringing new Allegris cabins and premium capacity to three Asian destinations.",
+        "source": "Simple Flying",
+        "date": "Oct 29, 2026",
+        "date_sort": 1793284021.0,
         "score": 3
       },
       {
-        "title": "Qatar Airways Cancels All A380 Flights On Major Long-Haul Route: See Map Now",
-        "url": "https://simpleflying.com/qatar-airways-cancels-all-a380-flights-on-major-long-haul-route/",
-        "summary": "Until last week, the airline had planned to return A380 on the route from late March 2027.",
+        "title": "How American Airlines' New Flagship Suite Stacks Up Against Delta One In 2026",
+        "url": "https://simpleflying.com/american-airlines-new-flagship-suite-stacks-up-delta-one-2026/",
+        "summary": "Which is better: American Airlines' Flagship Suite or Delta Air Lines' Delta One product? Here is how they both compare in 2026.",
         "source": "Simple Flying",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793192418.0,
-        "score": 3
-      },
-      {
-        "title": "How Much A Boeing 737 Costs Airlines Per Seat Compared To An Airbus A320",
-        "url": "https://simpleflying.com/how-much-boeing-737-costs-airlines-per-seat-compared-to-airbus-a320/",
-        "summary": "Cost per seat is the metric that reveals all.",
-        "source": "Simple Flying",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793205918.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793293218.0,
         "score": 1
       },
       {
-        "title": "WestJet Cancels All Flights To 15 Destinations: See Full List Now",
-        "url": "https://simpleflying.com/westjet-cancels-all-flights-15-destinations/",
-        "summary": "One of Canada's leading airlines has made some big cuts to its international network.",
+        "title": "Azimuth Sukhoi Superjet 100 Squawks 7700, Returns To Yerevan After Technical Malfunction",
+        "url": "https://simpleflying.com/azimuth-sukhoi-superjet-100-emergency-return-yerevan/",
+        "summary": "The Russian jet was flying over Armenia for just 20 minutes before it returned to Yerevan.",
         "source": "Simple Flying",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793204181.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793291538.0,
         "score": 1
       },
       {
-        "title": "Is The World's Best Low-Cost Airline Really That Good? My Experience After Dozens Of Flights",
-        "url": "https://simpleflying.com/airasia-flight-review-2026/",
-        "summary": "AirAsia is arguably one of the best low-cost carriers in Southeast Asia, offering hassle-free, affordable regional travel.",
+        "title": "Delta Air Lines Is The Only US Legacy Carrier That Doesn't Want The Airbus A321XLR",
+        "url": "https://simpleflying.com/delta-air-lines-only-us-legacy-carrier-doesnt-want-airbus-a321xlr/",
+        "summary": "The story behind Delta's reluctance to invest in long-haul narrowbodies.",
         "source": "Simple Flying",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793203219.0,
-        "score": 1
-      },
-      {
-        "title": "Delta Air Lines Has 165,000 Seatback Screens, But The Personalized SkyMiles Version Reaches Only 45% Of The Fleet",
-        "url": "https://simpleflying.com/delta-air-lines-165000-seatback-screens-personalized-skymiles-version-reaches-45-percent-fleet/",
-        "summary": "Delta leads US carriers on seatback screens, but the personalized SkyMiles interface runs on only 470 of its aircraft.",
-        "source": "Simple Flying",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793199258.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793286079.0,
         "score": 1
       }
     ]
@@ -66,40 +66,31 @@
     "color": "#ef4444",
     "articles": [
       {
-        "title": "Crisis Rabat: la rabia que acumula el Partido Republicano con Chile Vamos (y por qué se niega a soltarla)",
-        "url": "https://www.latercera.com/politica/noticia/crisis-rabat-la-rabia-que-acumula-el-partido-republicano-con-chile-vamos-y-por-que-se-niega-a-soltarla/",
-        "summary": "En la colectividad reconocen que están molestos con la UDI y RN por el llamado que han hecho los parlamentarios de esos partidos a que Fernando Rabat dé un paso al costado. Sin embargo, han optado por el silencio para no acrecentar la pugna dentro del sector. Eso sí, algunos republicanos adelantan q…",
+        "title": "Crisis por rebaja de penas: Hoffmann acusa a la izquierda de buscar “desestabilizar” a Kast y lo compara con era Piñera",
+        "url": "https://www.latercera.com/politica/noticia/crisis-por-rebaja-de-penas-hoffmann-acusa-a-la-izquierda-de-buscar-desestabilizar-a-kast-y-lo-compara-con-era-pinera/",
+        "summary": "La vicepresidenta de la UDI también planteó que el oficialismo está “pagando la cuenta por no tener una coalición política” y dijo que el futuro de la AC contra el ministro Rabat probablemente quede en manos de la tienda de Parisi. “Aquí la balanza la marca el PDG”, señaló.",
         "source": "La Tercera",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793205000.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793279548.0,
         "score": 5
       },
       {
-        "title": "Desde la Redacción: entrevista a Gustavo Sanhueza, Marco Antonio Sulantay y Jorge Guzmán",
-        "url": "https://www.latercera.com/videos/noticia/desde-la-redaccion-entrevista-a-gustavo-sanhueza-marco-antonio-sulantay-y-jorge-guzman/",
-        "summary": "Ad portas de la exposición que realizará el ministro de Justicia, Fernando Rabat, ante la Cámara por la controversia de la rebaja de condenas, y en medio de una creciente presión, voces del oficialismo ya han salido a quitarle piso al secretario de Estado. En el programa de streaming de La Tercera, …",
+        "title": "¿Impecables decretos?",
+        "url": "https://www.latercera.com/videos/noticia/impecables-decretos/",
+        "summary": "En un nuevo capítulo de Cómo te lo explico, las periodistas Mónica Rincón y Paula Catena analizan la crisis más grande que ha enfrentado el gobierno del Presidente Kast hasta ahora: la rebaja de condena a 56 sentenciados por casos de violaciones y abusos sexuales a menores, la frágil situación que e…",
         "source": "La Tercera",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793202844.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793275618.0,
         "score": 5
       },
       {
-        "title": "Susana Jiménez cierra su ciclo en la Enade con un llamado a la inversión: “Estuvimos como 10 años hibernando”",
-        "url": "https://www.latercera.com/pulso/noticia/susana-jimenez-cierra-su-ciclo-en-la-enade-con-un-llamado-a-la-inversion-estuvimos-como-10-anos-hibernando/",
-        "summary": "La presidenta de la CPC sostuvo que es momento de que las empresas vuelvan a apostar por el país. Junto con destacar la megarreforma del gobierno, la dirigente gremial dijo que Chile estuvo cerca de alcanzar el desarrollo, pero que es una meta “perfectamente posible\".",
-        "source": "La Tercera",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793193725.0,
-        "score": 5
-      },
-      {
-        "title": "Lula miraculously beat the Brazilian far right and Donald Trump. But have no doubt: the region is still in peril | Jordana Timmerman",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election",
-        "summary": "After the rejoicing, it will be vital to learn the lessons. The rightward shift is neither inevitable nor irreversible, but progressives cannot rest for a momentThe impossible happened. President Luiz Inácio Lula da Silva won a fourth term in Sunday’s runoff election in Brazil, overturning Flávio Bo…",
+        "title": "Flávio Bolsonaro’s defeat is a major blow to Trump and his orange wave",
+        "url": "https://www.theguardian.com/world/2026/oct/29/bolsonaro-defeat-trump-orange-wave",
+        "summary": "The far-right candidate was supposed to claim the presidency, but Brazilian voters had other ideasFor Donald Trump, Brazil’s presidential election was meant to represent the crest of the “orange wave” – a three-year surge of rightwing triumphs that has reshaped Latin American politics in the US pres…",
         "source": "Americas | The Guardian",
-        "date": "Oct 26, 2026",
-        "date_sort": 1793027470.0,
-        "score": 11
+        "date": "Oct 29, 2026",
+        "date_sort": 1793268032.0,
+        "score": 5
       },
       {
         "title": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
@@ -118,6 +109,15 @@
         "date": "Oct 26, 2026",
         "date_sort": 1793040014.0,
         "score": 7
+      },
+      {
+        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
+        "source": "BBC News",
+        "date": "Oct 29, 2026",
+        "date_sort": 1793285908.0,
+        "score": 4
       }
     ]
   },
@@ -127,57 +127,57 @@
     "color": "#6366f1",
     "articles": [
       {
-        "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-        "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-        "summary": "Despite the agency's human resources department saying he hadn’t even been onboarded, Jeremy Lewin oversaw the destruction of USAID. It’s not clear he had the legal authority to do so.",
+        "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+        "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+        "summary": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
         "source": "WIRED",
-        "date": "Oct 27, 2026",
-        "date_sort": 1793118274.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793244886.0,
+        "score": 7
+      },
+      {
+        "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+        "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+        "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
+        "source": "WIRED",
+        "date": "Oct 28, 2026",
+        "date_sort": 1793217600.0,
         "score": 5
       },
       {
-        "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
-        "url": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
-        "summary": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors. Bu…",
+        "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
+        "url": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
+        "summary": "The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart. Once the game launches, the physical version will almost ce…",
         "source": "The Verge",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793205212.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793283885.0,
         "score": 3
       },
       {
-        "title": "The Download: dead startups fueling AI and interspecies communication",
-        "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data w…",
+        "title": "The Download: AI agent tracking and climate feedback loops",
+        "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit …",
         "source": "MIT Technology Review",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793189400.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793275800.0,
         "score": 3
       },
       {
-        "title": "Pairing industrial AI autonomy and human control",
-        "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-        "summary": "",
-        "source": "MIT Technology Review",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793188800.0,
-        "score": 3
-      },
-      {
-        "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-        "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-        "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+        "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+        "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+        "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
         "source": "WIRED",
-        "date": "Oct 27, 2026",
-        "date_sort": 1793129944.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793270700.0,
         "score": 3
       },
       {
-        "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-        "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages…",
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus…",
         "source": "MIT Technology Review",
-        "date": "Oct 27, 2026",
-        "date_sort": 1793103000.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793268672.0,
         "score": 3
       }
     ]
@@ -206,39 +206,39 @@
         "score": 7
       },
       {
-        "title": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
-        "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
-        "summary": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
-        "source": "Environment | The Guardian",
-        "date": "Oct 23, 2026",
-        "date_sort": 1792756826.0,
-        "score": 7
+        "title": "Serious pollution by water industry remains high despite £5bn investment",
+        "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+        "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
+        "source": "BBC News",
+        "date": "Oct 29, 2026",
+        "date_sort": 1793275681.0,
+        "score": 6
       },
       {
-        "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-        "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billionsDonald Trump said his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane during a rally in Lubbock, Texa…",
+        "title": "Eight of England’s nine water companies still failing on environment, report finds",
+        "url": "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
+        "summary": "Angela Eagle tells industry ‘people are sick of excuses’ as pollution levels remain high despite billions in investmentAngela Eagle, the environment secretary, has summoned water industry bosses to Whitehall after a report found that the environmental performance of the big companies has worsened de…",
         "source": "Environment | The Guardian",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793197829.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793291988.0,
         "score": 5
       },
       {
-        "title": "Mark Carney is celebrated abroad – while consolidating power at home | Shiri Pasternak",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/28/mark-carney-trump-davos",
-        "summary": "The Canadian prime minister’s reckoning with Trumpism in Davos clashes with his attacks on environmental, Indigenous and labour rightsThe Canadian prime minister is a hero around the world for his Davos speech that reckoned with a reconfiguration of power in the shadow of Donald Trump.But at home, M…",
+        "title": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
+        "url": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
+        "summary": "Authorities allege company may have breached Finnish environmental laws by forgoing required impact assessment‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentreFinnish ⁠police have launched a criminal investigation into possible breaches ⁠of the country’s envir…",
         "source": "Environment | The Guardian",
-        "date": "Oct 28, 2026",
-        "date_sort": 1793192404.0,
+        "date": "Oct 29, 2026",
+        "date_sort": 1793285505.0,
         "score": 5
       },
       {
-        "title": "The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health",
-        "url": "https://insideclimatenews.org/news/27102026/lagging-global-climate-action-health-harms/",
-        "summary": "A decade after world leaders signed the legally binding Paris Agreement to combat climate change, the crisis’ health harms are getting worse and progress is lagging, according to a new report from leading international scientists. The 10th annual Lancet Countdown report, published Tuesday, is author…",
-        "source": "Inside Climate News",
-        "date": "Oct 27, 2026",
-        "date_sort": 1793145660.0,
+        "title": "Angry Labour MPs urge leadership not to overrule energy secretary on Rosebank",
+        "url": "https://www.theguardian.com/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey",
+        "summary": "Exclusive: Backbenchers voice alarm over ‘intolerable position’ faced by Miatta Fahnbulleh over oilfield decisionFurious Labour MPs have been lobbying the prime minister and chancellor not to overrule the energy secretary should she decide to block the Rosebank oilfield.MPs say they are alarmed at t…",
+        "source": "Environment | The Guardian",
+        "date": "Oct 29, 2026",
+        "date_sort": 1793253626.0,
         "score": 5
       }
     ]
@@ -249,6 +249,15 @@
     "color": "#0ea5e9",
     "articles": [
       {
+        "title": "128,000-year-old ice in Tibet could rewrite climate history",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+        "summary": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into the last ice age and could reshape our understanding of how glaciers survive dram…",
+        "source": "Latest Science News -- ScienceDaily",
+        "date": "Oct 29, 2026",
+        "date_sort": 1793261447.0,
+        "score": 5
+      },
+      {
         "title": "Do spiders dream? Scientists just found a surprising clue",
         "url": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
         "summary": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumping spider Portia fimbriata, a remarkably clever hunter known for its sophisticat…",
@@ -256,6 +265,24 @@
         "date": "Oct 27, 2026",
         "date_sort": 1793076791.0,
         "score": 5
+      },
+      {
+        "title": "BBC Inside Science",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
+        "summary": "Time is running out for one of the most ambitious environmental pledges in history.",
+        "source": "BBC News",
+        "date": "Oct 29, 2026",
+        "date_sort": 1793293200.0,
+        "score": 4
+      },
+      {
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "source": "BBC News",
+        "date": "Oct 28, 2026",
+        "date_sort": 1793214958.0,
+        "score": 4
       },
       {
         "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
@@ -273,33 +300,6 @@
         "source": "BBC News",
         "date": "Oct 27, 2026",
         "date_sort": 1793106710.0,
-        "score": 4
-      },
-      {
-        "title": "What is Nasa's Artemis III mission? And what comes next?",
-        "url": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028.",
-        "source": "BBC News",
-        "date": "Oct 27, 2026",
-        "date_sort": 1793097206.0,
-        "score": 4
-      },
-      {
-        "title": "Part of Antarctica named after former BBC science correspondent",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-        "summary": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-        "source": "BBC News",
-        "date": "Oct 26, 2026",
-        "date_sort": 1793026480.0,
-        "score": 4
-      },
-      {
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-        "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-        "source": "BBC News",
-        "date": "Oct 25, 2026",
-        "date_sort": 1792918800.0,
         "score": 4
       }
     ]
